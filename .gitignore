@@ -1,8 +1,11 @@
-data/raw/
-data/processed/
+data/
 *.wav
 *.mp3
 __pycache__/
 *.pyc
 .env
 venv/
+archive/
+*.venv
+.DS_Store
+/.vscode
