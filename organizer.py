@@ -1,5 +1,5 @@
 import os
-
+ 
 # MUST be set before ANY other imports
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OMP_NUM_THREADS"] = "1"
@@ -9,11 +9,9 @@ import shutil
 from pathlib import Path
 import torch
 
-# Import your classifier
-from processing_script import classify_samples
+from processing import classify_samples
 
 def organize_my_drums(source_dir: str, output_dir: str):
-    # Disable PyTorch's internal multithreading which causes Bus Errors on Mac
     torch.set_num_threads(1)
     
     source_path = Path(source_dir).resolve()
@@ -21,7 +19,7 @@ def organize_my_drums(source_dir: str, output_dir: str):
 
     # 1. Collect files
     file_registry = {}
-    extensions = {'.wav', '.aif', '.aiff', '.mp3', '.flac'}
+    extensions = {'.wav', '.aif', '.aiff', '.mp3', '.flac', '.snd','.WAV', '.AIF', '.AIFF', '.MP3', '.FLAC', '.SND'}
     
     print(f"--- Scanning {source_path} ---")
     for file in source_path.rglob('*'):
@@ -31,9 +29,13 @@ def organize_my_drums(source_dir: str, output_dir: str):
     if not file_registry:
         print("No audio files found!")
         return
+    
+    with open("file_registry.txt", "w") as f:
+        for filename, paths in file_registry.items():
+            f.write(f"{filename}\n")
 
     # 2. Run Classification
-    # We process in a single main thread to avoid the Bus Error
+    # Single main thread to avoid bus error on mac
     print(f"Classifying {len(file_registry)} unique filenames...")
     try:
         results = classify_samples(list(file_registry.keys()))
@@ -61,7 +63,6 @@ def organize_my_drums(source_dir: str, output_dir: str):
         print("\nProcess finished.")
 
 if __name__ == "__main__":
-    # Final safety: Use 'spawn' instead of 'fork' for macOS stability
     import multiprocessing
     try:
         multiprocessing.set_start_method('spawn', force=True)

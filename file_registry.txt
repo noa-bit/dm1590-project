@@ -1,0 +1,6884 @@
+p-snr2.wav
+p-hhc1.wav
+gd-perc3.wav
+gd-tom4.wav
+gd-tom5.wav
+gd-perc2.wav
+p-snr1.wav
+p-hho1.wav
+p-hhc2.wav
+gd-tom7.wav
+gd-perc1.wav
+gd-tom6.wav
+p-hhc3.wav
+gd-snr9.wav
+gd-tom2.wav
+gd-tom3.wav
+gd-snr8.wav
+p-fx1.wav
+p-kick2.wav
+tt-snr1.wav
+tt-kick1.wav
+gd-snr10.wav
+gd-tom1.wav
+gd-snr11.wav
+gd-crsh1.wav
+p-kick1.wav
+p-tamb1.wav
+gd-rim1.wav
+tc-hh1.wav
+us-stick.wav
+tc-hh2.wav
+gd-ride1.wav
+tc-snr1.wav
+tc-kick1.wav
+p-rim1.wav
+gd-snr6.wav
+gd-kick1.wav
+gd-snr7.wav
+gd-snr5.wav
+gd-kick2.wav
+gd-kick3.wav
+gd-snr4.wav
+gd-snr1.wav
+gd-snr3.wav
+gd-tom8.wav
+gd-hhc1.wav
+gd-snr2.wav
+MaxV - Wood.wav
+MaxV - HH Cl.wav
+MaxV - Kick.wav
+MaxV - Kick2.wav
+MaxV - Snare.wav
+MaxV - Ride.wav
+MaxV - HH.wav
+MaxV - Conga.wav
+MaxV - HH Op.wav
+MaxV - Tom.wav
+MaxV - Clave.wav
+MaxV - Snap.wav
+MaxV - Clave2.wav
+MaxV - VCS3 FX 06.aiff
+MaxV - VCS3 FX 07.aiff
+MaxV - VCS3 FX 01.aiff
+MaxV - VCS3 FX 02.aiff
+MaxV - VCS3 FX 01.wav
+MaxV - VCS3 FX 04.aiff
+MaxV - VCS3 FX 02.wav
+MaxV - VCS3 FX 06.wav
+MaxV - VCS3 FX 05.aiff
+MaxV - VCS3 FX 07.wav
+MaxV - VCS3 FX 05.wav
+MaxV - VCS3 FX 04.wav
+MaxV - Conga Hi.wav
+MaxV - Bongo Lo.wav
+MaxV - Bongo Mi.wav
+MaxV - Tom Hi.wav
+MaxV - Tom Lo.wav
+MaxV - Bongo Hi.wav
+MaxV - Tom Mi.wav
+MaxV - Conga Mi.wav
+MaxV - Conga Lo.wav
+RX21Tom_Lo.wav
+RX21Hat_O.wav
+RX21Kick.wav
+RX21Clap.wav
+RX21Tom_Hi.wav
+RX21Crash.wav
+RX21Tom_Mid.wav
+RX21Hat_C.wav
+RX21Snare.wav
+la-snpsd.wav
+la-clav.wav
+la-hitm2.wav
+la-ophh.wav
+la-hitm3.wav
+la-mdnat.wav
+la-china.wav
+la-swhsl.wav
+la-hitm1.wav
+la-crsh1.wav
+la-locga.wav
+la-natbd.wav
+la-hitbl.wav
+la-hibgo.wav
+la-sd1.wav
+la-rideh.wav
+la-cowbl.wav
+la-hpttm.wav
+la-trian.wav
+la-lwhsl.wav
+la-hrdsd.wav
+la-cup.wav
+la-mdtm2.wav
+la-shtsd.wav
+la-castg.wav
+la-hinat.wav
+la-scrsh.wav
+la-mdtm1.wav
+la-clhh.wav
+la-gtsd.wav
+la-hiago.wav
+la-pdhh.wav
+la-lpttm.wav
+la-lotm1.wav
+la-hicga.wav
+la-marac.wav
+la-tamb1.wav
+la-lotm2.wav
+la-bd1.wav
+la-lotm3.wav
+la-lobgo.wav
+la-wetbd.wav
+la-wdblk.wav
+la-lbrsh.wav
+la-shakr.wav
+la-sride.wav
+la-ridee.wav
+la-mpttm.wav
+la-lotbl.wav
+la-fansd.wav
+la-quijd.wav
+la-mride.wav
+la-synsd.wav
+la-bell.wav
+la-claps.wav
+la-gtbd.wav
+la-loago.wav
+la-rim.wav
+la-sbrsh.wav
+la-mdcga.wav
+la-lonat.wav
+MaxV - DRUM13.wav
+MaxV - DRUM12.wav
+MaxV - DRUM10.wav
+MaxV - C3FXRAIN.wav
+MaxV - DRUM11.wav
+MaxV - ROCKPERC.wav
+MaxV - DRUM14.wav
+MaxV - CLNELGT.wav
+MaxV - C3PERCOR.wav
+MaxV - DRUM2.wav
+MaxV - DRUM3.wav
+MaxV - C3STREN1.wav
+MaxV - C3ORCHHT.wav
+MaxV - DRUM1.wav
+MaxV - DRUM4.wav
+MaxV - C3BRTPNO.wav
+MaxV - DRUM5.wav
+MaxV - DRUM7.wav
+MaxV - DRUM6.wav
+MaxV - C3AAHS.wav
+MaxV - DRUM8.wav
+MaxV - DRUM9.wav
+MaxV - C3RDORGN.wav
+MaxV - C3CHRORG.wav
+MaxV - C3ACPNO.wav
+MaxV - C1ACSBAS.wav
+MaxV - C3MUTGTR.wav
+MaxV - PRO3.wav
+MaxV - C3DSTGTR.wav
+MaxV - C3ROCKOR.wav
+02.wav
+16.wav
+03.wav
+15.wav
+01.wav
+00.wav
+14.wav
+10.wav
+04.wav
+05.wav
+11.wav
+07.wav
+13.wav
+12.wav
+06.wav
+08.wav
+09.wav
+MaxV - Snare2.wav
+MaxV - Gong.wav
+MaxV - Snare3.wav
+MaxV - Timpani.wav
+MaxV - Metal.wav
+MaxV - Elec Tom.wav
+MaxV - Kick4.wav
+MaxV - Clap.wav
+MaxV - Kick3.wav
+MaxV - Tom 1.wav
+MaxV - Tom 2.wav
+MaxV - DDD1 claps.wav
+MaxV - DDD1 rimshot.wav
+MaxV - DDD1 ophh1.wav
+MaxV - DDD1 cowbell.wav
+MaxV - DDD1 ophh2.wav
+MaxV - DDD1 snare2.wav
+MaxV - DDD1 tom1.wav
+MaxV - DDD1 snare1.wav
+MaxV - DDD1 tom2.wav
+MaxV - DDD1 tom3.wav
+MaxV - DDD1 crash.wav
+MaxV - DDD1 tambourine.wav
+MaxV - DDD1 ride.wav
+MaxV - DDD1 cabasa.wav
+MaxV - DDD1 clhh1.wav
+MaxV - DDD1 clhh2.wav
+MaxV - DDD1 bass2.wav
+MaxV - DDD1 bass1.wav
+SR16Guiro.wav
+SR16Crash01.wav
+SR16Rimshot.wav
+SR16Ride01.wav
+SR16Ride03.wav
+SR16Crash02.wav
+SR16Ride02.wav
+SR16Spark.wav
+SR16Hat_O4.wav
+SR16Snare02.wav
+SR16Kick04.wav
+SR16Kick10.wav
+SR16Kick11.wav
+SR16Kick05.wav
+SR16Snare03.wav
+SR16Snare01.wav
+SR16Kick13.wav
+SR16Kick07.wav
+SR16Kick06.wav
+SR16Kick12.wav
+SR16Hat_C1.wav
+SR16Hat_O2.wav
+SR16Conga.wav
+SR16Snare04.wav
+SR16Snare10.wav
+SR16Kick02.wav
+SR16Kick03.wav
+SR16Snare11.wav
+SR16Snare05.wav
+SR16Hat_O3.wav
+SR16Hat_C2.wav
+SR16Hat_O1.wav
+SR16Snare07.wav
+SR16Kick01.wav
+SR16Snare06.wav
+SR16Snare12.wav
+SR16Hat_C3.wav
+SR16Cowbell01.wav
+SR16FSnap.wav
+SR16Tamborine.wav
+SR16Tank.wav
+SR16Snare08.wav
+SR16Cowbell02.wav
+SR16Clap.wav
+SR16Snare09.wav
+SR16Timbale.wav
+SR16Triangle.wav
+SR16Kick08.wav
+SR16Kick09.wav
+SR16Bongo.wav
+SR16Block.wav
+SR16Shaker.wav
+XE8 Block 1 ext_14.wav
+XE8 Hat Open int_7.wav
+XE8 Hat Medium int_6.wav
+XE8 Sidestick ext_3.wav
+XE8 Kick ext_1.wav
+XE8 Ride int_14.wav
+XE8 Cowbell 2 ext_13.wav
+XE8 Hat Closed int_5.wav
+XE8 Kick 1 int_1.wav
+XE8 Clap int_15.wav
+XE8 Tom Low int_11.wav
+XE8 Tom High int_12.wav
+XE8 Ride ext_10.wav
+XE8 Tom 2 ext_7.wav
+XE8 Snare 3 int_10.wav
+XE8 Snare 2 int_9.wav
+XE8 Crack int_16.wav
+XE8 ElectroTom int_4.wav
+XE8 Hat Closed ext_4.wav
+XE8 Kick 2 int_2.wav
+XE8 Tom 4 ext_9.wav
+XE8 Cowbell 1 ext_12.wav
+XE8 Tom 1 ext_6.wav
+XE8 Snare 1 int_8.wav
+XE8 Tom 3 ext_8.wav
+XE8 Crash ext_11.wav
+XE8 Kick 3 int_3.wav
+XE8 Hat Open ext_5.wav
+XE8 Snare ext_2.wav
+XE8 Block 2 ext_15.wav
+XE8 Crash int_13.wav
+XE8 Orch ext_16.wav
+MaxV - Snare1.wav
+KK-Di909BD 64.wav
+KK-Di909BD 58.wav
+KK-Di909BD 59.wav
+KK-Di909BD 65.wav
+KK-Di909BD 66.wav
+KK-Di909BD 62.wav
+KK-Di909BD 63.wav
+KK-Di909BD 49.wav
+KK-Di909BD 61.wav
+KK-Di909BD 60.wav
+KK-Di909BD 48.wav
+KK-Di909BD 13.wav
+KK-Di909BD 07.wav
+KK-Di909BD 06.wav
+KK-Di909BD 12.wav
+KK-Di909BD 04.wav
+KK-Di909BD 10.wav
+KK-Di909BD 38.wav
+KK-Di909BD 39.wav
+KK-Di909BD 11.wav
+KK-Di909BD 05.wav
+KK-Di909BD 29.wav
+KK-Di909BD 01.wav
+KK-Di909BD 15.wav
+KK-Di909BD 14.wav
+KK-Di909BD 28.wav
+KK-Di909BD 16.wav
+KK-Di909BD 02.wav
+KK-Di909BD 03.wav
+KK-Di909BD 17.wav
+KK-Di909BD 32.wav
+KK-Di909BD 26.wav
+KK-Di909BD 27.wav
+KK-Di909BD 33.wav
+KK-Di909BD 25.wav
+KK-Di909BD 31.wav
+KK-Di909BD 19.wav
+KK-Di909BD 18.wav
+KK-Di909BD 30.wav
+KK-Di909BD 24.wav
+KK-Di909BD 08.wav
+KK-Di909BD 20.wav
+KK-Di909BD 34.wav
+KK-Di909BD 35.wav
+KK-Di909BD 21.wav
+KK-Di909BD 09.wav
+KK-Di909BD 37.wav
+KK-Di909BD 23.wav
+KK-Di909BD 22.wav
+KK-Di909BD 36.wav
+KK-Di909BD 51.wav
+KK-Di909BD 45.wav
+KK-Di909BD 44.wav
+KK-Di909BD 50.wav
+KK-Di909BD 46.wav
+KK-Di909BD 52.wav
+KK-Di909BD 53.wav
+KK-Di909BD 47.wav
+KK-Di909BD 43.wav
+KK-Di909BD 57.wav
+KK-Di909BD 56.wav
+KK-Di909BD 42.wav
+KK-Di909BD 54.wav
+KK-Di909BD 40.wav
+KK-Di909BD 41.wav
+KK-Di909BD 55.wav
+WAT_SD.wav
+WAT_HH3.wav
+WAT_HH2.wav
+WAT_SD2.wav
+WAT_BD.wav
+WAT_CLAV.wav
+MaxV - KR - Snaredrum 04.wav
+MaxV - KR - Open HH 03.wav
+MaxV - KR - Closed HH 01.wav
+MaxV - KR - Kick 02.wav
+RX11Hat_C.wav
+RX11Hat_P.wav
+RX11Crash.wav
+RX11Snare02.wav
+RX11Snare01.wav
+RX11Clap.wav
+RX11Rimshot.wav
+RX11Hat_O.wav
+RX11Kick.wav
+RX11Ride.wav
+MD16_077.wav
+MD16_063.wav
+MD16B035.wav
+MD16B021.wav
+MD16_103.wav
+MD16B009.wav
+MD16_117.wav
+MD16_089.wav
+MD16_048.wav
+MD16_060.wav
+MD16_101.wav
+MD16_115.wav
+MD16B037.wav
+MD16B023.wav
+MD16_129.wav
+MD16_075.wav
+MD16_061.wav
+MD16_065.wav
+MD16_071.wav
+MD16_111.wav
+MD16_105.wav
+MD16B027.wav
+MD16_139.wav
+MD16B033.wav
+MD16_058.wav
+MD16_099.wav
+MD16B025.wav
+MD16B031.wav
+MD16B019.wav
+MD16_113.wav
+MD16_107.wav
+MD16_067.wav
+MD16_073.wav
+MD16_000.wav
+MD16_160.wav
+MD16_174.wav
+MD16B043.wav
+MD16_149.wav
+MD16B057.wav
+MD16_001.wav
+MD16_015.wav
+MD16_029.wav
+MD16_003.wav
+MD16_017.wav
+MD16B041.wav
+MD16B055.wav
+MD16_162.wav
+MD16_176.wav
+MD16_172.wav
+MD16_166.wav
+MD16B051.wav
+MD16B045.wav
+MD16_013.wav
+MD16_007.wav
+MD16_011.wav
+MD16_005.wav
+MD16B053.wav
+MD16B047.wav
+MD16_158.wav
+MD16_170.wav
+MD16_164.wav
+MD16_038.wav
+MD16_009.wav
+MD16_021.wav
+MD16B063.wav
+MD16_141.wav
+MD16_155.wav
+MD16_182.wav
+MD16_168.wav
+MD16_034.wav
+MD16_036.wav
+MD16_156.wav
+MD16_180.wav
+MD16B049.wav
+MD16_143.wav
+MD16B061.wav
+MD16_023.wav
+MD16_027.wav
+MD16_153.wav
+MD16B059.wav
+MD16_147.wav
+MD16_184.wav
+MD16_032.wav
+MD16_178.wav
+MD16_186.wav
+MD16_151.wav
+MD16_145.wav
+MD16_019.wav
+MD16_025.wav
+MD16_031.wav
+MD16_056.wav
+MD16_042.wav
+MD16_095.wav
+MD16_081.wav
+MD16_137.wav
+MD16B029.wav
+MD16_123.wav
+MD16B001.wav
+MD16B015.wav
+MD16_069.wav
+MD16_109.wav
+MD16B003.wav
+MD16B017.wav
+MD16_135.wav
+MD16_121.wav
+MD16_097.wav
+MD16_083.wav
+MD16_054.wav
+MD16_040.wav
+MD16_044.wav
+MD16_050.wav
+MD16_087.wav
+MD16_093.wav
+MD16B013.wav
+MD16_119.wav
+MD16B007.wav
+MD16_125.wav
+MD16_131.wav
+MD16_079.wav
+MD16_127.wav
+MD16_133.wav
+MD16B039.wav
+MD16B011.wav
+MD16B005.wav
+MD16_085.wav
+MD16_091.wav
+MD16_046.wav
+MD16_052.wav
+MaxV - Proc - 26.wav
+MaxV - Proc - 32.wav
+MaxV - Proc - 33.wav
+MaxV - Proc - 27.wav
+MaxV - Proc - 31.wav
+MaxV - Proc - 25.wav
+MaxV - Proc - 19.wav
+MaxV - Proc - 18.wav
+MaxV - Proc - 24.wav
+MaxV - Proc - 30.wav
+MaxV - Proc - 08.wav
+MaxV - Proc - 34.wav
+MaxV - Proc - 20.wav
+MaxV - Proc - 21.wav
+MaxV - Proc - 35.wav
+MaxV - Proc - 09.wav
+MaxV - Proc - 23.wav
+MaxV - Proc - 37.wav
+MaxV - Proc - 36.wav
+MaxV - Proc - 22.wav
+MaxV - Proc - 45.wav
+MaxV - Proc - 51.wav
+MaxV - Proc - 50.wav
+MaxV - Proc - 44.wav
+MaxV - Proc - 52.wav
+MaxV - Proc - 46.wav
+MaxV - Proc - 47.wav
+MaxV - Proc - 53.wav
+MaxV - Proc - 57.wav
+MaxV - Proc - 43.wav
+MaxV - Proc - 42.wav
+MaxV - Proc - 56.wav
+MaxV - Proc - 68.wav
+MaxV - Proc - 40.wav
+MaxV - Proc - 54.wav
+MaxV - Proc - 55.wav
+MaxV - Proc - 41.wav
+MaxV - Proc - 69.wav
+MaxV - Proc - 64.wav
+MaxV - Proc - 70.wav
+MaxV - Proc - 58.wav
+MaxV - Proc - 59.wav
+MaxV - Proc - 71.wav
+MaxV - Proc - 65.wav
+MaxV - Proc - 67.wav
+MaxV - Proc - 66.wav
+MaxV - Proc - 62.wav
+MaxV - Proc - 63.wav
+MaxV - Proc - 49.wav
+MaxV - Proc - 61.wav
+MaxV - Proc - 60.wav
+MaxV - Proc - 48.wav
+MaxV - Proc - 07.wav
+MaxV - Proc - 13.wav
+MaxV - Proc - 12.wav
+MaxV - Proc - 06.wav
+MaxV - Proc - 10.wav
+MaxV - Proc - 04.wav
+MaxV - Proc - 38.wav
+MaxV - Proc - 39.wav
+MaxV - Proc - 05.wav
+MaxV - Proc - 11.wav
+MaxV - Proc - 29.wav
+MaxV - Proc - 15.wav
+MaxV - Proc - 01.wav
+MaxV - Proc - 14.wav
+MaxV - Proc - 28.wav
+MaxV - Proc - 02.wav
+MaxV - Proc - 16.wav
+MaxV - Proc - 17.wav
+MaxV - Proc - 03.wav
+MaxV - DR 22.wav
+MaxV - DR 23.wav
+MaxV - DR 21.wav
+MaxV - DR 09.wav
+MaxV - DR 08.wav
+MaxV - DR 20.wav
+MaxV - DR 18.wav
+MaxV - DR 24.wav
+MaxV - DR 19.wav
+MaxV - DR 17.wav
+MaxV - DR 03.wav
+MaxV - DR 02.wav
+MaxV - DR 16.wav
+MaxV - DR 14.wav
+MaxV - DR 15.wav
+MaxV - DR 01.wav
+MaxV - DR 05.wav
+MaxV - DR 11.wav
+MaxV - DR 10.wav
+MaxV - DR 04.wav
+MaxV - DR 12.wav
+MaxV - DR 06.wav
+MaxV - DR 07.wav
+MaxV - DR 13.wav
+MaxV - Rim.wav
+MaxV - SD04VRB.wav
+MaxV - BD15VRB.wav
+MaxV - SD08VRB.wav
+MaxV - SD43VRB.wav
+MaxV - BD40VRB.wav
+MaxV - HHC1VRB.wav
+MaxV - SD32VRB.wav
+MaxV - BD05VRB.wav
+MaxV - SD14VRB.wav
+MaxV - BD09VRB.wav
+MaxV - HHC3VRB.wav
+MaxV - SD22VRB.wav
+MaxV - SD38VRB.wav
+MaxV - SD45VRB.wav
+MaxV - HHC7VRB.wav
+MaxV - BD13VRB.wav
+MaxV - BD01VRB.wav
+MaxV - HHC5VRB.wav
+MaxV - SD36VRB.wav
+MaxV - HHC9VRB.wav
+MaxV - SD47VRB.wav
+MaxV - SD24VRB.wav
+MaxV - SD12VRB.wav
+MaxV - BD03VRB.wav
+MaxV - BD11VRB.wav
+MaxV - SD21VRB.wav
+MaxV - SD42VRB.wav
+MaxV - SD33VRB.wav
+MaxV - SD05VRB.wav
+MaxV - BD14VRB.wav
+MaxV - SD17VRB.wav
+MaxV - BD06VRB.wav
+MaxV - SD09VRB.wav
+MaxV - SD31VRB.wav
+MaxV - HHC2VRB.wav
+MaxV - SD40VRB.wav
+MaxV - SD23VRB.wav
+MaxV - BD04VRB.wav
+MaxV - SD19VRB.wav
+MaxV - BD08VRB.wav
+MaxV - SD07VRB.wav
+MaxV - HHO7VRB.wav
+MaxV - BD12VRB.wav
+MaxV - SD03VRB.wav
+MaxV - SD11VRB.wav
+MaxV - SD44VRB.wav
+MaxV - SD27VRB.wav
+MaxV - HHC6VRB.wav
+MaxV - HHO1VRB.wav
+MaxV - BD02VRB.wav
+MaxV - SD01VRB.wav
+MaxV - BD10VRB.wav
+MaxV - HHC4VRB.wav
+MaxV - SD29VRB.wav
+MaxV - BD38VRB.wav
+MaxV - SD25VRB.wav
+MaxV - HHC8VRB.wav
+DR-110Kick.wav
+DR-110Clap.wav
+DR-110Hat_C.wav
+DR-110Snare.wav
+DR-110Hat_O.wav
+DR-110Cymbal.wav
+sample11.wav
+sample10.wav
+Sample12.wav
+Sample13.wav
+sample8.wav
+sample9.wav
+sample4.wav
+sample5.wav
+sample7.wav
+sample6.wav
+sample2.wav
+Sample22.wav
+sample3.wav
+sample1.wav
+Sample21.wav
+DMXCabasa.wav
+MaxV - DMX 06.wav
+MaxV - DMX 12.wav
+DMXHat_O.wav
+MaxV - DMX 07.wav
+MaxV - DMX 11.wav
+MaxV - DMX 05.wav
+DMXClap.wav
+MaxV - DMX 04.wav
+MaxV - DMX 10.wav
+DMXTamborine.wav
+MaxV - DMX 01.wav
+DMXTomHi.wav
+MaxV - DMX 03.wav
+DMXTimbaleLo.wav
+DMXRide.wav
+DMXRim.wav
+MaxV - DMX 02.wav
+DMXTomMid.wav
+MaxV - DMX 09.wav
+MaxV - DMX 08.wav
+DMXHat_C.wav
+DMXSnare01.wav
+DMXTimbaleHi.wav
+DMXKick02.wav
+DMXCrash.wav
+DMXTomLo.wav
+DMXSnare02.wav
+DMXKick01.wav
+DMXSnare03.wav
+MaxV - Unvx - 04.wav
+MaxV - Unvx - 01.wav
+MaxV - Unvx - 02.wav
+MaxV - Unvx - 03.wav
+MaxV - UNIVOXBD.wav
+MaxV - UNIVOXOH.wav
+MaxV - UNIVOXCH.wav
+MaxV - UNIVOXSD.wav
+MC09 Snare01.wav
+MC09 Snare03.wav
+MC09 Snare02.wav
+MC09 Snare06.wav
+MC09 Kick08.wav
+MC09 Kick09.wav
+MC09 Snare07.wav
+MC09 Snare05.wav
+MC09 Snare10.wav
+MC09 Snare04.wav
+MC09 HatC_09.wav
+MC09 HatO_09.wav
+MC09 HatO_08.wav
+MC09 HatC_08.wav
+MC09 HatC_06.wav
+MC09 HatO_06.wav
+MC09 HatO_07.wav
+MC09 HatC_07.wav
+MC09 HatC_05.wav
+MC09 HatO_05.wav
+MC09 HatO_04.wav
+MC09 HatO_10.wav
+MC09 HatC_10.wav
+MC09 HatC_04.wav
+MC09 HatO_01.wav
+MC09 HatC_01.wav
+MC09 HatC_03.wav
+MC09 HatO_03.wav
+MC09 HatO_02.wav
+MC09 HatC_02.wav
+MC09 Snare09.wav
+MC09 Kick07.wav
+MC09 Kick06.wav
+MC09 Snare08.wav
+MC09 Kick10.wav
+MC09 Kick04.wav
+MC09 Kick05.wav
+MC09 Kick01.wav
+MC09 Kick02.wav
+MC09 Kick03.wav
+DrumtraxKick.wav
+DrumtraxRide.wav
+DrumtraxOpenhat.wav
+DrumtraxClap.wav
+DrumtraxClosedhat.wav
+DrumtraxTom02.wav
+DrumtraxTom01.wav
+DrumtraxTamborine.wav
+DrumtraxSnare.wav
+DrumtraxRimshot.wav
+DrumtraxCowbell.wav
+DrumtraxCrash.wav
+DrumtraxCabasa.wav
+MaxV - XE8 Kick 3 int_3.wav
+MaxV - XE8 Hat Closed ext_4.wav
+MaxV - XE8 Tom 3 ext_8.wav
+MaxV - XE8 Crash ext_11.wav
+MaxV - XE8 Crash int_13.wav
+MaxV - XE8 Snare 2 int_9.wav
+MaxV - XE8 Snare ext_2.wav
+MaxV - XE8 Orch ext_16.wav
+MaxV - XE8 Cowbell 1 ext_12.wav
+MaxV - XE8 Kick 2 int_2.wav
+MaxV - XE8 Block 2 ext_15.wav
+MaxV - XE8 Hat Open ext_5.wav
+MaxV - XE8 Tom 1 ext_6.wav
+MaxV - XE8 Tom 4 ext_9.wav
+MaxV - XE8 Hat Medium int_6.wav
+MaxV - XE8 Clap int_15.wav
+MaxV - XE8 Ride int_14.wav
+MaxV - XE8 Sidestick ext_3.wav
+MaxV - XE8 Ride ext_10.wav
+MaxV - XE8 Kick 1 int_1.wav
+MaxV - XE8 Hat Open int_7.wav
+MaxV - XE8 Tom 2 ext_7.wav
+MaxV - XE8 Block 1 ext_14.wav
+MaxV - XE8 Snare 3 int_10.wav
+MaxV - XE8 Hat Closed int_5.wav
+MaxV - XE8 Cowbell 2 ext_13.wav
+MaxV - XE8 Tom Low int_11.wav
+MaxV - XE8 Tom High int_12.wav
+MaxV - XE8 ElectroTom int_4.wav
+MaxV - XE8 Snare 1 int_8.wav
+MaxV - XE8 Kick ext_1.wav
+RY30Hat_P.wav
+RY30Snare19.wav
+RY30Snare18.wav
+RY30Hat_Q.wav
+RY30Clap.wav
+RY30KickBody.wav
+RY30Kick09.wav
+RY30Kick08.wav
+RY30KickAtt.wav
+RY30Snare20.wav
+RY30Snare08.wav
+RY30Snare09.wav
+RY30Pulse50.wav
+RY30Crash.wav
+RY30Tamborine.wav
+RY30Digital.wav
+RY30Pulse25.wav
+RY30Ambi.wav
+RY30Ride02.wav
+RY30Ride03.wav
+RY30Ride01.wav
+RY30Cowbell.wav
+RY30Pulse10.wav
+RY30Rimshot.wav
+RY30Snare10.wav
+RY30Snare04.wav
+RY30Kick06.wav
+RY30Kick12.wav
+RY30Kick07.wav
+RY30Snare05.wav
+RY30Snare11.wav
+RY30Snare07.wav
+RY30Snare13.wav
+RY30Kick11.wav
+RY30Kick05.wav
+RY30Kick04.wav
+RY30Kick10.wav
+RY30Snare12.wav
+RY30Snare06.wav
+RY30Snare02.wav
+RY30Snare16.wav
+RY30Hat_C3.wav
+RY30Kick01.wav
+RY30Snare17.wav
+RY30Hat_C2.wav
+RY30Snare03.wav
+RY30Hat_O1.wav
+RY30Hat_O3.wav
+RY30Snare15.wav
+RY30Snare01.wav
+RY30Kick03.wav
+RY30Kick02.wav
+RY30Hat_C1.wav
+RY30Snare14.wav
+RY30Hat_O2.wav
+RY30China.wav
+MaxV - Cymbal.wav
+MaxV - FX.wav
+MaxV - 021.wav
+MaxV - 022.wav
+MaxV - 023.wav
+MaxV - 027.wav
+MaxV - 026.wav
+MaxV - 024.wav
+MaxV - 025.wav
+MaxV - 028.wav
+MaxV - 029.wav
+MaxV - 808_CY.wav
+MaxV - GOODSN1.wav
+MaxV - 808CHH.wav
+MaxV - 808OPEN.wav
+MaxV - SAY.wav
+MaxV - BASSFNK1.wav
+MaxV - 808OPEN_.wav
+MaxV - BASSFNK2.wav
+MaxV - PACBD.wav
+EX5B 011.wav
+EX5B 005.wav
+EX5C 014.wav
+EX5C 028.wav
+EX5C 029.wav
+EX5C 015.wav
+EX5C 001.wav
+EX5B 004.wav
+EX5B 010.wav
+EX5B 006.wav
+EX5B 012.wav
+EX5C 017.wav
+EX5C 003.wav
+EX5C 002.wav
+EX5C 016.wav
+EX5B 013.wav
+EX5B 007.wav
+EX5B 003.wav
+EX5B 017.wav
+EX5C 012.wav
+EX5C 006.wav
+EX5C 007.wav
+EX5C 013.wav
+EX5B 016.wav
+EX5B 002.wav
+EX5B 028.wav
+EX5B 014.wav
+EX5C 005.wav
+EX5C 011.wav
+EX5C 010.wav
+EX5C 004.wav
+EX5B 001.wav
+EX5B 015.wav
+EX5B 029.wav
+EX5A 006.wav
+EX5A 012.wav
+EX5D 023.wav
+EX5D 022.wav
+EX5A 013.wav
+EX5A 007.wav
+EX5A 011.wav
+EX5A 005.wav
+EX5A 039.wav
+EX5D 020.wav
+EX5D 008.wav
+EX5D 009.wav
+EX5D 021.wav
+EX5A 038.wav
+EX5A 004.wav
+EX5A 010.wav
+EX5A 028.wav
+EX5A 014.wav
+EX5D 019.wav
+EX5D 024.wav
+EX5D 018.wav
+EX5A 001.wav
+EX5A 015.wav
+EX5A 029.wav
+EX5A 003.wav
+EX5A 017.wav
+EX5A 016.wav
+EX5A 002.wav
+EX5A 027.wav
+EX5A 033.wav
+EX5D 002.wav
+EX5D 016.wav
+EX5D 017.wav
+EX5D 003.wav
+EX5A 032.wav
+EX5A 026.wav
+EX5A 030.wav
+EX5A 024.wav
+EX5A 018.wav
+EX5D 015.wav
+EX5D 001.wav
+EX5D 014.wav
+EX5A 019.wav
+EX5A 025.wav
+EX5A 031.wav
+EX5A 009.wav
+EX5A 035.wav
+EX5A 021.wav
+EX5D 010.wav
+EX5D 004.wav
+EX5D 005.wav
+EX5D 011.wav
+EX5A 020.wav
+EX5A 034.wav
+EX5A 008.wav
+EX5A 022.wav
+EX5A 036.wav
+EX5D 007.wav
+EX5D 013.wav
+EX5D 012.wav
+EX5D 006.wav
+EX5A 037.wav
+EX5A 023.wav
+EX5A 044.wav
+EX5B 030.wav
+EX5B 024.wav
+EX5B 018.wav
+EX5C 021.wav
+EX5C 009.wav
+EX5C 008.wav
+EX5C 020.wav
+EX5B 019.wav
+EX5B 025.wav
+EX5B 027.wav
+EX5C 022.wav
+EX5C 023.wav
+EX5B 026.wav
+EX5A 042.wav
+EX5B 022.wav
+EX5C 027.wav
+EX5C 026.wav
+EX5B 023.wav
+EX5A 043.wav
+EX5A 041.wav
+EX5B 009.wav
+EX5B 021.wav
+EX5C 018.wav
+EX5C 024.wav
+EX5C 030.wav
+EX5C 031.wav
+EX5C 025.wav
+EX5C 019.wav
+EX5B 020.wav
+EX5B 008.wav
+EX5A 040.wav
+DR-660Hat_C06.wav
+DR-660Perc29.wav
+DR-660Snare18.wav
+DR-660Snare30.wav
+DR-660Perc15.wav
+DR-660Snare24.wav
+DR-660Perc01.wav
+DR-660Kick05.wav
+DR-660Kick11.wav
+DR-660Kick39.wav
+DR-660Kick38.wav
+DR-660Kick10.wav
+DR-660Kick04.wav
+DR-660Snare25.wav
+DR-660Perc14.wav
+DR-660Snare31.wav
+DR-660Snare19.wav
+DR-660Perc28.wav
+DR-660Hat_C05.wav
+DR-660Snare27.wav
+DR-660Perc02.wav
+DR-660Snare33.wav
+DR-660Perc16.wav
+DR-660Kick12.wav
+DR-660Kick06.wav
+DR-660Kick07.wav
+DR-660Kick13.wav
+DR-660Perc17.wav
+DR-660Snare32.wav
+DR-660Perc03.wav
+DR-660Snare26.wav
+DR-660Hat_C04.wav
+DR-660Perc07.wav
+DR-660Snare22.wav
+DR-660Perc13.wav
+DR-660Snare36.wav
+DR-660Kick17.wav
+DR-660Kick03.wav
+DR-660Kick02.wav
+DR-660Kick16.wav
+DR-660Snare37.wav
+DR-660Perc12.wav
+DR-660Snare23.wav
+DR-660Perc06.wav
+DR-660Hat_C01.wav
+DR-660Hat_C03.wav
+DR-660Perc10.wav
+DR-660Snare35.wav
+DR-660Perc04.wav
+DR-660Snare21.wav
+DR-660Snare09.wav
+DR-660Perc38.wav
+DR-660Kick28.wav
+DR-660Kick14.wav
+DR-660Kick15.wav
+DR-660Kick01.wav
+DR-660Kick29.wav
+DR-660Perc39.wav
+DR-660Snare08.wav
+DR-660Snare20.wav
+DR-660Perc05.wav
+DR-660Snare34.wav
+DR-660Perc11.wav
+DR-660Hat_C02.wav
+DR-660Snare53.wav
+DR-660Snare47.wav
+DR-660Perc62.wav
+DR-660Ride01.wav
+DR-660Perc63.wav
+DR-660Snare46.wav
+DR-660Snare52.wav
+DR-660Perc49.wav
+DR-660Snare44.wav
+DR-660Perc61.wav
+DR-660Snare50.wav
+DR-660Ride02.wav
+DR-660Ride03.wav
+DR-660Snare51.wav
+DR-660Perc60.wav
+DR-660Snare45.wav
+DR-660Perc48.wav
+DR-660SplashCym.wav
+DR-660Perc64.wav
+DR-660Snare41.wav
+DR-660Perc70.wav
+DR-660Snare55.wav
+DR-660Perc58.wav
+DR-660Snare69.wav
+DR-660Kick48.wav
+DR-660Kick49.wav
+DR-660Snare68.wav
+DR-660Perc59.wav
+DR-660Snare54.wav
+DR-660Perc71.wav
+DR-660Snare40.wav
+DR-660Perc65.wav
+DR-660Snare56.wav
+DR-660Perc67.wav
+DR-660Snare42.wav
+DR-660Snare43.wav
+DR-660Perc66.wav
+DR-660Snare57.wav
+DR-660Perc72.wav
+DR-660Snare72.wav
+DR-660Perc57.wav
+DR-660Snare66.wav
+DR-660Perc43.wav
+DR-660Kick47.wav
+DR-660Kick46.wav
+DR-660Perc42.wav
+DR-660Snare67.wav
+DR-660Perc56.wav
+DR-660Snare73.wav
+DR-660Snare59.wav
+DR-660Perc68.wav
+DR-660Snare65.wav
+DR-660Perc40.wav
+DR-660Snare71.wav
+DR-660Perc54.wav
+DR-660Kick50.wav
+DR-660Kick44.wav
+DR-660Kick45.wav
+DR-660Perc55.wav
+DR-660Snare70.wav
+DR-660Perc41.wav
+DR-660Snare64.wav
+DR-660Perc69.wav
+DR-660Snare58.wav
+DR-660Perc45.wav
+DR-660Snare60.wav
+DR-660Perc51.wav
+DR-660Snare74.wav
+DR-660Snare48.wav
+DR-660Kick41.wav
+DR-660Crash01.wav
+DR-660Kick40.wav
+DR-660Snare49.wav
+DR-660Snare75.wav
+DR-660Perc50.wav
+DR-660Snare61.wav
+DR-660Perc44.wav
+DR-660Perc52.wav
+DR-660Snare77.wav
+DR-660Perc46.wav
+DR-660Snare63.wav
+DR-660Kick42.wav
+DR-660Crash03.wav
+DR-660Crash02.wav
+DR-660Kick43.wav
+DR-660Snare62.wav
+DR-660Perc47.wav
+DR-660Snare76.wav
+DR-660Perc53.wav
+DR-660Perc08.wav
+DR-660Snare39.wav
+DR-660Snare11.wav
+DR-660Perc34.wav
+DR-660Snare05.wav
+DR-660Perc20.wav
+DR-660Kick24.wav
+DR-660Hat_O02.wav
+DR-660Kick30.wav
+DR-660Kick18.wav
+DR-660Kick19.wav
+DR-660Kick31.wav
+DR-660Kick25.wav
+DR-660Perc21.wav
+DR-660Snare04.wav
+DR-660Perc35.wav
+DR-660Snare10.wav
+DR-660Snare38.wav
+DR-660Perc09.wav
+DR-660Snare06.wav
+DR-660Perc23.wav
+DR-660Snare12.wav
+DR-660Perc37.wav
+DR-660Kick33.wav
+DR-660Hat_O01.wav
+DR-660Kick27.wav
+DR-660Kick26.wav
+DR-660Kick32.wav
+DR-660Perc36.wav
+DR-660Snare13.wav
+DR-660Perc22.wav
+DR-660Snare07.wav
+DR-660Perc26.wav
+DR-660Snare03.wav
+DR-660Perc32.wav
+DR-660Snare17.wav
+DR-660Hat_O04.wav
+DR-660Kick36.wav
+DR-660Kick22.wav
+DR-660Kick23.wav
+DR-660Hat_O05.wav
+DR-660Kick37.wav
+DR-660Snare16.wav
+DR-660Perc33.wav
+DR-660Snare02.wav
+DR-660Perc27.wav
+DR-660Perc31.wav
+DR-660Snare14.wav
+DR-660Perc25.wav
+DR-660Snare28.wav
+DR-660Perc19.wav
+DR-660Kick09.wav
+DR-660Kick21.wav
+DR-660Kick35.wav
+DR-660Kick34.wav
+DR-660Hat_O06.wav
+DR-660Kick20.wav
+DR-660Kick08.wav
+DR-660Perc18.wav
+DR-660Snare29.wav
+DR-660Snare01.wav
+DR-660Perc24.wav
+DR-660Snare15.wav
+DR-660Perc30.wav
+MaxV - 056.wav
+MaxV - LoBlock.wav
+MaxV - HiWoo.wav
+MaxV - Pedal HH.wav
+MaxV - TomHigh1.wav
+MaxV - 057.wav
+MaxV - 055.wav
+MaxV - MuteTr.wav
+MaxV - HiTimb.wav
+MaxV - Casta.wav
+MaxV - TomHigh2.wav
+MaxV - 054.wav
+MaxV - SomeCrsh.wav
+MaxV - OpenTr.wav
+MaxV - Stick.wav
+MaxV - Guiro.wav
+MaxV - 053.wav
+MaxV - Maracas.wav
+MaxV - 052.wav
+MaxV - Conga3.wav
+MaxV - Ride Bell.wav
+MaxV - Conga2.wav
+MaxV - China Crash.wav
+MaxV - LoBongo.wav
+MaxV - Conga1.wav
+MaxV - TomLow1.wav
+MaxV - LoTimb.wav
+MaxV - TomLow2.wav
+MaxV - Lo.wav
+MaxV - LongWh.wav
+MaxV - TomMid1.wav
+MaxV - HiSticks.wav
+MaxV - TomMid2.wav
+MaxV - ShortGuiro.wav
+MaxV - LoWoo.wav
+MaxV - HiBongo.wav
+MaxV - Closed HH.wav
+MaxV - Cabasa.wav
+MaxV - LongGuiro.wav
+MaxV - Open HH.wav
+MaxV - Cowbell.wav
+MaxV - ShortWh.wav
+MaxV - HiBlock.wav
+MaxV - BD1.wav
+MaxV - Hi.wav
+MaxV - Crash2.wav
+MaxV - Crash3.wav
+MaxV - Hss.wav
+MaxV - 062.wav
+MaxV - 060.wav
+MaxV - BD2.wav
+MaxV - Crash1.wav
+MaxV - 061.wav
+MaxV - Effect1.wav
+MaxV - 059.wav
+MaxV - Ride2.wav
+MaxV - 058.wav
+MaxV - Ride1.wav
+MaxV - Tambourine.wav
+MaxV - DR 1007.wav
+MaxV - DR 1013.wav
+MaxV - DR 1012.wav
+MaxV - DR 1006.wav
+MaxV - DR 1010.wav
+MaxV - DR 1004.wav
+MaxV - DR 1005.wav
+MaxV - DR 1011.wav
+MaxV - DR 1015.wav
+MaxV - DR 1001.wav
+MaxV - DR 1014.wav
+MaxV - DR 1002.wav
+MaxV - DR 1016.wav
+MaxV - DR 1003.wav
+MaxV - DR 1008.wav
+MaxV - DR 1009.wav
+Cow.wav
+Cymbal1.wav
+Quijada.wav
+Cymbal2.wav
+Bongo1.wav
+Bongo2.wav
+Bongo3.wav
+Maracas.wav
+Kickdrum.wav
+Tambourine.wav
+808 Kick.wav
+Guira.wav
+Clave.wav
+Snare1.wav
+Snare2.wav
+Rimshot.wav
+MaxV - Linn - 22.wav
+MaxV - Linn - 23.wav
+MaxV - Linn - 09.wav
+MaxV - Linn - 21.wav
+MaxV - Linn - 20.wav
+MaxV - Linn - 08.wav
+MaxV - Linn - 24.wav
+MaxV - Linn - 18.wav
+MaxV - Linn - 19.wav
+MaxV - Linn - 17.wav
+MaxV - Linn - 03.wav
+MaxV - Linn - 02.wav
+MaxV - Linn - 16.wav
+MaxV - Linn - 14.wav
+MaxV - Linn - 15.wav
+MaxV - Linn - 01.wav
+MaxV - Linn - 05.wav
+MaxV - Linn - 11.wav
+MaxV - Linn - 10.wav
+MaxV - Linn - 04.wav
+MaxV - Linn - 12.wav
+MaxV - Linn - 06.wav
+MaxV - Linn - 07.wav
+MaxV - Linn - 13.wav
+MaxV - TomMid.wav
+MaxV - TomHi.wav
+MaxV - Rimshot.wav
+MaxV - crash2.wav
+MaxV - TomLo.wav
+MaxV - crash.wav
+MaxV - HiHat Open.wav
+MaxV - Snare 5.wav
+MaxV - Snare 4.wav
+MaxV - Snare 6.wav
+MaxV - HiHat Closed.wav
+MaxV - Snare 3.wav
+MaxV - Snare 2.wav
+MaxV - Snare 1.wav
+MaxV - Clap 2.wav
+MaxV - Clap 1.wav
+MaxV - F1(L).wav
+MaxV - a2(L).wav
+MaxV - G1(L).wav
+MaxV - cs2(L).wav
+MaxV - B0(L).wav
+MaxV - bb1(L).wav
+MaxV - c2(L).wav
+MaxV - ds2(L).wav
+MaxV - E1(L).wav
+MaxV - GS1(L).wav
+MaxV - FS1(L).wav
+MaxV - D1(L).wav
+MaxV - b2(L).wav
+MaxV - CS1(L).wav
+MaxV - a1(L).wav
+MaxV - g2(L).wav
+MaxV - f2(L).wav
+MaxV - d2(L).wav
+MaxV - b1(L).wav
+MaxV - DS1(L).wav
+MaxV - C1(L).wav
+MaxV - bb2(L).wav
+MaxV - e2(L).wav
+MaxV - fs2(L).wav
+MaxV - gs2(L).wav
+MaxV - 36.wav
+MaxV - 22.wav
+MaxV - 23.wav
+MaxV - 37.wav
+MaxV - 09.wav
+MaxV - 21.wav
+MaxV - 35.wav
+MaxV - 34.wav
+MaxV - 20.wav
+MaxV - 08.wav
+MaxV - 24.wav
+MaxV - 30.wav
+MaxV - 18.wav
+MaxV - 19.wav
+MaxV - 31.wav
+MaxV - 25.wav
+MaxV - 33.wav
+MaxV - 27.wav
+MaxV - 26.wav
+MaxV - 32.wav
+MaxV - 41.wav
+MaxV - 40.wav
+MaxV - 42.wav
+MaxV - 43.wav
+MaxV - 47.wav
+MaxV - 46.wav
+MaxV - 50.wav
+MaxV - 44.wav
+MaxV - 45.wav
+MaxV - 48.wav
+MaxV - 49.wav
+MaxV - 17.wav
+MaxV - 03.wav
+MaxV - 02.wav
+MaxV - 16.wav
+MaxV - 28.wav
+MaxV - 14.wav
+MaxV - 15.wav
+MaxV - 01.wav
+MaxV - 29.wav
+MaxV - 05.wav
+MaxV - 11.wav
+MaxV - 39.wav
+MaxV - 38.wav
+MaxV - 10.wav
+MaxV - 04.wav
+MaxV - 12.wav
+MaxV - 06.wav
+MaxV - 07.wav
+MaxV - 13.wav
+MaxV - psr-hatcl.wav
+MaxV - psr-bd.wav
+MaxV - psr-tom1.wav
+MaxV - psr-tom2.wav
+MaxV - psr-hato.wav
+MaxV - psr-sd.wav
+MaxV - RX11 LITE SN.wav
+MaxV - RX11 CLAP1.wav
+MaxV - RX11 CLHAT1.wav
+MaxV - RX11 CLAP2.wav
+MaxV - RX11 CLHAT2.wav
+MaxV - RX11 MED SN.wav
+MaxV - RX11 BD1.wav
+MaxV - RX11 BD2.wav
+MaxV - RX11 BD3.wav
+MaxV - RX11 CRASH.wav
+MaxV - RX11 SNR 4.wav
+MaxV - RX11 SNR 5.wav
+MaxV - RX11 SNR 2.wav
+MaxV - RX11 OPHAT1.wav
+MaxV - RX11 SNR 3.wav
+MaxV - RX11 SNR 1.wav
+MaxV - RX11 RIDE.wav
+MaxV - RX11 OPHAT2.wav
+MaxV - RX11 SHAKER.wav
+MaxV - RX11 TOM1.wav
+MaxV - RX11 TOM2.wav
+MaxV - RX11 TOM3.wav
+MaxV - RX11 RIM2.wav
+MaxV - RX11 HEVY SN.wav
+MaxV - RX11 RIM1.wav
+MaxV - RX11 COW1.wav
+MaxV - RX11 COW2.wav
+QuasiA 043.wav
+QuasiC 032.wav
+QuasiC 026.wav
+QuasiB 023.wav
+QuasiB 037.wav
+QuasiB 036.wav
+QuasiB 022.wav
+QuasiC 027.wav
+QuasiC 033.wav
+QuasiA 042.wav
+QuasiA 040.wav
+QuasiC 025.wav
+QuasiC 031.wav
+QuasiC 019.wav
+QuasiB 034.wav
+QuasiB 020.wav
+QuasiB 008.wav
+QuasiB 009.wav
+QuasiB 021.wav
+QuasiB 035.wav
+QuasiC 018.wav
+QuasiC 030.wav
+QuasiC 024.wav
+QuasiA 041.wav
+QuasiA 045.wav
+QuasiC 008.wav
+QuasiC 020.wav
+QuasiC 034.wav
+QuasiB 019.wav
+QuasiB 031.wav
+QuasiB 025.wav
+QuasiB 024.wav
+QuasiB 030.wav
+QuasiB 018.wav
+QuasiC 035.wav
+QuasiC 021.wav
+QuasiC 009.wav
+QuasiA 050.wav
+QuasiA 044.wav
+QuasiA 046.wav
+QuasiC 037.wav
+QuasiC 023.wav
+QuasiB 026.wav
+QuasiB 032.wav
+QuasiB 033.wav
+QuasiB 027.wav
+QuasiC 022.wav
+QuasiC 036.wav
+QuasiA 047.wav
+QuasiB 134.wav
+QuasiB 120.wav
+QuasiB 108.wav
+QuasiA 034.wav
+QuasiA 020.wav
+QuasiA 008.wav
+QuasiB 040.wav
+QuasiB 054.wav
+QuasiB 068.wav
+QuasiB 083.wav
+QuasiB 097.wav
+QuasiB 096.wav
+QuasiB 082.wav
+QuasiB 069.wav
+QuasiB 055.wav
+QuasiB 041.wav
+QuasiA 009.wav
+QuasiA 021.wav
+QuasiA 035.wav
+QuasiB 109.wav
+QuasiB 121.wav
+QuasiB 135.wav
+QuasiB 123.wav
+QuasiA 023.wav
+QuasiA 037.wav
+QuasiB 057.wav
+QuasiB 043.wav
+QuasiB 094.wav
+QuasiB 080.wav
+QuasiB 081.wav
+QuasiB 095.wav
+QuasiB 042.wav
+QuasiB 056.wav
+QuasiA 036.wav
+QuasiA 022.wav
+QuasiB 122.wav
+QuasiB 126.wav
+QuasiB 132.wav
+QuasiA 026.wav
+QuasiA 032.wav
+QuasiB 052.wav
+QuasiB 046.wav
+QuasiB 091.wav
+QuasiB 085.wav
+QuasiB 084.wav
+QuasiB 090.wav
+QuasiB 047.wav
+QuasiB 053.wav
+QuasiA 033.wav
+QuasiA 027.wav
+QuasiB 133.wav
+QuasiB 127.wav
+QuasiB 119.wav
+QuasiB 131.wav
+QuasiB 125.wav
+QuasiA 019.wav
+QuasiA 031.wav
+QuasiA 025.wav
+QuasiB 079.wav
+QuasiB 045.wav
+QuasiB 051.wav
+QuasiB 086.wav
+QuasiB 092.wav
+QuasiB 093.wav
+QuasiB 087.wav
+QuasiB 050.wav
+QuasiB 044.wav
+QuasiB 078.wav
+QuasiA 024.wav
+QuasiA 030.wav
+QuasiA 018.wav
+QuasiB 124.wav
+QuasiB 130.wav
+QuasiB 118.wav
+QuasiB 115.wav
+QuasiB 101.wav
+QuasiB 129.wav
+QuasiA 015.wav
+QuasiA 001.wav
+QuasiA 029.wav
+QuasiB 061.wav
+QuasiB 075.wav
+QuasiB 049.wav
+QuasiB 048.wav
+QuasiB 074.wav
+QuasiB 060.wav
+QuasiA 028.wav
+QuasiA 014.wav
+QuasiB 128.wav
+QuasiB 100.wav
+QuasiB 114.wav
+QuasiB 102.wav
+QuasiB 116.wav
+QuasiA 002.wav
+QuasiA 016.wav
+QuasiB 076.wav
+QuasiB 062.wav
+QuasiB 089.wav
+QuasiB 088.wav
+QuasiB 063.wav
+QuasiB 077.wav
+QuasiA 017.wav
+QuasiA 003.wav
+QuasiB 117.wav
+QuasiB 103.wav
+QuasiB 107.wav
+QuasiB 113.wav
+QuasiA 007.wav
+QuasiA 013.wav
+QuasiB 073.wav
+QuasiB 067.wav
+QuasiB 098.wav
+QuasiB 099.wav
+QuasiB 066.wav
+QuasiB 072.wav
+QuasiA 012.wav
+QuasiA 006.wav
+QuasiB 112.wav
+QuasiB 106.wav
+QuasiB 110.wav
+QuasiB 104.wav
+QuasiA 038.wav
+QuasiA 010.wav
+QuasiA 004.wav
+QuasiB 058.wav
+QuasiB 064.wav
+QuasiB 070.wav
+QuasiB 071.wav
+QuasiB 065.wav
+QuasiB 059.wav
+QuasiA 005.wav
+QuasiA 011.wav
+QuasiA 039.wav
+QuasiB 105.wav
+QuasiB 111.wav
+QuasiC 013.wav
+QuasiC 007.wav
+QuasiB 002.wav
+QuasiB 016.wav
+QuasiB 017.wav
+QuasiB 003.wav
+QuasiC 006.wav
+QuasiC 012.wav
+QuasiA 049.wav
+QuasiC 004.wav
+QuasiC 010.wav
+QuasiC 038.wav
+QuasiB 015.wav
+QuasiB 001.wav
+QuasiB 029.wav
+QuasiB 028.wav
+QuasiB 014.wav
+QuasiC 039.wav
+QuasiC 011.wav
+QuasiC 005.wav
+QuasiA 048.wav
+QuasiC 029.wav
+QuasiC 001.wav
+QuasiC 015.wav
+QuasiB 038.wav
+QuasiB 010.wav
+QuasiB 004.wav
+QuasiB 005.wav
+QuasiB 011.wav
+QuasiB 039.wav
+QuasiC 014.wav
+QuasiC 028.wav
+QuasiC 016.wav
+QuasiC 002.wav
+QuasiB 007.wav
+QuasiB 013.wav
+QuasiB 012.wav
+QuasiB 006.wav
+QuasiC 003.wav
+QuasiC 017.wav
+202hat14.wav
+202snr28.wav
+202tom10.wav
+202tom04.wav
+202snr14.wav
+202cla01.wav
+202per55.wav
+202per41.wav
+202kik14.wav
+202kik28.wav
+202kik29.wav
+202kik15.wav
+202kik01.wav
+202per40.wav
+202per54.wav
+202snr15.wav
+202tom05.wav
+202tom11.wav
+202snr01.wav
+202snr29.wav
+202hat15.wav
+202hat01.wav
+202hat17.wav
+202hat03.wav
+202tom07.wav
+202snr17.wav
+202snr03.wav
+202tom13.wav
+202cla02.wav
+202per42.wav
+202per56.wav
+202kik17.wav
+202kik03.wav
+202kik02.wav
+202kik16.wav
+202per57.wav
+202per43.wav
+202cla03.wav
+202tom12.wav
+202snr02.wav
+202snr16.wav
+202tom06.wav
+202hat02.wav
+202hat16.wav
+202tom02.wav
+202snr12.wav
+202snr06.wav
+202hat12.wav
+202hat06.wav
+202per47.wav
+202per53.wav
+202cla07.wav
+202cla13.wav
+202kik12.wav
+202kik06.wav
+202kik07.wav
+202kik13.wav
+202cla12.wav
+202cla06.wav
+202per52.wav
+202per46.wav
+202hat07.wav
+202hat13.wav
+202snr07.wav
+202snr13.wav
+202tom03.wav
+202snr05.wav
+202tom15.wav
+202tom01.wav
+202snr11.wav
+202hat05.wav
+202snr39.wav
+202hat11.wav
+202per50.wav
+202per44.wav
+202cla10.wav
+202cla04.wav
+202kik05.wav
+202kik11.wav
+202kik10.wav
+202kik04.wav
+202cla05.wav
+202cla11.wav
+202per45.wav
+202per51.wav
+202hat10.wav
+202snr38.wav
+202hat04.wav
+202snr10.wav
+202tom14.wav
+202snr04.wav
+202cym06.wav
+202per36.wav
+202per22.wav
+202per23.wav
+202per37.wav
+202cym07.wav
+202cym05.wav
+202snr48.wav
+202per09.wav
+202per21.wav
+202per35.wav
+202per34.wav
+202per20.wav
+202per08.wav
+202cym04.wav
+202cym10.wav
+202per24.wav
+202per30.wav
+202per18.wav
+202per19.wav
+202per31.wav
+202per25.wav
+202cym01.wav
+202cym03.wav
+202per33.wav
+202per27.wav
+202per26.wav
+202per32.wav
+202cym02.wav
+202snr42.wav
+202per17.wav
+202per03.wav
+202per02.wav
+202per16.wav
+202snr43.wav
+202snr41.wav
+202per28.wav
+202per14.wav
+202per15.wav
+202per01.wav
+202per29.wav
+202snr40.wav
+202cym09.wav
+202snr44.wav
+202per05.wav
+202per11.wav
+202per39.wav
+202per38.wav
+202per10.wav
+202per04.wav
+202snr45.wav
+202cym08.wav
+202snr47.wav
+202per12.wav
+202per06.wav
+202per07.wav
+202per13.wav
+202snr46.wav
+202hat21.wav
+202snr09.wav
+202snr21.wav
+202snr35.wav
+202hat09.wav
+202per48.wav
+202cla08.wav
+202per60.wav
+202kik21.wav
+202kik09.wav
+202rim01.wav
+202kik08.wav
+202kik20.wav
+202per61.wav
+202cla09.wav
+202per49.wav
+202hat08.wav
+202snr34.wav
+202snr20.wav
+202snr08.wav
+202hat20.wav
+202hat22.wav
+202snr36.wav
+202snr22.wav
+202per63.wav
+202kik22.wav
+202rim02.wav
+202rim03.wav
+202kik23.wav
+202per62.wav
+202snr23.wav
+202snr37.wav
+202snr33.wav
+202snr27.wav
+202kik27.wav
+202rim06.wav
+202kik26.wav
+202snr26.wav
+202snr32.wav
+202snr24.wav
+202hat18.wav
+202snr30.wav
+202snr18.wav
+202tom08.wav
+202per59.wav
+202kik18.wav
+202kik24.wav
+202kik30.wav
+202rim04.wav
+202rim05.wav
+202kik31.wav
+202kik25.wav
+202kik19.wav
+202per58.wav
+202tom09.wav
+202snr19.wav
+202snr31.wav
+202hat19.wav
+202snr25.wav
+MaxV - Blooouorglropurglorporp.wav
+MaxV - Klick2.wav
+MaxV - Helecopter Snare.wav
+MaxV - Blooouorglropurglorporp.AIFF
+MaxV - FilterSnare.AIFF
+MaxV - Glurggblouk.wav
+MaxV - Klick2.AIFF
+MaxV - blouckuk.AIFF
+MaxV - Apocalysps Snare.wav
+MaxV - FM Crack.wav
+MaxV - Explosion Snare.wav
+MaxV - Violent Snare.AIFF
+MaxV - dhfjpop.AIFF
+MaxV - Youlk(#.AIFF
+MaxV - Filtered Clink.AIFF
+MaxV - PunchyKickdrum.wav
+MaxV - PunchyBlurp.AIFF
+MaxV - Pwoow.wav
+MaxV - FMBOOm.wav
+MaxV - oik^fso.AIFF
+MaxV - Garbled Snare.wav
+MaxV - Filtered Clink.wav
+MaxV - BlurrkilrkurgurkSnare.wav
+MaxV - GOOM.AIFF
+MaxV - Punchy Bdrum.wav
+MaxV - Reonant Peinssound.AIFF
+MaxV - Explosion Snare.AIFF
+MaxV - CXrk.AIFF
+MaxV - Abrassive Filtered Bloop.wav
+MaxV - weakSnare.wav
+MaxV - Helecopter Snare.AIFF
+MaxV - SuperPoop.wav
+MaxV - Youlk(#.wav
+MaxV - Garble.wav
+MaxV - Clouwrqu.wav
+MaxV - Filtered Snare.AIFF
+MaxV - Punchy Bdrum.AIFF
+MaxV - Gloouorglkclurkurk.AIFF
+MaxV - Punchy Watery Noise.wav
+MaxV - PunchyBlurp.wav
+MaxV - Generic MoogSnare.AIFF
+MaxV - sdflkj.AIFF
+MaxV - CompletePunch Nothing else.wav
+MaxV - Garble.AIFF
+MaxV - Clouwrqu.AIFF
+MaxV - Garbled Snare.AIFF
+MaxV - Reonant Peinssound.wav
+MaxV - New Wave Clap.wav
+MaxV - Clicx.AIFF
+MaxV - Bluoogrk.wav
+MaxV - Dist909.wav
+MaxV - Bass Drumish.AIFF
+MaxV - Apocalysps Snare.AIFF
+MaxV - Abrassive Filtered Bloop.AIFF
+MaxV - Filtered Snare.wav
+MaxV - ThunkDud.wav
+MaxV - QuirkySnare.AIFF
+MaxV - FMBLam.AIFF
+MaxV - Low Bass Drum.wav
+MaxV - CXrk.wav
+MaxV - Generic MoogSnare.wav
+MaxV - FMsnare.AIFF
+MaxV - Ijhdja[.AIFF
+MaxV - Violent Snare.wav
+MaxV - sdflkj.wav
+MaxV - ThunkDud.AIFF
+MaxV - Klick.AIFF
+MaxV - oik^fso.wav
+MaxV - weakSnare.AIFF
+MaxV - Vilonter Snare.AIFF
+MaxV - Generic MoogSnare2.AIFF
+MaxV - PunchyKickdrum.AIFF
+MaxV - QuirkySnare.wav
+MaxV - JeeesuosClaps.AIFF
+MaxV - FilterSnare.wav
+MaxV - BlurrkilrkurgurkSnare.AIFF
+MaxV - FMsnare.wav
+MaxV - Knock.AIFF
+MaxV - FM Crack.AIFF
+MaxV - blouckuk.wav
+MaxV - GOOM.wav
+MaxV - FMBLam.wav
+MaxV - Generic MoogSnare2.wav
+MaxV - Punchy Watery Noise.AIFF
+MaxV - JeeesuosClaps.wav
+MaxV - Low Bass Drum.AIFF
+MaxV - Tiny Punch Snare.AIFF
+MaxV - Ijhdja[.wav
+MaxV - FMBOOm.AIFF
+MaxV - EarPeircingCliclk.wav
+MaxV - Dist909.AIFF
+MaxV - Filtered Dink.wav
+MaxV - New Wave Clap.AIFF
+MaxV - dhfjpop.wav
+MaxV - Filtered Dink.AIFF
+MaxV - CompletePunch Nothing else.AIFF
+MaxV - Gloouorglkclurkurk.wav
+MaxV - Klick.wav
+MaxV - SuperPoop.AIFF
+MaxV - Bluoogrk.AIFF
+MaxV - Glurggblouk.AIFF
+MaxV - Blurble.AIFF
+MaxV - Pwoow.AIFF
+MaxV - Doonk.AIFF
+MaxV - Tiny Punch Snare.wav
+MaxV - Bass Drumish.wav
+MaxV - Knock.wav
+MaxV - Doonk.wav
+MaxV - Vilonter Snare.wav
+MaxV - EarPeircingCliclk.AIFF
+MaxV - Clicx.wav
+MaxV - Blurble.wav
+MaxV - SWL-JX04.wav
+MaxV - SWL-BEL2.wav
+MaxV - SWL-BEL3.wav
+MaxV - JX3-SNC1.wav
+MaxV - SWIL-JX3.wav
+MaxV - SWIL-JX4.wav
+MaxV - JX-SWP01.wav
+MaxV - SWIL-JX7.wav
+MaxV - SWL-AC3.wav
+MaxV - SWIL-JX6.wav
+MaxV - SWL-BELL.wav
+MaxV - JV80 - 02.wav
+MaxV - JV80 - 16.wav
+MaxV - JV80 - 17.wav
+MaxV - JV80 - 03.wav
+MaxV - JV80 - 15.wav
+MaxV - JV80 - 01.wav
+MaxV - JV80 - 14.wav
+MaxV - JV80 - 10.wav
+MaxV - JV80 - 04.wav
+MaxV - JV80 - 05.wav
+MaxV - JV80 - 11.wav
+MaxV - JV80 - 07.wav
+MaxV - JV80 - 13.wav
+MaxV - JV80 - 12.wav
+MaxV - JV80 - 06.wav
+MaxV - JV80 - 20.wav
+MaxV - JV80 - 08.wav
+MaxV - JV80 - 09.wav
+MaxV - JV80 - 19.wav
+MaxV - JV80 - 18.wav
+RX7TAM~1.snd
+RX7TIM~1.snd
+RX7TIM~2.snd
+RX7TIM~3.snd
+RX7WHI~1.snd
+RX7SHA~1.snd
+RX7VIB~1.snd
+RX7NOR~1.snd
+RX7RIM~2.snd
+MaxV - Crash.wav
+SDSnare06.wav
+SDKick03.wav
+SDKick02.wav
+SDSnare07.wav
+SDSnare05.wav
+SDKick01.wav
+SDSnare04.wav
+SDKick04.wav
+SDTomLo.wav
+SDSnare01.wav
+SDSnare03.wav
+SDSnare02.wav
+SDTomEHi.wav
+SDTomMid.wav
+SDHat_C.wav
+SDTomMed.wav
+SDPop01.wav
+SDTomNoise.wav
+SDPop02.wav
+SDSTomE2.wav
+SDTomHard.wav
+SDHat_O.wav
+SDTomELo.wav
+KORG SR120 7.wav
+KORG SR120 6.wav
+KORG SR120 4.wav
+KORG SR120 5.wav
+KORG SR120 1.wav
+KORG SR120 2.wav
+KORG SR120 18.wav
+KORG SR120 3.wav
+KORG SR120 8.wav
+KORG SR120 9.wav
+KORG SR12014.wav
+KORG SR12015.wav
+KORG SR12016.wav
+KORG SR12012.wav
+KORG SR12013.wav
+KORG SR12011.wav
+KORG SR12010.wav
+MaxV - DR220A_HCP.wav
+MaxV - MaxVolt - DR 220001.wav
+MaxV - dr220Region_008.wav
+MaxV - MaxVolt - DR 220003.wav
+MaxV - dr220Region_009.wav
+MaxV - MaxVolt - DR 220002.wav
+MaxV - MaxVolt - DR 220006.wav
+MaxV - MaxVolt - DR 220007.wav
+MaxV - MaxVolt - DR 220005.wav
+MaxV - DR220A_SD.wav
+MaxV - MaxVolt - DR 220010.wav
+MaxV - MaxVolt - DR 220004.wav
+MaxV - DR220A_CCY.wav
+MaxV - DR220A_LT.wav
+MaxV - DR220A_MT.wav
+MaxV - DR220A_OH.wav
+MaxV - DR220A_RCY.wav
+MaxV - DR220A_BD.wav
+MaxV - MaxVolt - DR 220009.wav
+MaxV - DR220A_HT.wav
+MaxV - DR220A_RIM.wav
+MaxV - dr220Region_003.wav
+MaxV - MaxVolt - DR 220008.wav
+MaxV - dr220Region_010.wav
+MaxV - dr220Region_011.wav
+MaxV - dr220Region_005.wav
+MaxV - dr220Region_007.wav
+RZ1TomMid.wav
+RZ1Rimshot.wav
+RZ1Cowbell.wav
+RZ1TomHi.wav
+RZ1Hat_O.wav
+RZ1Hat_C.wav
+RZ1Snare.wav
+RZ1Ride.wav
+RZ1Kick.wav
+RZ1TomLo.wav
+RZ1Crash.wav
+RZ1Clap.wav
+MaxV - DR 7005.wav
+MaxV - DR 7011.wav
+MaxV - DR 7010.wav
+MaxV - DR 7004.wav
+MaxV - DR 7012.wav
+MaxV - DR 7006.wav
+MaxV - DR 7007.wav
+MaxV - DR 7013.wav
+MaxV - DR 7017.wav
+MaxV - DR 7003.wav
+MaxV - DR 7002.wav
+MaxV - DR 7016.wav
+MaxV - DR 7014.wav
+MaxV - DR 7015.wav
+MaxV - DR 7001.wav
+MaxV - DR 7018.wav
+MaxV - DR 7019.wav
+MaxV - DR 7021.wav
+MaxV - DR 7009.wav
+MaxV - DR 7008.wav
+MaxV - DR 7020.wav
+MaxV - FX2.wav
+MaxV - HH Op2.wav
+MaxV - Clave3.wav
+MaxV - FX 4.wav
+MaxV - FX 5.wav
+MaxV - HiHat Open 2.wav
+MaxV - Pot.wav
+MaxV - FX 7.wav
+MaxV - FX 6.wav
+MaxV - FX 2.wav
+MaxV - FX 3.wav
+MaxV - FX 1.wav
+MaxV - HiHat Closed 3.wav
+MaxV - Snare 15.wav
+MaxV - Snare 14.wav
+MaxV - HiHat Closed 2.wav
+MaxV - Trngle E.wav
+MaxV - Snare 16.wav
+MaxV - Snare 17.wav
+MaxV - Snare 7.wav
+MaxV - HiHat Closed 1.wav
+MaxV - Snare 13.wav
+MaxV - Zap 3.wav
+MaxV - Snare 12.wav
+MaxV - Zap 2.wav
+MaxV - Scratch.wav
+MaxV - Snare 10.wav
+MaxV - Zap 1.wav
+MaxV - Snare 11.wav
+MaxV - Cowbell 1.wav
+MaxV - Conga 2.wav
+MaxV - Cowbell 2.wav
+MaxV - Snare 9.wav
+MaxV - Snare 19.wav
+MaxV - Snare 18.wav
+MaxV - Snare 8.wav
+MaxV - FX 12.wav
+MaxV - Kick 2.wav
+MaxV - FX 10.wav
+MaxV - Trngle F#.wav
+MaxV - FX 11.wav
+MaxV - Shaker.wav
+MaxV - FX 8.wav
+MaxV - FX 9.wav
+MaxV - DMX___SD.wav
+DXCrash.wav
+DXTomLo.wav
+MaxV - DMXACCNT.wav
+DXTom_E.wav
+MaxV - 009.wav
+MaxV - 008.wav
+MaxV - DMX__CHH.wav
+DXHat_C.wav
+DXHat_P.wav
+DXSnare.wav
+MaxV - 014.wav
+MaxV - DMXSHAKR.wav
+MaxV - DMX_RIDE.wav
+MaxV - 001.wav
+MaxV - 003.wav
+DXRimshot.wav
+MaxV - DMXCRASH.wav
+DXTomHi.wav
+MaxV - 002.wav
+MaxV - 006.wav
+MaxV - 012.wav
+MaxV - DMX__OHH.wav
+MaxV - 013.wav
+MaxV - 007.wav
+DXHat_O.wav
+MaxV - 011.wav
+MaxV - 005.wav
+DXShaker.wav
+MaxV - 004.wav
+MaxV - 010.wav
+DXRide.wav
+DXKick.wav
+DXClap.wav
+MaxV - DMX__TOM.wav
+TR-727Timbale_Hi.wav
+MaxV - Roland - 727_lago 05.wav
+TR-727Cabasa.wav
+TR-727Conga_HiOp.wav
+TR-727Maracas.wav
+MaxV - Roland - 727_mrcs 09.wav
+MaxV - Roland - 727_strc 11.wav
+TR-727Bongo_Lo.wav
+MaxV - Roland - 727_htmb 04.wav
+TR-727Conga_HiMut.wav
+MaxV - Roland - 727_hbng 03.wav
+MaxV - Roland - 727_cbs 01.wav
+TR-727Whistle_L.wav
+TR-727Quijada.wav
+MaxV - Roland - 727_ltmbl 08.wav
+TR-727AgogoLo.wav
+MaxV - Roland - 727_qjda 10.wav
+MaxV - Roland - 727_hago 02.wav
+TR-727Whistle_S.wav
+TR-727Timbale_Lo.wav
+TR-727AgogoHi.wav
+MaxV - Roland - 727_lcng 07.wav
+MaxV - Roland - 727_lbng 06.wav
+TR-727Conga_Lo.wav
+MaxV - Roland - 727_whst 12.wav
+TR-727Starchime.wav
+TR-727Bongo_Hi.wav
+MaxV - KorgM1 - 23.wav
+MaxV - KorgM1 - 22.wav
+MaxV - KorgM1 - 20.wav
+MaxV - KorgM1 - 34.wav
+MaxV - KorgM1 - 08.wav
+MaxV - KorgM1 - 09.wav
+MaxV - KorgM1 - 35.wav
+MaxV - KorgM1 - 21.wav
+MaxV - KorgM1 - 19.wav
+MaxV - KorgM1 - 25.wav
+MaxV - KorgM1 - 31.wav
+MaxV - KorgM1 - 30.wav
+MaxV - KorgM1 - 24.wav
+MaxV - KorgM1 - 18.wav
+MaxV - KorgM1 - 32.wav
+MaxV - KorgM1 - 26.wav
+MaxV - KorgM1 - 27.wav
+MaxV - KorgM1 - 33.wav
+WINDBLSS.wav
+TUBUL1SS.wav
+TUBUL3SS.wav
+BELRNGSS.wav
+MaxV - KorgM1 - 16.wav
+MaxV - KorgM1 - 02.wav
+TUBUL2SS.wav
+POLE__SS.wav
+MaxV - KorgM1 - 03.wav
+MaxV - KorgM1 - 17.wav
+MaxV - KorgM1 - 15.wav
+MaxV - KorgM1 - 29.wav
+MaxV - KorgM1 - 28.wav
+MaxV - KorgM1 - 14.wav
+FLEXTNSS.wav
+MaxV - KorgM1 - 04.wav
+MaxV - KorgM1 - 10.wav
+TUBUL4SS.wav
+MaxV - KorgM1 - 11.wav
+MaxV - KorgM1 - 05.wav
+MaxV - KorgM1 - 13.wav
+MaxV - KorgM1 - 07.wav
+MaxV - KorgM1 - 06.wav
+MaxV - KorgM1 - 12.wav
+VIBHITSS.wav
+MaxV - MUCONGA.wav
+MaxV - OPHIHAT.wav
+MaxV - STICK.wav
+MaxV - SNARE1.wav
+MaxV - PULBASS.wav
+MaxV - HICONGA.wav
+MaxV - HITOM.wav
+MaxV - SNARE2.wav
+MaxV - LOBONGO.wav
+MaxV - SNARE3.wav
+MaxV - THMBASS.wav
+MaxV - BASS1.wav
+MaxV - BASS2.wav
+MaxV - BASS3.wav
+MaxV - LOCONGA.wav
+MaxV - RIMSHOT.wav
+MaxV - HIBONGO.wav
+MaxV - MIDTOM.wav
+MaxV - TAMBRNE.wav
+MaxV - CABASA.wav
+MaxV - RIDE.wav
+MaxV - COWBELL.wav
+MaxV - CLAPS.wav
+MaxV - TIMBALES.wav
+MaxV - LOTOM.wav
+MaxV - AGOGO.wav
+MaxV - CRASH.wav
+MaxV - CLHIHAT.wav
+MaxV - CLAVES.wav
+MaxV - MTSnareElect.wav
+MaxV - MTClaves.wav
+MaxV - MTTimbaleLow.wav
+MaxV - MTSmbaWhisL.wav
+MaxV - MTCongaHigh.wav
+MaxV - MTCowbell.wav
+MaxV - MTCongaMutHi.wav
+MaxV - MTHatClosed.wav
+MaxV - MTTimbaleHi.wav
+MaxV - MTKickDrum.wav
+MaxV - MTCabasa.wav
+MaxV - MTAgogoHigh.wav
+MaxV - MTTambourine.wav
+MaxV - MTBongoHigh.wav
+MaxV - MTRimShot.wav
+MaxV - MTCongaLow.wav
+MaxV - MTTomHigh.wav
+MaxV - MTQuijada.wav
+MaxV - MTSnareAcou.wav
+MaxV - MTHatOpen2.wav
+MaxV - MTCrashCymbl.wav
+MaxV - MTMaracas.wav
+MaxV - MTTomLow.wav
+MaxV - MTHatOpen1.wav
+MaxV - MTBongoLow.wav
+MaxV - MTTomMid.wav
+MaxV - MTAgogoLow.wav
+MaxV - MTHandClap.wav
+MaxV - MTRideCymbal.wav
+MaxV - MTSmbaWhisS.wav
+snap101.wav
+cga2.wav
+hihat1.wav
+cowbel.wav
+tom1.wav
+bass6.wav
+crsh1.wav
+tom7.wav
+bass1.wav
+tom6.wav
+tamb.wav
+cbsa1.wav
+sstk1.wav
+snare.wav
+clap.wav
+claps.wav
+snar23.wav
+ride1.wav
+shake.wav
+Clhh01.wav
+Clhh02.wav
+Clhh03.wav
+BassDr08.wav
+Ophh01.wav
+Ophh02.wav
+Ophh03.wav
+Breath01.wav
+BassDr02.wav
+BassDr03.wav
+Snare06.wav
+Snare04.wav
+Breath02.wav
+BassDr01.wav
+Breath03.wav
+Snare05.wav
+Snare01.wav
+BassDr04.wav
+BassDr05.wav
+Rim02.wav
+Ride01.wav
+Snare02.wav
+Breath04.wav
+BassDr07.wav
+BassDr06.wav
+Clap01.wav
+Rim01.wav
+Snare03.wav
+LFOClap.wav
+LongBD03.wav
+Crash02.wav
+Crash03.wav
+LongBD02.wav
+LFOOphh.wav
+Crash01.wav
+LongBD01.wav
+MaxV - Roland Tr-606 - Hat-Op.wav
+TR606Cymb01.wav
+TR606Cymb02.wav
+MaxV - Roland Tr-606 - Tom-Hi.wav
+TR606Cymb03.wav
+TR606Cymb04.wav
+TR606TomLo_OD.wav
+TR606Cymb05.wav
+TR606Hat_C01.wav
+TR606Hat_C02.wav
+TR606Snare_OD.wav
+TR606Hat_C03.wav
+TR606Hat_P_OD.wav
+TR606Hat_C04.wav
+TR606Hat_C05.wav
+MaxV - Roland Tr-606 - Kick.wav
+TR606Hat_O05.wav
+TR606TomLo03.wav
+TR606Snare02.wav
+TR606Hat_P01.wav
+TR606Snare03.wav
+TR606TomLo02.wav
+TR606Hat_O04.wav
+MaxV - Roland Tr-606 - Snare.wav
+TR606Snare01.wav
+TR606Hat_P02.wav
+TR606Hat_P03.wav
+TR606TomLo01.wav
+TR606Hat_O03.wav
+TR606Hat_C_OD.wav
+TR606Snare04.wav
+TR606TomLo05.wav
+TR606TomHi_OD.wav
+TR606Hat_O_OD.wav
+MaxV - Roland Tr-606 - Tom-Lo.wav
+TR606TomLo04.wav
+TR606Snare05.wav
+TR606Cymb_OD.wav
+TR606Hat_O02.wav
+TR606Hat_P04.wav
+TR606Hat_P05.wav
+TR606Hat_O01.wav
+TR606Kick05.wav
+TR606TomHi02.wav
+TR606TomHi03.wav
+TR606Kick04.wav
+MaxV - Roland Tr-606 - Hat-Cl.wav
+MaxV - Roland Tr-606 - Crash.wav
+TR606TomHi01.wav
+TR606Kick_OD.wav
+TR606Kick03.wav
+TR606TomHi04.wav
+TR606TomHi05.wav
+TR606Kick02.wav
+MaxV - Roland Tr-606 - Tom-Med.wav
+TR606Kick01.wav
+MaxV - K-4.wav
+MaxV - D70DRUMS4.wav
+MaxV - ELEC-TOM.wav
+MaxV - K-2.wav
+MaxV - D70DRUMS3.wav
+MaxV - D70DRUMS2.wav
+MaxV - K-3.wav
+MaxV - K-1.wav
+MaxV - CL-HIHAT.wav
+MaxV - OP-HIHAT.wav
+MaxV - DLMBASS3.wav
+MaxV - D70-CRSH.wav
+MaxV - STICKS.wav
+MaxV - D70DRUMS.wav
+MaxV - JP-STRNG.wav
+MaxV - CLAP.wav
+MaxV - SD-5.wav
+MaxV - D70-CH.wav
+MaxV - SD-4.wav
+MaxV - TOM-2.wav
+MaxV - SD-3.wav
+MaxV - SD-2.wav
+MaxV - SIDESTK.wav
+MaxV - SD-1.wav
+R50 Timbale.wav
+R50 HatO.wav
+R50 Kick03.wav
+R50 Kick02.wav
+R50 Kick01.wav
+R50 Ride01.wav
+R50 Ride02.wav
+R50 Conga.wav
+R50 China.wav
+R50 Crash01.wav
+R50 TomM.wav
+R50 TomL.wav
+R50 Crash02.wav
+R50 Claps.wav
+R50 Shaker.wav
+R50 TomH.wav
+R50 Cowbell.wav
+R50 Tamborine.wav
+R50 Claves.wav
+R50 Agogo.wav
+R50 Snare03.wav
+R50 Snare02.wav
+R50 Snare01.wav
+R50 HatC.wav
+MaxV - R50e Clap.wav
+MaxV - R50e Hat Closed.wav
+MaxV - R50e Tom 5.wav
+MaxV - R50e Tom 4.wav
+MaxV - R50e Rimshot.wav
+MaxV - R50e Tympani.wav
+MaxV - R50e Click.wav
+MaxV - R50e Hat Open.wav
+MaxV - R50e Tom 3.wav
+MaxV - R50e Tom 2.wav
+MaxV - R50e Crash.wav
+MaxV - R50e Snap.wav
+MaxV - R50e Tom 1.wav
+MaxV - R50e Bass Gtr1.wav
+MaxV - R50e Snare 4.wav
+MaxV - R50e Snare 1.wav
+MaxV - R50e Snare 3.wav
+MaxV - R50e Snare 2.wav
+MaxV - R50e Bass Gtr 2.wav
+MaxV - R50e Kick 2.wav
+MaxV - R50e Orch 1.wav
+MaxV - R50e Kick 3.wav
+MaxV - R50e Kick 1.wav
+MaxV - R50e Orch 2.wav
+MaxV - Tom Mid.wav
+MaxV - Kick 1.wav
+MaxV - HiHat Mid.wav
+MaxV - stompbass2.wav
+MaxV - stompbass3.wav
+MaxV - stompbass1.wav
+MaxV - 909bass10.wav
+MaxV - stompbass4.wav
+MaxV - stompbass5.wav
+MaxV - 909bass11.wav
+MaxV - stompbass7.wav
+MaxV - stompbass6.wav
+MaxV - 909bass12.wav
+MaxV - lowbass5.wav
+MaxV - lowbass_long4.wav
+MaxV - lowbass4.wav
+MaxV - lowbass6.wav
+MaxV - 909bass8.wav
+MaxV - 909bass9.wav
+MaxV - lowbass7.wav
+MaxV - lowbass3.wav
+MaxV - lowbass_long2.wav
+MaxV - lowbass12.wav
+MaxV - lowbass13.wav
+MaxV - lowbass_long3.wav
+MaxV - lowbass2.wav
+MaxV - lowbass11.wav
+MaxV - lowbass10.wav
+MaxV - lowbass1.wav
+MaxV - 909bass2.wav
+MaxV - 909bass3.wav
+MaxV - 909bass1.wav
+MaxV - 909bass4.wav
+MaxV - 909bass5.wav
+MaxV - lowbass9.wav
+MaxV - 909bass7.wav
+MaxV - 909bass6.wav
+MaxV - lowbass8.wav
+MaxV - lowbass_long.wav
+MaxV - SH5KICK1.wav
+R8Talk1.wav
+R8Tabla1.wav
+R8Snare22.wav
+R8Snare36.wav
+R8Snare37.wav
+R8Ride08.wav
+R8Snare23.wav
+R8Hat_C01.wav
+R8Guiro1.wav
+R8Talk2.wav
+R8Tabla2.wav
+R8Hat_C03.wav
+R8Snare09.wav
+R8Snare35.wav
+R8Snare21.wav
+R8Snare20.wav
+R8Snare34.wav
+R8Snare08.wav
+R8Hat_C02.wav
+R8Tabla3.wav
+R8Guiro2.wav
+R8BongoLo.wav
+R8Djembe1.wav
+R8Spark.wav
+R8Cow2.wav
+R8Snare30.wav
+R8Snare24.wav
+R8Flex.wav
+R8Snare18.wav
+R8Snare19.wav
+R8Snare25.wav
+R8Snare31.wav
+R8Maraca1.wav
+R8Surdo1.wav
+R8Chinese.wav
+R8Shaker.wav
+R8Block1.wav
+R8Kalimba.wav
+R8FingerSnap.wav
+R8Djembe2.wav
+R8Block3.wav
+R8Maraca3.wav
+R8Tabla4.wav
+R8Hat_C05.wav
+R8Cow1.wav
+R8Snare27.wav
+R8Snare33.wav
+R8Snare32.wav
+R8Snare26.wav
+R8Hat_C04.wav
+R8Thriller.wav
+R8Maraca2.wav
+R8Surdo2.wav
+R8Caxixi.wav
+R8Block2.wav
+R8Djembe3.wav
+R8BellD.wav
+R8Kick19.wav
+R8Kick31.wav
+R8Bells.wav
+R8Kick25.wav
+R8Crash09.wav
+R8Tom13.wav
+R8Tom07.wav
+R8Gong.wav
+R8Snare41.wav
+R8Snare40.wav
+R8Tom06.wav
+R8Tom12.wav
+R8Crash08.wav
+R8Kick24.wav
+R8TomB.wav
+R8Kick30.wav
+R8Kick18.wav
+R8Deep.wav
+R8Concert.wav
+R8Kick26.wav
+R8Kick32.wav
+R8Tom04.wav
+R8Tom10.wav
+R8Tom38.wav
+R8Snare42.wav
+R8Snare43.wav
+R8Tom11.wav
+R8Tom05.wav
+R8Kick33.wav
+R8Kick27.wav
+R8TimbaleHi.wav
+R8TomE.wav
+R8Kick23.wav
+R8Splash02.wav
+R8Tom29.wav
+R8Tom01.wav
+R8Tom15.wav
+R8Darbuka1.wav
+R8Snare46.wav
+R8Tom14.wav
+R8Tom28.wav
+R8Can.wav
+R8TsuzumiLo.wav
+R8Kick22.wav
+R8Triangle.wav
+R8Cabasa.wav
+R8Kick20.wav
+R8Kick08.wav
+R8Splash01.wav
+R8Tom16.wav
+R8Tom02.wav
+R8Snare44.wav
+R8Darbuka2.wav
+R8Snare45.wav
+R8Tom03.wav
+R8CongLo.wav
+R8Tom17.wav
+R8Bell.wav
+R8Timpani.wav
+R8OpenDrum.wav
+R8Kick09.wav
+R8Kick21.wav
+R8Ohkawa.wav
+R8Whistle2.wav
+R8Rim02.wav
+R8Castanet.wav
+R8Kick10.wav
+R8Kick04.wav
+R8Daiko2.wav
+R8TomH2.wav
+R8Tom32.wav
+R8Tom26.wav
+R8TomHeavy.wav
+R8Tom27.wav
+R8Tom33.wav
+R8Daiko3.wav
+R8Crash01.wav
+R8Kick05.wav
+R8Kick11.wav
+R8Rim03.wav
+R8Whistle1.wav
+R8Rim01.wav
+R8Kick07.wav
+R8Kick13.wav
+R8Crash03.wav
+R8Daiko1.wav
+R8CongMut.wav
+R8Tom25.wav
+R8Tom31.wav
+R8Tom19.wav
+R8Tom18.wav
+R8Tom30.wav
+R8Tom24.wav
+R8Crash02.wav
+R8Kick12.wav
+R8Kick06.wav
+R8BongoHi.wav
+R8Taiko.wav
+R8Rim04.wav
+R8Kick02.wav
+R8Kick16.wav
+R8Crash06.wav
+R8Tom08.wav
+R8Tom20.wav
+R8Tom34.wav
+R8HiQ.wav
+R8Sleigh.wav
+R8Tom35.wav
+R8Tom21.wav
+R8Tom09.wav
+R8Crash07.wav
+R8Kick17.wav
+R8Kick03.wav
+R8Rim05.wav
+R8Chime.wav
+R8Kick15.wav
+R8Kick01.wav
+R8Kick29.wav
+R8Crash05.wav
+R8Tom37.wav
+R8Tom23.wav
+R8Tom22.wav
+R8Tom36.wav
+R8Crash04.wav
+R8Kick28.wav
+R8Kick14.wav
+R8FingerCym.wav
+R8Brush05.wav
+R8Log.wav
+R8Hat_O04.wav
+R8CongHi.wav
+R8Snare03.wav
+R8Snare17.wav
+R8Clave.wav
+R8Snare16.wav
+R8Clap02.wav
+R8Snare02.wav
+R8Ride01.wav
+R8Agogo.wav
+R8Hat_O05.wav
+R8Hat_P01.wav
+R8Brush04.wav
+R8Cuica2.wav
+R8Brush06.wav
+R8Vibra.wav
+R8TsuzumiHi.wav
+R8Snare28.wav
+R8Ride03.wav
+R8Snare14.wav
+R8Clap01.wav
+R8Snare01.wav
+R8Snare15.wav
+R8Ride02.wav
+R8Snare29.wav
+R8Hat_O06.wav
+R8BBend.wav
+R8Noise.wav
+R8Satellite.wav
+R8Cuica1.wav
+R8Brush03.wav
+R8TimbaleLo.wav
+R8Hat_O02.wav
+R8Pandiero2.wav
+R8Slap.wav
+R8Snare11.wav
+R8Snare05.wav
+R8CymbHand.wav
+R8Ride06.wav
+R8Snare39.wav
+R8Snare38.wav
+R8Ride07.wav
+R8Snare04.wav
+R8Snare10.wav
+R8Pandiero3.wav
+R8Hat_O03.wav
+R8Brush02.wav
+R8Hat_O01.wav
+R8Pandiero1.wav
+R8Snare06.wav
+R8Snare12.wav
+R8Ride05.wav
+R8Ride04.wav
+R8Snare13.wav
+R8Snare07.wav
+R8Tamborine.wav
+R8Brush01.wav
+MaxV - SM Clap24.wav
+MaxV - SM Clap18.wav
+MaxV - SM Clap6.wav
+MaxV - SM Clap7.wav
+MaxV - SM Clap19.wav
+MaxV - SM Clap25.wav
+MaxV - SM Clap5.wav
+MaxV - SM Clap4.wav
+MaxV - SM Clap22.wav
+MaxV - SM Clap23.wav
+MaxV - SM Clap1.wav
+MaxV - SM Clap3.wav
+MaxV - SM Clap21.wav
+MaxV - SM Clap20.wav
+MaxV - SM Clap2.wav
+MaxV - SM Clap11.wav
+MaxV - SM Clap10.wav
+MaxV - SM Clap12.wav
+MaxV - SM Clap13.wav
+MaxV - SM Clap9.wav
+MaxV - SM Clap17.wav
+MaxV - SM Clap16.wav
+MaxV - SM Clap8.wav
+MaxV - SM Clap14.wav
+MaxV - SM Clap15.wav
+DR220eHat_O.wav
+DR220eTomHi.wav
+DR220eCrash.wav
+DR220eTomLo.wav
+DR220eKick.wav
+DR220eTomMid.wav
+DR220eCymbal.wav
+DR220eCowbell.wav
+DR220eSlap.wav
+DR220eSnare.wav
+DR220eHat_C.wav
+MaxV - SLAP_3.wav
+MaxV - SLAP_2.wav
+MaxV - SLAP_1.wav
+MaxV - TOM_05.wav
+MaxV - TOM_11.wav
+MaxV - SQSM-01.wav
+MaxV - TOM_10.wav
+MaxV - TOM_04.wav
+MaxV - TOM_12.wav
+MaxV - TOM_06.wav
+MaxV - SQSM-02.wav
+MaxV - SQSM-03.wav
+MaxV - TOM_07.wav
+MaxV - TOM_13.wav
+MaxV - TOM_17.wav
+MaxV - TOM_03.wav
+MaxV - SQSM-07.wav
+MaxV - SQSM-12.wav
+MaxV - SQSM-06.wav
+MaxV - TOM_02.wav
+MaxV - TOM_16.wav
+MaxV - TOM_14.wav
+MaxV - SQSM-10.wav
+MaxV - SQSM-04.wav
+MaxV - SQSM-05.wav
+MaxV - SQSM-11.wav
+MaxV - TOM_15.wav
+MaxV - TOM_01.wav
+MaxV - SQSM-08.wav
+MaxV - SQSM-09.wav
+MaxV - TOM_09.wav
+MaxV - TOM_08.wav
+512bdrum.wav
+512hitom.wav
+512clap.wav
+512hhop.wav
+512mdtom.wav
+512lotom.wav
+512cymb.wav
+512hhcl.wav
+512 loop.wav
+512snare.wav
+17.wav
+22.wav
+20.wav
+21.wav
+19.wav
+18.wav
+DR550Snare03.wav
+MaxV - KCK1.wav
+MaxV - OHH2.wav
+DR550AgogoHi.wav
+DR550TomE.wav
+MaxV - AG-H.wav
+DR550Conga_Lo.wav
+DR550Hat03_C.wav
+DR550Tamborine.wav
+MaxV - CHH2.wav
+MaxV - CG-L.wav
+DR550Clap01.wav
+DR550Snare02.wav
+DR550Ride02.wav
+MaxV - KCK2.wav
+MaxV - OHH1.wav
+MaxV - HTM2.wav
+MaxV - CHH1.wav
+DR550Hat01_C.wav
+MaxV - HTM3.wav
+DR550Clap02.wav
+DR550Snare01.wav
+MaxV - KCK3.wav
+DR550Ride01.wav
+DR550Snare05.wav
+MaxV - SIDE.wav
+DR550Rim.wav
+MaxV - COW1.wav
+DR550Tom02_M.wav
+DR550Bongo_Hi.wav
+DR550Tom02_Lo.wav
+DR550Snare04.wav
+MaxV - KCK4.wav
+MaxV - CG-H.wav
+MaxV - HIQ.wav
+MaxV - COW2.wav
+MaxV - AG-L.wav
+DR550Tom01_Hi.wav
+MaxV - KCK5.wav
+DR550Crash01.wav
+MaxV - CLVS.wav
+DR550Hat02_C.wav
+DR550Kick04.wav
+DR550Kick05.wav
+DR550Tom01_M.wav
+DR550Kick01.wav
+MaxV - BELL.wav
+MaxV - CRSH.wav
+MaxV - LTM3.wav
+DR550Kick02.wav
+DR550Cowbell.wav
+DR550Kick03.wav
+MaxV - LTM2.wav
+MaxV - TMBR.wav
+DR550Tom01_Lo.wav
+MaxV - SNR5.wav
+MaxV - SNR4.wav
+DR550Tom02_Hi.wav
+DR550Bongo_Lo.wav
+MaxV - SNR6.wav
+MaxV - BG-L.wav
+MaxV - SHKR.wav
+DR550Hat02_O.wav
+DR550HiQ.wav
+MaxV - SNR3.wav
+MaxV - BG-H.wav
+MaxV - SNR2.wav
+DR550SplashCym.wav
+DR550Conga_Hi.wav
+MaxV - SNR1.wav
+DR550AgogoLo.wav
+DR550Clave.wav
+MaxV - CG-S.wav
+MaxV - TB-L.wav
+DR550Timbale.wav
+MaxV - PHH1.wav
+DR550Scratch01.wav
+MaxV - MTM2.wav
+MaxV - CABA.wav
+DR550Conga_M.wav
+DR550Hat01_O.wav
+DR550Scratch02.wav
+DR550Hat03_O.wav
+MaxV - TB-H.wav
+DR550Maracas.wav
+bd1.wav
+tom.wav
+bd2.wav
+hihat.wav
+snare 3.wav
+snare 2.wav
+kkhhaaa.wav
+clank.wav
+BIG tom.wav
+tom2.wav
+guitkchung.wav
+rim.wav
+electro2.wav
+thisnare.wav
+Kick.wav
+hihat semi.wav
+lo tom.wav
+big esnare.wav
+syncord2.wav
+esnare2.wav
+syncord.wav
+guitchun.wav
+open hi.wav
+lo tom2.wav
+doink.wav
+zap.wav
+esnare.wav
+synbass.wav
+electro.wav
+doomtom.wav
+snare3.wav
+MaxVolt - ASDM 66.wav
+MaxVolt - ASDM 72.wav
+MaxVolt - ASDM 132.wav
+MaxVolt - ASDM 126.wav
+MaxVolt - ASDM 127.wav
+MaxVolt - ASDM 133.wav
+MaxVolt - ASDM 73.wav
+MaxVolt - ASDM 67.wav
+MaxVolt - ASDM 71.wav
+MaxVolt - ASDM 65.wav
+MaxVolt - ASDM 125.wav
+MaxVolt - ASDM 131.wav
+MaxVolt - ASDM 130.wav
+MaxVolt - ASDM 124.wav
+MaxVolt - ASDM 64.wav
+MaxVolt - ASDM 70.wav
+MaxVolt - ASDM 74.wav
+MaxVolt - ASDM 60.wav
+MaxVolt - ASDM 120.wav
+MaxVolt - ASDM 134.wav
+MaxVolt - ASDM 135.wav
+MaxVolt - ASDM 121.wav
+MaxVolt - ASDM 61.wav
+MaxVolt - ASDM 75.wav
+MaxVolt - ASDM 63.wav
+MaxVolt - ASDM 77.wav
+MaxVolt - ASDM 137.wav
+MaxVolt - ASDM 123.wav
+MaxVolt - ASDM 122.wav
+MaxVolt - ASDM 136.wav
+MaxVolt - ASDM 76.wav
+MaxVolt - ASDM 62.wav
+MaxVolt - ASDM 05.wav
+MaxVolt - ASDM 11.wav
+MaxVolt - ASDM 151.wav
+MaxVolt - ASDM 145.wav
+MaxVolt - ASDM 144.wav
+MaxVolt - ASDM 150.wav
+MaxVolt - ASDM 10.wav
+MaxVolt - ASDM 04.wav
+MaxVolt - ASDM 12.wav
+MaxVolt - ASDM 06.wav
+MaxVolt - ASDM 146.wav
+MaxVolt - ASDM 152.wav
+MaxVolt - ASDM 153.wav
+MaxVolt - ASDM 147.wav
+MaxVolt - ASDM 07.wav
+MaxVolt - ASDM 13.wav
+MaxVolt - ASDM 17.wav
+MaxVolt - ASDM 03.wav
+MaxVolt - ASDM 143.wav
+MaxVolt - ASDM 157.wav
+MaxVolt - ASDM 156.wav
+MaxVolt - ASDM 142.wav
+MaxVolt - ASDM 02.wav
+MaxVolt - ASDM 16.wav
+MaxVolt - ASDM 14.wav
+MaxVolt - ASDM 154.wav
+MaxVolt - ASDM 140.wav
+MaxVolt - ASDM 141.wav
+MaxVolt - ASDM 155.wav
+MaxVolt - ASDM 15.wav
+MaxVolt - ASDM 24.wav
+MaxVolt - ASDM 30.wav
+MaxVolt - ASDM 31.wav
+MaxVolt - ASDM 25.wav
+MaxVolt - ASDM 33.wav
+MaxVolt - ASDM 27.wav
+MaxVolt - ASDM 26.wav
+MaxVolt - ASDM 32.wav
+MaxVolt - ASDM 36.wav
+MaxVolt - ASDM 22.wav
+MaxVolt - ASDM 23.wav
+MaxVolt - ASDM 37.wav
+MaxVolt - ASDM 21.wav
+MaxVolt - ASDM 35.wav
+MaxVolt - ASDM 160.wav
+MaxVolt - ASDM 34.wav
+MaxVolt - ASDM 20.wav
+MaxVolt - ASDM 47.wav
+MaxVolt - ASDM 53.wav
+MaxVolt - ASDM 113.wav
+MaxVolt - ASDM 107.wav
+MaxVolt - ASDM 106.wav
+MaxVolt - ASDM 112.wav
+MaxVolt - ASDM 52.wav
+MaxVolt - ASDM 46.wav
+MaxVolt - ASDM 50.wav
+MaxVolt - ASDM 44.wav
+MaxVolt - ASDM 104.wav
+MaxVolt - ASDM 110.wav
+MaxVolt - ASDM 111.wav
+MaxVolt - ASDM 105.wav
+MaxVolt - ASDM 45.wav
+MaxVolt - ASDM 51.wav
+MaxVolt - ASDM 55.wav
+MaxVolt - ASDM 41.wav
+MaxVolt - ASDM 101.wav
+MaxVolt - ASDM 115.wav
+MaxVolt - ASDM 114.wav
+MaxVolt - ASDM 100.wav
+MaxVolt - ASDM 40.wav
+MaxVolt - ASDM 54.wav
+MaxVolt - ASDM 42.wav
+MaxVolt - ASDM 56.wav
+MaxVolt - ASDM 116.wav
+MaxVolt - ASDM 102.wav
+MaxVolt - ASDM 103.wav
+MaxVolt - ASDM 117.wav
+MaxVolt - ASDM 57.wav
+MaxVolt - ASDM 43.wav
+TR-808Tom03.wav
+MaxV - Roland808 - SD1050 13.wav
+MaxV - Roland808 - LT75 86.wav
+TR-808Hat_C01.wav
+MaxV - Roland808 - BD0075 17.wav
+MaxV - Roland808 - BD1050 21.wav
+MaxV - Roland808 - CY1010 48.wav
+MaxV - Roland808 - CY7550 65.wav
+TR-808Tom02.wav
+MaxV - Roland808 - 808Oh25 11.wav
+MaxV - Roland808 - LC00 77.wav
+MaxV - Roland808 - BD5075 32.wav
+TR-808Hat_C03.wav
+TR-808Ride04.wav
+TR-808Snare09.wav
+TR-808Conga04.wav
+MaxV - Roland808 - OH25 01.wav
+MaxV - Roland808 - CY2550 55.wav
+TR-808Conga05.wav
+MaxV - Roland808 - CY0025 44.wav
+TR-808Snare08.wav
+TR-808Hat_C02.wav
+MaxV - Roland808 - HT00 72.wav
+TR-808Tom01.wav
+MaxV - Roland808 - HT10 73.wav
+MaxV - Roland808 - 808Cl 04.wav
+TR-808Tom05.wav
+MaxV - Roland808 - 808HH 06.wav
+MaxV - Roland808 - CP 41.wav
+TR-808Ride01.wav
+TR-808Clap02.wav
+TR-808Shaker02.wav
+MaxV - Roland808 - LC50 80.wav
+TR-808Conga01.wav
+MaxV - Roland808 - SD0025 07.wav
+MaxV - Roland808 - MT00 93.wav
+MaxV - Roland808 - BD7500 33.wav
+TR-808Tom04.wav
+MaxV - Roland808 - SD0075 09.wav
+MaxV - Roland808 - BD7510 34.wav
+TR-808Tom06.wav
+MaxV - Roland808 - 808Cb 02.wav
+MaxV - Roland808 - 808Ma 10.wav
+TR-808Hat_C05.wav
+TR-808Ride02.wav
+TR-808Clap01.wav
+TR-808Conga02.wav
+MaxV - Roland808 - MT10 94.wav
+TR-808Shaker01.wav
+MaxV - Roland808 - MC25 90.wav
+MaxV - Roland808 - CY1050 50.wav
+MaxV - Roland808 - 808Lt00 09.wav
+TR-808Conga03.wav
+TR-808Ride03.wav
+TR-808Hat_C04.wav
+MaxV - Roland808 - BD2550 26.wav
+MaxV - Roland808 - 808Rs 12.wav
+MaxV - Roland808 - SD5025 22.wav
+TR-808Tom07.wav
+MaxV - Roland808 - CY5025 59.wav
+TR-808Kick03.wav
+MaxV - Roland808 - SD7575 29.wav
+MaxV - Roland808 - CY5000 57.wav
+MaxV - Roland808 - SD2525 17.wav
+MaxV - Roland808 - BD0010 14.wav
+MaxV - Roland808 - BD2525 25.wav
+MaxV - Roland808 - HT75 76.wav
+MaxV - Roland808 - CL 40.wav
+MaxV - Roland808 - 808Cp 05.wav
+TR-808Kick02.wav
+TR-808Kick16.wav
+TR-808Kick14.wav
+MaxV - Roland808 - MC50 91.wav
+MaxV - Roland808 - MC00 88.wav
+MaxV - Roland808 - SD7525 27.wav
+MaxV - Roland808 - SD2575 19.wav
+MaxV - Roland808 - 808_boom 01.wav
+MaxV - Roland808 - SD5050 23.wav
+MaxV - Roland808 - BD0000 13.wav
+MaxV - Roland808 - LT00 82.wav
+TR-808Kick15.wav
+TR-808Kick01.wav
+MaxV - Roland808 - HC10 68.wav
+TR-808Kick05.wav
+TR-808Kick11.wav
+MaxV - Roland808 - LT10 83.wav
+MaxV - Roland808 - 808Ch 03.wav
+MaxV - Roland808 - CY5050 60.wav
+MaxV - Roland808 - HC50 70.wav
+MaxV - Roland808 - MA 87.wav
+MaxV - Roland808 - MC10 89.wav
+MaxV - Roland808 - BD1025 20.wav
+MaxV - Roland808 - CY7525 64.wav
+MaxV - Roland808 - SD1025 12.wav
+MaxV - Roland808 - LC25 79.wav
+MaxV - Roland808 - OH50 02.wav
+TR-808Kick10.wav
+TR-808Kick04.wav
+TR-808Kick12.wav
+TR-808Kick06.wav
+TR-808Cow.wav
+MaxV - Roland808 - BD7575 37.wav
+MaxV - Roland808 - 808Ht00 07.wav
+MaxV - Roland808 - CY2525 54.wav
+MaxV - Roland808 - CY0050 45.wav
+MaxV - Roland808 - MT75 97.wav
+TR-808Kick07.wav
+TR-808Kick13.wav
+MaxV - Roland808 - SD0010 06.wav
+MaxV - Roland808 - LT50 85.wav
+MaxV - Roland808 - HC00 67.wav
+MaxV - Roland808 - CY7575 66.wav
+MaxV - Roland808 - SD5010 21.wav
+MaxV - Roland808 - BD1075 22.wav
+MaxV - Roland808 - CH 39.wav
+MaxV - Roland808 - BD5050 31.wav
+MaxV - Roland808 - CY5010 58.wav
+TR-808Kick09.wav
+MaxV - Roland808 - BD5000 28.wav
+MaxV - Roland808 - CY0010 43.wav
+MaxV - Roland808 - BD0050 16.wav
+MaxV - Roland808 - MT25 95.wav
+MaxV - Roland808 - CY2575 56.wav
+TR-808Kick08.wav
+MaxV - Roland808 - BD7525 35.wav
+MaxV - Roland808 - BD2575 27.wav
+MaxV - Roland808 - CY1025 49.wav
+MaxV - Roland808 - 808Lc00 08.wav
+MaxV - Roland808 - CY0000 42.wav
+MaxV - Roland808 - SD0000 05.wav
+MaxV - Roland808 - CY1075 51.wav
+MaxV - Roland808 - BD5010 29.wav
+MaxV - Roland808 - SD0050 08.wav
+MaxV - Roland808 - HT25 74.wav
+MaxV - Roland808 - SD5000 20.wav
+TR-808Clave.wav
+MaxV - Roland808 - SD1075 14.wav
+MaxV - Roland808 - LC75 81.wav
+MaxV - Roland808 - LC10 78.wav
+TR-808Snare03.wav
+MaxV - Roland808 - BD1000 18.wav
+MaxV - Roland808 - OH10 99.wav
+MaxV - Roland808 - SD2550 18.wav
+TR-808Snare02.wav
+TR-808Snare16.wav
+MaxV - Roland808 - HT50 75.wav
+MaxV - Roland808 - SD2500 15.wav
+MaxV - Roland808 - CY2500 52.wav
+MaxV - Roland808 - MC75 92.wav
+TR-808Snare14.wav
+MaxV - Roland808 - CY7500 62.wav
+MaxV - Roland808 - SD7500 25.wav
+TR-808Snare15.wav
+TR-808Snare01.wav
+MaxV - Roland808 - SD1010 11.wav
+MaxV - Roland808 - CB 38.wav
+MaxV - Roland808 - SD7550 28.wav
+MaxV - Roland808 - CY1000 47.wav
+MaxV - Roland808 - SD1000 10.wav
+MaxV - Roland808 - MT50 96.wav
+MaxV - Roland808 - BD7550 36.wav
+TR-808Snare05.wav
+MaxV - Roland808 - CY7510 63.wav
+TR-808Snare11.wav
+TR-808Hat_O02.wav
+MaxV - Roland808 - SD5075 24.wav
+TR-808Hat_O03.wav
+MaxV - Roland808 - BD2510 24.wav
+TR-808Snare10.wav
+TR-808Snare04.wav
+TR-808Rim01.wav
+MaxV - Roland808 - LT25 84.wav
+MaxV - Roland808 - BD0025 15.wav
+MaxV - Roland808 - SD2510 16.wav
+MaxV - Roland808 - RS 04.wav
+MaxV - Roland808 - HC25 69.wav
+MaxV - Roland808 - OH75 03.wav
+MaxV - Roland808 - CY2510 53.wav
+MaxV - Roland808 - BD2500 23.wav
+MaxV - Roland808 - BD5025 30.wav
+TR-808Snare12.wav
+TR-808Snare06.wav
+MaxV - Roland808 - OH00 98.wav
+TR-808Hat_O01.wav
+MaxV - Roland808 - HC75 71.wav
+MaxV - Roland808 - CY5075 61.wav
+MaxV - Roland808 - BD1010 19.wav
+TR-808Snare07.wav
+MaxV - Roland808 - SD7510 26.wav
+TR-808Snare13.wav
+TR-808Rim02.wav
+MaxV - Roland808 - CY0075 46.wav
+JD800 Internal Drums 011.wav
+JD800 Internal Drums 005.wav
+JD800 Internal Drums 039.wav
+JD800 Internal Drums 038.wav
+JD800 Internal Drums 004.wav
+JD800 Internal Drums 010.wav
+JD800 Internal Drums 006.wav
+JD800 Internal Drums 012.wav
+JD800 Internal Drums 013.wav
+JD800 Internal Drums 007.wav
+JD800 Internal Drums 003.wav
+JD800 Internal Drums 017.wav
+JD800 Internal Drums 016.wav
+JD800 Internal Drums 002.wav
+JD800 Internal Drums 028.wav
+JD800 Internal Drums 014.wav
+JD800 Internal Drums 001.wav
+JD800 Internal Drums 015.wav
+JD800 Internal Drums 029.wav
+JD800 Internal Drums 030.wav
+JD800 Internal Drums 024.wav
+JD800 Internal Drums 018.wav
+JD800 Internal Drums 019.wav
+JD800 Internal Drums 025.wav
+JD800 Internal Drums 031.wav
+JD800 Internal Drums 027.wav
+JD800 Internal Drums 033.wav
+JD800 Internal Drums 032.wav
+JD800 Internal Drums 026.wav
+JD800 Internal Drums 022.wav
+JD800 Internal Drums 036.wav
+JD800 Internal Drums 037.wav
+JD800 Internal Drums 023.wav
+JD800 Internal Drums 009.wav
+JD800 Internal Drums 035.wav
+JD800 Internal Drums 021.wav
+JD800 Internal Drums 020.wav
+JD800 Internal Drums 034.wav
+JD800 Internal Drums 008.wav
+JD800 Internal Drums 046.wav
+JD800 Internal Drums 044.wav
+JD800 Internal Drums 045.wav
+JD800 Internal Drums 041.wav
+JD800 Internal Drums 040.wav
+JD800 Internal Drums 042.wav
+JD800 Internal Drums 043.wav
+MaxV - F30 - 03.wav
+MaxV - F30 - 02.wav
+MaxV - F30 - 01.wav
+MaxV - F30 - 05.wav
+MaxV - F30 - 04.wav
+MaxV - F30 - 06.wav
+Hhopsy53.wav
+Scrsh1sy77.wav
+Tom4elsy47.wav
+Crsh2sy56.wav
+Timbl2sy86.wav
+Cleptsy62.wav
+Timblsy87.wav
+Snr3sy41.wav
+Uuhsy94.wav
+Cbcsy68.wav
+Snr2sy40.wav
+Tom3sy50.wav
+Timp2sy89.wav
+Pauzimsy75.wav
+Cg2sy59.wav
+Crshsy57.wav
+Cg3sy60.wav
+Ride2sy54.wav
+Revsymbsy76.wav
+Tom2elsy45.wav
+Cuicasy70.wav
+Clapsy61.wav
+Tmborimsy90.wav
+Sidesy80.wav
+Kik3sy38.wav
+Indsy72.wav
+Agosy64.wav
+Timp1sy88.wav
+Cabcsy67.wav
+Tom3elsy46.wav
+Agosy65.wav
+Cg1sy58.wav
+Hhclsy52.wav
+Cuica2sy69.wav
+Surdo2sy83.wav
+Slp2sy.wav
+Kik2sy37.wav
+Triclosesy92.wav
+Indy3sy73.wav
+Snr4sy42.wav
+Snr5sy43.wav
+Tom4sy51.wav
+Tmbrsy91.wav
+Cowsy63.wav
+Side2sy79.wav
+Tom1sy48.wav
+Scrsh2sy78.wav
+Splshsy81.wav
+Ind2sy71.wav
+Brokesy66.wav
+Kik1sy36.wav
+Snr1sy39.wav
+Tecsy85.wav
+Tom2sy49.wav
+Triopsy93.wav
+Ridesy55.wav
+Surdosy84.wav
+Maracsy74.wav
+Tom1elsy44.wav
+MaxV - Guiro Long.wav
+MaxV - Guiro Short.wav
+MaxV - CUICA_H.wav
+MaxV - CONGA_H.wav
+MaxV - CONGA_L.wav
+MaxV - CUICA_L.wav
+MaxV - TIMBAL_H.wav
+MaxV - TAMBOURI.wav
+MaxV - CONGA_HM.wav
+MaxV - TIMBAL_L.wav
+MaxV - WHISTLE1.wav
+MaxV - BONGO_L.wav
+MaxV - WHISTLE2.wav
+MaxV - BONGO_H.wav
+MaxV - AGOGO_L.wav
+MaxV - AGOGO_H.wav
+MaxV - RIDECYM2.wav
+MaxV - SIDESTIK.wav
+MaxV - VIBRSLAP.wav
+MaxV - RIDECYM1.wav
+MaxV - RIDEBELL.wav
+MaxV - SNARE2P.wav
+MaxV - CLSHIHAT.wav
+MaxV - SPLSHCYM.wav
+MaxV - PDLHIHAT.wav
+MaxV - HANDCLAP.wav
+MaxV - BONGOLOW.wav
+MaxV - CRSHCYM2.wav
+MaxV - KICKDRM1.wav
+MaxV - OPNHIHAT.wav
+MaxV - CRSHCYM1.wav
+MaxV - TAMBORIN.wav
+MaxV - TMBALELO.wav
+MaxV - SNARE1P.wav
+MaxV - Perc1.wav
+MaxV - Perc2.wav
+TYPHOON9.wav
+TYPHOON8.wav
+TYPHOON3.wav
+TYPHOONE.wav
+TYPHOOND.wav
+TYPHOON2.wav
+TYPHOONF.wav
+TYPHOON1.wav
+TYPHOONC.wav
+TYPHOON5.wav
+TYPHOON4.wav
+TYPHOONB.wav
+TYPHOON6.wav
+TYPHOON7.wav
+TYPHOONA.wav
+TR-626Agogo_Lo.wav
+TR-626Rimshot.wav
+TR-626Crash.wav
+MaxV - Roland - 626_cup 06.wav
+MaxV - Roland - 626_chh 03.wav
+MaxV - Roland - 626mhcng 26.wav
+TR-626Cup.wav
+MaxV - Roland - 626_ride 08.wav
+TR-626Kick01.wav
+MaxV - Roland - 626htimb 18.wav
+TR-626Kick02.wav
+MaxV - Roland - 626_bd1 01.wav
+TR-626Timbale_Lo.wav
+MaxV - Roland - 626ltom1 24.wav
+TR-626Snare02.wav
+TR-626Tamborine.wav
+MaxV - Roland - 626htom2 20.wav
+TR-626Snare03.wav
+MaxV - Roland - 626china 14.wav
+MaxV - Roland - 626_sd2 11.wav
+TR-626Snare01.wav
+MaxV - Roland - 626_ohh 07.wav
+TR-626Hat_C.wav
+MaxV - Roland - 626_cowb 05.wav
+TR-626Timbale_Hi.wav
+TR-626Hat_O.wav
+MaxV - Roland - 626_bd2 02.wav
+TR-626Tom_H02.wav
+TR-626Conga_Lo.wav
+MaxV - Roland - 626ltimb 23.wav
+MaxV - Roland - 626lcnga 22.wav
+MaxV - Roland - 626hagog 17.wav
+TR-626Tom_H01.wav
+MaxV - Roland - 626_tamb 13.wav
+TR-626Tom_L01.wav
+TR-626Claves.wav
+TR-626Tom_L02.wav
+TR-626Conga_HiOp.wav
+TR-626China.wav
+MaxV - Roland - 626crash 16.wav
+TR-626Shaker.wav
+MaxV - Roland - 626mtom2 28.wav
+TR-626Agogo_Hi.wav
+MaxV - Roland - 626ohcng 29.wav
+MaxV - Roland - 626_clap 04.wav
+TR-626Clap.wav
+MaxV - Roland - 626lagog 21.wav
+MaxV - Roland - 626_sd3 12.wav
+MaxV - Roland - 626shakr 30.wav
+MaxV - Roland - 626htom1 19.wav
+MaxV - Roland - 626ltom2 25.wav
+TR-626Cow.wav
+TR-626Ride.wav
+TR-626Tom_M02.wav
+TR-626Conga_MutHi.wav
+MaxV - Roland - 626_sd1 10.wav
+MaxV - Roland - 626mtom1 27.wav
+TR-626Tom_M01.wav
+MaxV - Roland - 626_rim 09.wav
+XR10Snare03.wav
+XR10Snare02.wav
+XR10Kick01.wav
+XRCow.wav
+XR10Kick03.wav
+XR10Hat_C.wav
+XRConga04.wav
+XR10Snare01.wav
+XR10Kick02.wav
+XR10Kick06.wav
+XR10Snare05.wav
+XRConga01.wav
+XR10Tamborine.wav
+XR10Snare10.wav
+XR10Snare04.wav
+XR10Kick07.wav
+XR10Kick05.wav
+XR10Snare06.wav
+XRConga03.wav
+XRConga02.wav
+XR10Snare07.wav
+XR10Kick04.wav
+XR10Kick10.wav
+XR10Rimshot01.wav
+XR10LoTom02.wav
+XRTambroll.wav
+XR10Crash01.wav
+XR10MidTom01.wav
+XR10LoTom03.wav
+XRFinSnap.wav
+XR10Rimshot02.wav
+XR10LoTom01.wav
+XR10MidTom03.wav
+XR10RideCymbal.wav
+XR10Crash02.wav
+XR10MidTom02.wav
+XR10LoTom04.wav
+XRGuira01.wav
+XR10Choke.wav
+XR10Timb_Lo.wav
+XR10Vibra.wav
+XRGuira02.wav
+XR10MidTom04.wav
+XR10HiTom02.wav
+XRClave.wav
+XRAgogo.wav
+XR10HiTom03.wav
+XR10HiTom01.wav
+XR10HiTom04.wav
+XR10Triangle.wav
+XR10Kick09.wav
+XR10Whistle.wav
+XR10Timb_Hi.wav
+XR10Kick08.wav
+XR10Snare09.wav
+XRCabasa.wav
+XR10Snare08.wav
+XR10HiQ02.wav
+XR10Hat_O.wav
+XR10Hat_Mid.wav
+XR10HiQ01.wav
+XR10Clap.wav
+AGOGO1.wav
+ACCENTHH.wav
+AGOGO2.wav
+TOM1.wav
+TOM2.wav
+TOM3.wav
+BASS1.wav
+RIM.wav
+TOM4.wav
+BASS2.wav
+BASS3.wav
+CLOSEDHH.wav
+CLAP.wav
+OPENHH.wav
+RIDE2.wav
+SNARE1.wav
+CRASH.wav
+CABASA2.wav
+RIDE1.wav
+SNARE2.wav
+SNARE3.wav
+CABASA1.wav
+MaxV - SY35 - 19.wav
+MaxV - SY35 - 18.wav
+MaxV - SY35 - 20.wav
+MaxV - SY35 - 08.wav
+MaxV - SY35 - 09.wav
+MaxV - SY35 - 21.wav
+MaxV - SY35 - 13.wav
+MaxV - SY35 - 07.wav
+MaxV - SY35 - 06.wav
+MaxV - SY35 - 12.wav
+MaxV - SY35 - 04.wav
+MaxV - SY35 - 10.wav
+MaxV - SY35 - 11.wav
+MaxV - SY35 - 05.wav
+MaxV - SY35 - 01.wav
+MaxV - SY35 - 15.wav
+MaxV - SY35 - 14.wav
+MaxV - SY35 - 16.wav
+MaxV - SY35 - 02.wav
+MaxV - SY35 - 03.wav
+MaxV - SY35 - 17.wav
+MaxV - HHCL2.wav
+MaxV - PERC01.wav
+MaxV - PERC03.wav
+MaxV - PERC02.wav
+MaxV - PERC12.wav
+MaxV - PERC06.wav
+MaxV - PERC07.wav
+MaxV - HHCL.wav
+MaxV - PERC05.wav
+MaxV - SNARE4.wav
+MaxV -PERC11.wav
+MaxV - PERC10.wav
+MaxV - PERC04.wav
+MaxV - PERC09.wav
+MaxV - KICK4.wav
+MaxV - PERC08.wav
+MaxV - KICK2.wav
+MaxV - KICK3.wav
+MaxV - RIM.wav
+MaxV - KICK1.wav
+MaxV - HHOP.wav
+MaxV - CLAVE.wav
+MaxV - Korg x5- 086.wav
+MaxV - Korg x5- 092.wav
+MaxV - Korg x5- 071-2.wav
+MaxV - Korg x5- 051.wav
+MaxV - Korg x5- 079.wav
+MaxV - Korg x5- 078.wav
+MaxV - Korg x5- 050.wav
+MaxV - Korg x5- 044.wav
+MaxV - Korg x5- 093.wav
+MaxV - Korg x5- 087.wav
+MaxV - Korg x5- 085.wav
+MaxV - Korg x5- 052.wav
+MaxV - Korg x5- 046.wav
+MaxV - Korg x5- 084.wav
+MaxV - Korg x5- 090.wav
+MaxV - Korg x5- 036-2.wav
+MaxV - Korg x5- 094.wav
+MaxV - Korg x5- 080.wav
+MaxV - Korg x5- 057.wav
+MaxV - Korg x5- 042.wav
+MaxV - Korg x5- 056.wav
+MaxV - Korg x5- 081.wav
+MaxV - Korg x5- 095.wav
+MaxV - Korg x5- 083.wav
+MaxV - Korg x5- 097.wav
+MaxV - Korg x5- 068.wav
+MaxV - Korg x5- 040.wav
+MaxV - Korg x5- 054.wav
+MaxV - Korg x5- 030-2.wav
+MaxV - Korg x5- 135.wav
+MaxV - Korg x5- 109.wav
+MaxV - Korg x5- 055.wav
+MaxV - Korg x5- 069.wav
+MaxV - Korg x5- 082.wav
+MaxV - Korg x5- 026.wav
+MaxV - Korg x5- 032.wav
+MaxV - Korg x5- 147.wav
+MaxV - Korg x5- 033.wav
+MaxV - Korg x5- 027.wav
+MaxV - Korg x5- 025.wav
+MaxV - Korg x5- 019.wav
+MaxV - Korg x5- 151.wav
+MaxV - Korg x5- 150.wav
+MaxV - Korg x5- 018.wav
+MaxV - Korg x5- 024.wav
+MaxV - Korg x5- 030.wav
+MaxV - Korg x5- 008.wav
+MaxV - Korg x5- 020.wav
+MaxV - Korg x5- 154.wav
+MaxV - Korg x5- 049-2.wav
+MaxV - Korg x5- 021.wav
+MaxV - Korg x5- 035.wav
+MaxV - Korg x5- 009.wav
+MaxV - Korg x5- 023.wav
+MaxV - Korg x5- 037.wav
+MaxV - Korg x5- 036.wav
+MaxV - Korg x5- 022.wav
+MaxV - Korg x5- 007.wav
+MaxV - Korg x5- 013.wav
+MaxV - Korg x5- 063-2.wav
+MaxV - Korg x5- 012.wav
+MaxV - Korg x5- 006.wav
+MaxV - Korg x5- 010.wav
+MaxV - Korg x5- 004.wav
+MaxV - Korg x5- 005.wav
+MaxV - Korg x5- 065-2.wav
+MaxV - Korg x5- 029.wav
+MaxV - Korg x5- 001.wav
+MaxV - Korg x5- 149.wav
+MaxV - Korg x5- 058-2.wav
+MaxV - Korg x5- 081-2.wav
+MaxV - Korg x5- 058-3.wav
+MaxV - Korg x5- 000.wav
+MaxV - Korg x5- 014.wav
+MaxV - Korg x5- 028.wav
+MaxV - Korg x5- 002.wav
+MaxV - Korg x5- 016.wav
+MaxV - Korg x5- 003.wav
+MaxV - Korg x5- 064.wav
+MaxV - Korg x5- 070.wav
+MaxV - Korg x5- 058.wav
+MaxV - Korg x5- 104.wav
+MaxV - Korg x5- 105.wav
+MaxV - Korg x5- 059.wav
+MaxV - Korg x5- 071.wav
+MaxV - Korg x5- 065.wav
+MaxV - Korg x5- 098.wav
+MaxV - Korg x5- 067.wav
+MaxV - Korg x5- 107.wav
+MaxV - Korg x5- 106.wav
+MaxV - Korg x5- 066.wav
+MaxV - Korg x5- 072.wav
+MaxV - Korg x5- 099.wav
+MaxV - Korg x5- 089.wav
+MaxV - Korg x5- 076.wav
+MaxV - Korg x5- 062.wav
+MaxV - Korg x5- 102.wav
+MaxV - Korg x5- 103.wav
+MaxV - Korg x5- 063.wav
+MaxV - Korg x5- 077.wav
+MaxV - Korg x5- 049.wav
+MaxV - Korg x5- 075.wav
+MaxV - Korg x5- 059-2.wav
+MaxV - Korg x5- 040-2.wav
+MaxV - Korg x5- 100.wav
+MaxV - Korg x5- 059-3.wav
+MaxV - Korg x5- 074.wav
+MaxV - Korg x5- 060.wav
+MaxV - Korg x5- 048.wav
+MaxV - CongaHi.wav
+MaxV - CongaLo.wav
+R50eTomE_Mid.wav
+R50eGuitar2.wav
+R50eGuitar1.wav
+R50eTomE_Lo.wav
+R50eCrash.wav
+R50eHat_C.wav
+R50eTomA_Lo.wav
+R50eOrch02.wav
+R50eKick01.wav
+R50eKick03.wav
+R50eOrch01.wav
+R50eKick02.wav
+R50eTomE_Hi.wav
+R50eHat_O.wav
+R50eClap.wav
+R50eRimshot.wav
+R50eSnap.wav
+R50eSnare04.wav
+R50eHiQ.wav
+R50Timp.wav
+R50eSnare01.wav
+R50eSnare02.wav
+R50eTomA_Hi.wav
+R50eSnare03.wav
+MaxV - SergeClick4.wav
+MaxV - SergeClick1.wav
+MaxV - SergeWhoomp.wav
+MaxV - SergeClick2.wav
+MaxV - SergeClick3.wav
+MaxV - SergeClaves.wav
+MaxV - SergeClink1.wav
+MaxV - SergeDistortion.wav
+MaxV - SergeSaucer.wav
+MaxV - SergeZBass.wav
+MaxV - SergeHigh.wav
+KPRHat_C.wav
+MaxV - KPR77 - 14.wav
+KPRClap.wav
+MaxV - KPR77 - 15.wav
+MaxV - KPR77 - 01.wav
+KPRTom_Hi.wav
+MaxV - KR77 -- Kick 06.wav
+MaxV - KPR77 - 03.wav
+MaxV - KPR77 - 02.wav
+KPRSnare.wav
+MaxV - KPR77 - 12.wav
+MaxV - KR77 -owbell 02.wav
+MaxV - KR77 -Hat-Cl 04.wav
+MaxV - KPR77 - 07.wav
+MaxV - KPR77 - 13.wav
+MaxV - KPR77 - 05.wav
+MaxV - KPR77 - 11.wav
+MaxV - KPR77 - 04.wav
+KPRKick.wav
+KPRCymbal.wav
+MaxV - KR77 -Tom-Hi 09.wav
+MaxV - KR77 -Hat-Op 05.wav
+KPRTom_Lo.wav
+MaxV - KPR77 - 09.wav
+MaxV - KPR77 - 08.wav
+MaxV - KR77 - Snare 08.wav
+MaxV - KR77 -- Clap 01.wav
+MaxV - KR77 -Tom-Lo 10.wav
+MaxV - KR77 - - Rim 07.wav
+KPRHat_O.wav
+MaxV - KR77 - Crash 03.wav
+coron-ds7-tom6.wav
+coron-ds7-tom7.wav
+coron-ds7-tom5.wav
+coron-ds7-tom4.wav
+coron-ds7-whistle.wav
+coron-ds7-tom1.wav
+coron-ds7-tom3.wav
+coron-ds7-tom2.wav
+MaxV - HH2.wav
+CR8000Hat_O.wav
+CR8000CongaHi.wav
+CR8000Tom_Lo.wav
+CR8000Kick.wav
+CR8000Clave.wav
+CR8000Cymbal.wav
+CR8000Clap.wav
+CR8000Snare.wav
+CR8000Tom_Hi.wav
+CR8000Cowbell.wav
+CR8000Rimshot.wav
+CR8000Hat_C.wav
+CR8000CongaLo.wav
+longhi.wav
+shortsn.wav
+kick.wav
+loop.wav
+shorthi.wav
+longsn.wav
+crash.wav
+MaxV - Low beep.wav
+MaxV - High beep.wav
+LinnSnare09.wav
+LinnSnare08.wav
+LinnHat_P.wav
+LinnHat_C.wav
+LinnTamborine.wav
+LinnCrash.wav
+LinnShaker.wav
+LinnRimshot.wav
+LinnCowbell.wav
+LinnSnare01.wav
+LinnSnare03.wav
+LinnSnare02.wav
+LinnHat_O.wav
+LinnClap.wav
+LinnSnare06.wav
+LinnTom02.wav
+LinnKick01.wav
+LinnSnare07.wav
+LinnRide.wav
+LinnSnare05.wav
+LinnTom01.wav
+LinnKick02.wav
+LinnSnare04.wav
+LinnRatchet.wav
+MaxV - 220_hi_agogo.wav
+DDM220Tamborine.wav
+MaxV - 220_lo_conga.wav
+DDM220Cabasa.wav
+DDM220Conga_Lo.wav
+DDM220Block.wav
+DDM220Agogo_Hi.wav
+MaxV - 220_timbale.wav
+MaxV - 220_cabasa.wav
+MaxV - 220_woodblock.wav
+MaxV - 220_hi_conga.wav
+MaxV - 220_lo_agogo.wav
+DDM220Timbale.wav
+MaxV - 220_cowbell.wav
+DDM220Agogo_Lo.wav
+DM220Cow.wav
+DDM220Conga_Hi.wav
+MaxV - 220_tamb.wav
+MaxV - 042.wav
+MaxV - 043.wav
+MaxV - 041.wav
+MaxV - 044.wav
+MaxV - 045.wav
+MaxV - 047.wav
+MaxV - 046.wav
+MaxV - 048.wav
+MaxV - 049.wav
+MaxV - Sh101 - 14.wav
+MaxV - Sh101 - 15.wav
+MaxV - Sh101 - 01.wav
+MaxV - Sh101 - 17.wav
+MaxV - Sh101 - 03.wav
+MaxV - Sh101 - 02.wav
+MaxV - Sh101 - 16.wav
+MaxV - Sh101 - 12.wav
+MaxV - Sh101 - 06.wav
+MaxV - Sh101 - 07.wav
+MaxV - Sh101 - 13.wav
+MaxV - Sh101 - 05.wav
+MaxV - Sh101 - 11.wav
+MaxV - Sh101 - 10.wav
+MaxV - Sh101 - 04.wav
+MaxV - Sh101 - 09.wav
+MaxV - Sh101 - 20.wav
+MaxV - Sh101 - 08.wav
+MaxV - Sh101 - 18.wav
+MaxV - Sh101 - 19.wav
+MaxV - 040.wav
+MaxV - 035.wav
+MaxV - 034.wav
+MaxV - 036.wav
+MaxV - 037.wav
+MaxV - 033.wav
+MaxV - 032.wav
+MaxV - 030.wav
+MaxV - 031.wav
+MaxV - 039.wav
+MaxV - 038.wav
+HR16B 021 Mid Hihat.wav
+HR16B 010 Hi Picolo Rim.wav
+HR16B 043 Synth Block.wav
+MaxV - Kick 9.wav
+HR16B 030 Open Conga.wav
+HR16B 027 Aggressive Tom.wav
+HR16B 045 Trash Can.wav
+MaxV - Timbale.wav
+HR16B 032 Ambient Bongo.wav
+MaxV - Kick 8.wav
+MaxV - HHO 1.wav
+HR16B 011 HI Picolo Snare.wav
+HR16B 038 Bottles.wav
+HR16B 034 Fast Cabasa.wav
+MaxV - HHO 2.wav
+HR16B 039 Pipe.wav
+HR16B 022 Open Hihat.wav
+HR16B 042 Scratch.wav
+MaxV - Clave 1.wav
+MaxV - Bell 1.wav
+HR16B 025 Hi Power Tom.wav
+HR16B 037 Hi Agogo Bell.wav
+HR16B 047 Jam Block.wav
+MaxV - Clave 2.wav
+HR16B 041 Ambient Puh.wav
+HR16B 020 Closed Hihat.wav
+HR16B 018 Sidestick.wav
+HR16B 008 Combination Snare.wav
+MaxV - Triangle.wav
+HR16B 004 Rap Kick.wav
+HR16B 002 Tiled Room Kick.wav
+MaxV - Conga 1.wav
+HR16B 031 Conga Slap.wav
+HR16B 003 Big Foot.wav
+MaxV - Shaker 1.wav
+HR16B 035 Tambourine.wav
+HR16B 013 90s Gated Snare.wav
+HR16B 015 Mid Punch Snare.wav
+HR16B 028 Crash Cymbal.wav
+HR16B 029 Ride Cymbal.wav
+MaxV - Shaker 2.wav
+HR16B 040 Lip Pop.wav
+MaxV - Tom 2b.wav
+HR16B 001 Monster Kick.wav
+MaxV - Shaker 3.wav
+HR16B 026 Mid Power Tom.wav
+HR16B 036 Gated Claps.wav
+MaxV - Ride 1.wav
+HR16B 007 Tight Kick.wav
+HR16B 024 Rock Hihat.wav
+HR16B 044 Torque Wrench.wav
+MaxV - Shaker 4.wav
+MaxV - Ride 2.wav
+HR16B 033 Cabasa.wav
+HR16B 012 Rap Snare.wav
+MaxV - Kick 3.wav
+HR16B 014 Reverb Snare.wav
+HR16B 023 R&B Closed Hat.wav
+MaxV - HHC 2.wav
+HR16B 016 Fat Snare.wav
+MaxV - HHC 3.wav
+HR16B 006 Deep Wood Kick.wav
+HR16B 019 Gated Sidestick.wav
+HR16B 046 Glass Break.wav
+MaxV - HHC 1.wav
+HR16B 009 Techno Snare.wav
+MaxV - Kick 5.wav
+MaxV - Block 2.wav
+HR16B 017 Aggressive Snare.wav
+HR16B 005 Techno Kick.wav
+MaxV - Block 3.wav
+MaxV - Kick 4.wav
+MaxV - Kick 6.wav
+MaxV - Block 1.wav
+MaxV - Tom Lower.wav
+MaxV - Kick 7.wav
+MaxV - 505 Drms -21.wav
+MaxV - 505 Drms -09.wav
+MaxV - 505 Drms -08.wav
+MaxV - 505 Drms -20.wav
+MaxV - 505 Drms -22.wav
+TR-505Conga_Lo.wav
+MaxV - 505 Drms -18.wav
+MaxV - 505 Drms -19.wav
+TR-505Hat_O.wav
+TR-505Cow_Hi.wav
+TR-505Timbale.wav
+TR-505Tom_Lo.wav
+TR-505Snare.wav
+TR-505Conga_Hi.wav
+TR-505Hat_C.wav
+TR-505Tom_Hi.wav
+MaxV - 505 Drms -14.wav
+MaxV - 505 Drms -15.wav
+MaxV - 505 Drms -01.wav
+TR-505Ride.wav
+TR-505Tom_Mid.wav
+MaxV - 505 Drms -17.wav
+MaxV - 505 Drms -03.wav
+TR-505Kick.wav
+TR-505Cow_Lo.wav
+TR-505Crash.wav
+MaxV - 505 Drms -02.wav
+MaxV - 505 Drms -16.wav
+TR-505Clap.wav
+MaxV - 505 Drms -12.wav
+MaxV - 505 Drms -06.wav
+MaxV - 505 Drms -07.wav
+MaxV - 505 Drms -13.wav
+TR-505Rim.wav
+MaxV - 505 Drms -05.wav
+MaxV - 505 Drms -11.wav
+MaxV - 505 Drms -10.wav
+MaxV - 505 Drms -04.wav
+TR-909Snare 14.wav
+TR-909Snare 28.wav
+TR-909Tom Mid 02.wav
+TR-909Snare 29.wav
+TR-909Snare 15.wav
+TR-909Snare 01.wav
+TR-909Snare 17.wav
+TR-909Snare 03.wav
+TR-909Tom Mid 01.wav
+TR-909Snare 02.wav
+TR-909Snare 16.wav
+TR-909Crash.wav
+TR-909Snare 12.wav
+TR-909Snare 06.wav
+TR-909Snare 07.wav
+TR-909Snare 13.wav
+TR-909Snare 05.wav
+TR-909Snare 11.wav
+MaxV - Roland909 - 909BDB 02.wav
+TR-909Snare 10.wav
+TR-909Snare 04.wav
+MaxV - Roland909 - 909HHA 04.wav
+TR-909Kick 09.wav
+TR-909Kick 08.wav
+TR-909Tom Hi 02.wav
+MaxV - Roland909 - 909RIDE 07.wav
+TR-909Clap.wav
+TR-909Tom Hi 01.wav
+TR-909Tom Low 02.wav
+MaxV - Roland909 - 909HHC 06.wav
+MaxV - Roland909 - 909RIM 08.wav
+TR-909Tom Low 01.wav
+TR-909Ride.wav
+MaxV - Roland909 - 909TOMA 11.wav
+MaxV - Roland909 - 909CLAP 03.wav
+TR-909Kick 14.wav
+MaxV - Roland909 - 909BDA 01.wav
+TR-909Kick 15.wav
+TR-909Kick 01.wav
+TR-909Kick 17.wav
+TR-909Kick 03.wav
+TR-909Kick 02.wav
+TR-909Kick 16.wav
+TR-909Rim.wav
+TR-909Hat C 02.wav
+TR-909Kick 12.wav
+TR-909Kick 06.wav
+TR-909Hat O 02.wav
+TR-909Hat O 03.wav
+TR-909Kick 07.wav
+TR-909Kick 13.wav
+TR-909Hat C 01.wav
+TR-909Kick 05.wav
+TR-909Kick 11.wav
+TR-909Hat O 01.wav
+MaxV - Roland909 - 909SDA 09.wav
+TR-909Kick 10.wav
+TR-909Kick 04.wav
+TR-909Snare 21.wav
+TR-909Snare 09.wav
+TR-909Snare 08.wav
+TR-909Snare 20.wav
+TR-909Snare 22.wav
+TR-909Snare 23.wav
+TR-909Snare 27.wav
+MaxV - Roland909 - 909HHB 05.wav
+MaxV - Roland909 - 909SDB 10.wav
+TR-909Snare 26.wav
+TR-909Snare 32.wav
+TR-909Snare 18.wav
+TR-909Snare 24.wav
+TR-909Snare 30.wav
+TR-909Snare 31.wav
+TR-909Snare 25.wav
+TR-909Snare 19.wav
+8089098.wav
+hq9091.wav
+909kick.wav
+hq9092.wav
+hq9093.wav
+hq9097.wav
+fuck.wav
+hq9096.wav
+909dist3.wav
+grunge.wav
+hq9094.wav
+hqdist.wav
+hq9095.wav
+909dist2.wav
+hq9098.wav
+909dist.wav
+8089091.wav
+8089093.wav
+8089092.wav
+grunge2.wav
+env9091.wav
+8089096.wav
+8089097.wav
+flhq.wav
+env9092.wav
+8089095.wav
+8089094.wav
+MaxV - Snare-D2.wav
+MaxV - Bassdrum-short.wav
+MaxV - Snare-c1.wav
+MaxV - Bassdrum-short2.wav
+MaxV - Bassdrum-short3.wav
+MaxV - Mattel Hi-Hat.wav
+MaxV - Mattel Tom Low.wav
+MaxV - Mattel Kick.wav
+MaxV - Mattel Cymbal.wav
+MaxV - Mattel Tom VLow.wav
+MaxV - Mattel Snare.wav
+MaxV - Mattel Tom High.wav
+MaxV - Mattel Tom VHigh.wav
+Pedal High Hat.wav
+Open High Hat.wav
+Acoustic Snare.wav
+Low Bongo.wav
+Ride Cymbal 1.wav
+Hand Clap.wav
+Cowbell.wav
+Acoustic Bass Drum.wav
+MaxV - RTOMLR50.wav
+MaxV - TOMM_R50.wav
+MaxV - RTOMLENH.wav
+MaxV - ETOMMR50.wav
+MaxV - ATOMBDRV.wav
+MaxV - MBASGR50.wav
+MaxV - CLAP_R50.wav
+MaxV - HHOP2R50.wav
+MaxV - ATOMBDGA.wav
+MaxV - ORCHHR50.wav
+MaxV - ACCBDENH.wav
+MaxV - SD3__R50.wav
+MaxV - SD2__R50.wav
+MaxV - ATOMBDEN.wav
+MaxV - TOML_R50.wav
+MaxV - RTOMHREV.wav
+MaxV - ACCBDR50.wav
+MaxV - RTOMLREV.wav
+MaxV - RIMSHR50.wav
+MaxV - CLICKR50.wav
+MaxV - BD2__R50.wav
+MaxV - BD3__R50.wav
+MaxV - RTOMHR50.wav
+MaxV - TAMB_R50.wav
+MaxV - CONG_R50.wav
+MaxV - ROMSDR50.wav
+MaxV - ATMBDR50.wav
+MaxV - RTOMHENH.wav
+MaxV - HHCL2R50.wav
+MaxV - BRAHITFX.wav
+MaxV - SD1__R50.wav
+MaxV - FSNAPR50.wav
+MaxV - ETOMLR50.wav
+MaxV - TIMB_R50.wav
+MaxV - HHCLENHA.wav
+MaxV - BRASSR50.wav
+MaxV - ACCSDREV.wav
+MaxV - CRS1_R50.wav
+MaxV - CHNA_R50.wav
+MaxV - HHOP_R50.wav
+MaxV - CLAP2R50.wav
+MaxV - CRASHENH.wav
+MaxV - ATMSDR50.wav
+MaxV - ROMBDR50.wav
+MaxV - DIRTY-SD.wav
+MaxV - KAWR50C1.wav
+MaxV - RID1_R50.wav
+MaxV - SHAK_R50.wav
+MaxV - TYMPAR50.wav
+MaxV - AGOG_R50.wav
+MaxV - CLVS_R50.wav
+MaxV - COWB_R50.wav
+MaxV - BD1__R50.wav
+MaxV - CRAS2R50.wav
+MaxV - HHCL_R50.wav
+MaxV - FBASGR50.wav
+MaxV - ELSD-R50.wav
+MaxV - ATOMSDGA.wav
+MaxV - SETUP.wav
+MaxV - INIT_PER.wav
+MaxV - ETOMHR50.wav
+MaxV - REVDROP1.wav
+MaxV - RID2_R50.wav
+MaxV - TOMH_R50.wav
+MaxV - ACCSDR50.wav
+MaxV - CRS2_R50.wav
+MaxV - HHOPENHA.wav
+MaxV - ORCHITPS.wav
+MaxV - Tom2.wav
+MaxV - Tom3.wav
+DR-55Pop.wav
+DR-55Kick.wav
+DR-55Snare.wav
+DR-55Hat.wav
+MaxV - Kick1.wav
+TOMClap.wav
+TOMHat_O.wav
+TOMKick.wav
+MaxV - SQTM - 07.wav
+MaxV - SQTM - 13.wav
+MaxV - SQTM - 12.wav
+MaxV - SQTM - 06.wav
+MaxV - SQTM - 10.wav
+MaxV - SQTM - 04.wav
+MaxV - SQTM - 05.wav
+MaxV - SQTM - 11.wav
+MaxV - SQTM - 01.wav
+TOMTom_Lo.wav
+MaxV - SQTM - 14.wav
+MaxV - SQTM - 02.wav
+MaxV - SQTM - 03.wav
+MaxV - SQTM - 08.wav
+TOMCymbal.wav
+MaxV - SQTM - 09.wav
+TOMSnare.wav
+TOMTom_Hi.wav
+TOMHat_C.wav
+TR-707Snare02.wav
+TR-707Clap.wav
+TR-707Snare01.wav
+TR-707Cow.wav
+TR-707Crash.wav
+TR-707Ride.wav
+TR-707Tom_Lo.wav
+TR-707RimShot.wav
+MaxV - 707 Drms -03.wav
+MaxV - 707 Drms -02.wav
+MaxV - 707 Drms -14.wav
+MaxV - 707 Drms -01.wav
+TR-707Hat_C.wav
+TR-707Tom_Mid.wav
+MaxV - 707 Drms -11.wav
+MaxV - 707 Drms -05.wav
+MaxV - 707 Drms -04.wav
+MaxV - 707 Drms -10.wav
+MaxV - 707 Drms -06.wav
+MaxV - 707 Drms -12.wav
+MaxV - 707 Drms -13.wav
+MaxV - 707 Drms -07.wav
+TR-707Tom_Hi.wav
+TR-707Tamborine.wav
+TR-707Kick02.wav
+MaxV - 707 Drms -09.wav
+MaxV - 707 Drms -08.wav
+TR-707Kick01.wav
+TR-707Hat_O.wav
+MaxV - pwm_bass.wav
+MaxV - fx.wav
+MaxV - wah.wav
+MaxV - random.wav
+MaxV - dullthud.wav
+MaxV - wet_bass.wav
+MaxV - g_sweep.wav
+MaxV - bounce.wav
+MaxV - s&h_2.wav
+MaxV - s&h_1.wav
+Buchla Modular - percussion.wav
+Buchla Modular - percussion4.wav
+Buchla Modular - percussion3.wav
+Buchla Modular - percussion2.wav
+MaxV - RZ 1 - 01.wav
+MaxV - RZ 1 - 02.wav
+MaxV - RZ 1 - 03.wav
+MaxV - RZ 1 - 07.wav
+MaxV - RZ 1 - 06.wav
+MaxV - RZ 1 - 12.wav
+MaxV - RZ 1 - 04.wav
+MaxV - RZ 1 - 10.wav
+MaxV - RZ 1 - 11.wav
+MaxV - RZ 1 - 05.wav
+MaxV - RZ 1 - 08.wav
+MaxV - RZ 1 - 09.wav
+MaxV - Bongo.wav
+MaxV - Bongo2.wav
+MaxV - Bongo3.wav
+MaxV - EMU_MTOM.wav
+MaxV - CLD02.wav
+MaxV - EMU18.wav
+MaxV - EMU19.wav
+MaxV - SND23.wav
+MaxV - CLD01.wav
+DrumulatorClave.wav
+DrumulatorCrash.wav
+DrumulatorCabasa.wav
+MaxV - SND24.wav
+DrumulatorBlock.wav
+DrumulatorConga01.wav
+MaxV - EMU09.wav
+MaxV - EMU20.wav
+DrumulatorETomHi.wav
+DrumulatorConga02.wav
+MaxV - KDR21.wav
+MaxV - EMU_BD.wav
+MaxV - EMU_O-HH.wav
+MaxV - OHD22.wav
+MaxV - EMU_C-HH.wav
+MaxV - DRM03.wav
+DrumulatorHat_P.wav
+MaxV - DRM06.wav
+DrumulatorHat_C.wav
+DrumulatorTimbHi.wav
+MaxV - DRM07.wav
+MaxV - DRM05.wav
+DrumulatorAgogoLo.wav
+MaxV - EMU_CLAP.wav
+MaxV - DRM04.wav
+DrumulatorETomLo.wav
+MaxV - DRM08.wav
+MaxV - EMU_RIM.wav
+DrumulatorHat_O.wav
+MaxV - EMU_LTOM.wav
+DrumulatorClap.wav
+DrumulatorETomMid.wav
+DrumulatorTom03.wav
+DrumulatorTom02.wav
+MaxV - EMU_CLVE.wav
+DrumulatorRide.wav
+MaxV - EMU_CYMB.wav
+DrumulatorSnare02.wav
+MaxV - EMU11.wav
+MaxV - EMU10.wav
+DrumulatorAgogoHi.wav
+DrumulatorSnare03.wav
+DrumulatorSnare01.wav
+MaxV - EMU12.wav
+MaxV - EMU13.wav
+MaxV - EMU_SD.wav
+DrumulatorTimbLo.wav
+DrumulatorSnare04.wav
+DrumulatorKick01.wav
+MaxV - EMU17.wav
+MaxV - EMU16.wav
+DrumulatorTamborine.wav
+MaxV - EMU_COWB.wav
+DrumulatorKick02.wav
+MaxV - EMU_HTOM.wav
+MaxV - EMU14.wav
+MaxV - EMU15.wav
+MaxV - TYPHOON9.wav
+MaxV - TYPHOON8.wav
+MaxV - TYPHOONF.wav
+MaxV - TYPHOON1.wav
+MaxV - TYPHOON3.wav
+MaxV - TYPHOONE.wav
+MaxV - TYPHOOND.wav
+MaxV - TYPHOON2.wav
+MaxV - TYPHOON6.wav
+MaxV - TYPHOON7.wav
+MaxV - TYPHOONA.wav
+MaxV - TYPHOONC.wav
+MaxV - TYPHOON5.wav
+MaxV - TYPHOON4.wav
+MaxV - TYPHOONB.wav
+MaxV - HiHat Open 1.wav
+MaxV - Tom Low.wav
+MaxV - Tom High.wav
+RX21LWhistleL.wav
+RX21LAgogoHi.wav
+RX21LCowbell.wav
+RX21LTimbaleLo.wav
+RX21LCuicaLo.wav
+RX21LBongoHi.wav
+RX21LCongaLo.wav
+RX21LAgogoLo.wav
+RX21LCongaM.wav
+RX21LCongaHi.wav
+RX21LTambourine.wav
+RX21LWhistleS.wav
+RX21LBongoLo.wav
+RX21LClaves.wav
+RX21LCuicaHi.wav
+RX21LTimbaleHi.wav
+DM5Perc095.wav
+DM5Perc081.wav
+DM5Perc056.wav
+DM5Perc042.wav
+DM5Tom15_M.wav
+DM5Kick72.wav
+DM5Kick66.wav
+DM5Tom22_Hi.wav
+DM5Rim09.wav
+DM5Snare022.wav
+DM5Snare036.wav
+DM5Snare037.wav
+DM5Snare023.wav
+DM5Tom18_Hi.wav
+DM5Rim08.wav
+DM5Tom06_Hi.wav
+DM5Kick67.wav
+DM5Kick73.wav
+DM5Perc043.wav
+DM5Perc057.wav
+DM5Hat_C01.wav
+DM5Perc080.wav
+DM5Perc094.wav
+DM5Tom14_Hi.wav
+DM5Perc082.wav
+DM5Hat_C03.wav
+DM5Perc096.wav
+DM5Perc041.wav
+DM5Perc055.wav
+DM5Tom21_Lo.wav
+DM5Perc069.wav
+DM5Kick59.wav
+DM5Kick65.wav
+DM5Kick71.wav
+DM5FX59.wav
+DM5Snare035.wav
+DM5Snare021.wav
+DM5Perc109.wav
+DM5Snare009.wav
+DM5FX64.wav
+DM5Perc108.wav
+DM5Snare008.wav
+DM5Snare020.wav
+DM5FX58.wav
+DM5Snare034.wav
+DM5Tom05_Lo.wav
+DM5Tom17_M.wav
+DM5Kick70.wav
+DM5Kick64.wav
+DM5Tom17_Lo.wav
+DM5Kick58.wav
+DM5Perc068.wav
+DM5Perc054.wav
+DM5Perc040.wav
+DM5Perc097.wav
+DM5Perc083.wav
+DM5Hat_C02.wav
+DM5Hat_C06.wav
+DM5Perc087.wav
+DM5Perc093.wav
+DM5Perc078.wav
+DM5Perc044.wav
+DM5Perc050.wav
+DM5Kick60.wav
+DM5Kick74.wav
+DM5Kick48.wav
+DM5FX60.wav
+DM5Tom23_Lo.wav
+DM5Snare018.wav
+DM5Tom13_M.wav
+DM5Snare030.wav
+DM5FX48.wav
+DM5Snare024.wav
+DM5FX49.wav
+DM5Snare025.wav
+DM5Snare031.wav
+DM5Snare019.wav
+DM5FX61.wav
+DM5Tom15_Lo.wav
+DM5Kick49.wav
+DM5Tom19_Lo.wav
+DM5Kick75.wav
+DM5Kick61.wav
+DM5Perc051.wav
+DM5Perc045.wav
+DM5Perc079.wav
+DM5Perc092.wav
+DM5Hat_C07.wav
+DM5Perc086.wav
+DM5Tom08_M.wav
+DM5Perc090.wav
+DM5Perc084.wav
+DM5Hat_C05.wav
+DM5Perc053.wav
+DM5Perc047.wav
+DM5Kick77.wav
+DM5Kick63.wav
+DM5Kick88.wav
+DM5Hat_O08.wav
+DM5Tom25_Mid.wav
+DM5Tom20_Hi.wav
+DM5FX63.wav
+DM5Snare027.wav
+DM5Snare033.wav
+DM5Snare032.wav
+DM5Snare026.wav
+DM5FX62.wav
+DM5Tom16_Hi.wav
+DM5Tom11_M.wav
+DM5Hat_O09.wav
+DM5Kick89.wav
+DM5Tom04_Hi.wav
+DM5Kick62.wav
+DM5Kick76.wav
+DM5Perc046.wav
+DM5Perc052.wav
+DM5Perc085.wav
+DM5Hat_C04.wav
+DM5Hat_C10.wav
+DM5Perc091.wav
+DM5Perc035.wav
+DM5Perc021.wav
+DM5Snare109.wav
+DM5Perc009.wav
+DM5Kick39.wav
+DM5Tom03_Lo.wav
+DM5Kick11.wav
+DM5Kick05.wav
+DM5Snare082.wav
+DM5Snare096.wav
+DM5Tom11_Lo.wav
+DM5Snare041.wav
+DM5FX39.wav
+DM5Snare055.wav
+DM5FX11.wav
+DM5FX05.wav
+DM5Snare069.wav
+DM5FX04.wav
+DM5Snare068.wav
+DM5FX10.wav
+DM5FX38.wav
+DM5Snare054.wav
+DM5Snare040.wav
+DM5Snare097.wav
+DM5Snare083.wav
+DM5Kick04.wav
+DM5Kick10.wav
+DM5Kick38.wav
+DM5Snare108.wav
+DM5Perc008.wav
+DM5Perc020.wav
+DM5Perc034.wav
+DM5Perc022.wav
+DM5Perc036.wav
+DM5Kick06.wav
+DM5Kick12.wav
+DM5Tom12_Hi.wav
+DM5Snare095.wav
+DM5Snare081.wav
+DM5Snare056.wav
+DM5Snare042.wav
+DM5FX06.wav
+DM5Tom14_M.wav
+DM5FX12.wav
+DM5FX13.wav
+DM5FX07.wav
+DM5Snare043.wav
+DM5Tom24_Hi.wav
+DM5Snare057.wav
+DM5Snare080.wav
+DM5Snare094.wav
+DM5Kick13.wav
+DM5Kick07.wav
+DM5Perc037.wav
+DM5Perc023.wav
+DM5Perc027.wav
+DM5Perc033.wav
+DM5Kick03.wav
+DM5Kick17.wav
+DM5Tom02_Hi.wav
+DM5Snare090.wav
+DM5Snare084.wav
+DM5FX03.wav
+DM5FX17.wav
+DM5Snare053.wav
+DM5Snare047.wav
+DM5Snare046.wav
+DM5Snare052.wav
+DM5FX16.wav
+DM5FX02.wav
+DM5Snare085.wav
+DM5Snare091.wav
+DM5Kick16.wav
+DM5Kick02.wav
+DM5Perc032.wav
+DM5Perc026.wav
+DM5Tom13_Lo.wav
+DM5Tom12_M.wav
+DM5Perc018.wav
+DM5Perc030.wav
+DM5Perc024.wav
+DM5Kick14.wav
+DM5Kick28.wav
+DM5Tom01_Lo.wav
+DM5Snare087.wav
+DM5Snare093.wav
+DM5FX14.wav
+DM5Snare078.wav
+DM5FX28.wav
+DM5Snare044.wav
+DM5Snare050.wav
+DM5Snare051.wav
+DM5FX29.wav
+DM5Snare045.wav
+DM5FX01.wav
+DM5FX15.wav
+DM5Snare079.wav
+DM5Snare092.wav
+DM5Snare086.wav
+DM5Tom25_Lo.wav
+DM5Kick29.wav
+DM5Kick01.wav
+DM5Kick15.wav
+DM5Perc025.wav
+DM5Perc031.wav
+DM5Perc019.wav
+DM5Perc014.wav
+DM5Snare100.wav
+DM5Perc028.wav
+DM5Tom04_Lo.wav
+DM5Kick18.wav
+DM5Kick30.wav
+DM5Kick24.wav
+DM5Tom08_Lo.wav
+DM5Tom16_Lo.wav
+DM5Snare060.wav
+DM5FX18.wav
+DM5Snare074.wav
+DM5FX30.wav
+DM5FX24.wav
+DM5Snare048.wav
+DM5FX25.wav
+DM5Snare049.wav
+DM5FX31.wav
+DM5FX19.wav
+DM5Snare075.wav
+DM5Snare061.wav
+DM5Tom20_Lo.wav
+DM5Tom23_M.wav
+DM5Kick25.wav
+DM5Kick31.wav
+DM5Kick19.wav
+DM5Perc029.wav
+DM5Perc001.wav
+DM5Snare101.wav
+DM5Perc015.wav
+DM5Tom07_Hi.wav
+DM5Snare103.wav
+DM5Perc003.wav
+DM5Perc017.wav
+DM5Tom19_Hi.wav
+DM5Kick27.wav
+DM5Kick33.wav
+DM5Tom15_Hi.wav
+DM5Snare088.wav
+DM5Snare077.wav
+DM5Tom21_M.wav
+DM5Snare063.wav
+DM5FX27.wav
+DM5FX33.wav
+DM5Tom23_Hi.wav
+DM5FX32.wav
+DM5FX26.wav
+DM5Snare062.wav
+DM5Snare076.wav
+DM5Snare089.wav
+DM5Kick32.wav
+DM5Kick26.wav
+DM5Perc016.wav
+DM5Snare102.wav
+DM5Perc002.wav
+DM5Tom09_Hi.wav
+DM5Perc006.wav
+DM5Snare106.wav
+DM5Tom01_M.wav
+DM5Perc012.wav
+DM5Kick22.wav
+DM5Tom17_Hi.wav
+DM5Kick36.wav
+DM5Snare099.wav
+DM5Tom05_Hi.wav
+DM5FX22.wav
+DM5FX36.wav
+DM5Snare072.wav
+DM5Snare066.wav
+DM5Snare067.wav
+DM5Snare073.wav
+DM5FX37.wav
+DM5FX23.wav
+DM5Snare098.wav
+DM5Kick37.wav
+DM5Kick23.wav
+DM5Perc013.wav
+DM5Perc007.wav
+DM5Snare107.wav
+DM5Tom21_Hi.wav
+DM5Tom14_Lo.wav
+DM5Perc039.wav
+DM5Perc011.wav
+DM5Snare105.wav
+DM5Perc005.wav
+DM5Kick35.wav
+DM5Kick21.wav
+DM5Kick09.wav
+DM5Tom06_Lo.wav
+DM5Tom18_Lo.wav
+DM5FX35.wav
+DM5Snare059.wav
+DM5FX21.wav
+DM5FX09.wav
+DM5Snare065.wav
+DM5Snare071.wav
+DM5Snare070.wav
+DM5FX08.wav
+DM5Snare064.wav
+DM5FX20.wav
+DM5FX34.wav
+DM5Snare058.wav
+DM5Tom22_Lo.wav
+DM5Kick08.wav
+DM5Kick20.wav
+DM5Kick34.wav
+DM5Snare104.wav
+DM5Perc004.wav
+DM5Perc010.wav
+DM5Perc038.wav
+DM5Perc088.wav
+DM5Hat_C09.wav
+DM5Perc077.wav
+DM5Tom20_M.wav
+DM5Perc063.wav
+DM5Kick53.wav
+DM5Kick47.wav
+DM5Tom25_Hi.wav
+DM5Hat_O10.wav
+DM5Kick90.wav
+DM5Hat_O04.wav
+DM5Kick84.wav
+DM5Perc103.wav
+DM5Snare003.wav
+DM5Snare017.wav
+DM5FX53.wav
+DM5FX47.wav
+DM5FX46.wav
+DM5FX52.wav
+DM5Snare016.wav
+DM5Perc102.wav
+DM5Snare002.wav
+DM5Rim01.wav
+DM5Tom01_Hi.wav
+DM5Kick85.wav
+DM5Hat_O05.wav
+DM5Kick91.wav
+DM5Kick46.wav
+DM5Kick52.wav
+DM5Perc062.wav
+DM5Perc076.wav
+DM5Tom13_Hi.wav
+DM5Perc089.wav
+DM5Perc060.wav
+DM5Tom06_M.wav
+DM5Perc074.wav
+DM5Perc048.wav
+DM5Kick78.wav
+DM5Kick44.wav
+DM5Kick50.wav
+DM5Kick87.wav
+DM5Kick93.wav
+DM5Rim03.wav
+DM5Perc114.wav
+DM5Snare014.wav
+DM5Perc100.wav
+DM5FX44.wav
+DM5FX50.wav
+DM5FX51.wav
+DM5FX45.wav
+DM5Snare029.wav
+DM5Snare001.wav
+DM5Perc101.wav
+DM5Snare015.wav
+DM5Rim02.wav
+DM5Tom02_Lo.wav
+DM5Kick92.wav
+DM5Hat_O06.wav
+DM5Kick86.wav
+DM5Tom22_M.wav
+DM5Kick51.wav
+DM5Kick45.wav
+DM5Tom10_Lo.wav
+DM5Kick79.wav
+DM5Perc049.wav
+DM5Perc075.wav
+DM5Perc061.wav
+DM5Perc059.wav
+DM5Perc065.wav
+DM5Perc071.wav
+DM5Kick41.wav
+DM5Kick55.wav
+DM5Kick69.wav
+DM5Kick82.wav
+DM5Hat_O02.wav
+DM5Rim06.wav
+DM5FX41.wav
+DM5FX55.wav
+DM5Snare039.wav
+DM5Snare011.wav
+DM5Tom24_Lo.wav
+DM5Perc111.wav
+DM5Perc105.wav
+DM5Snare005.wav
+DM5Perc104.wav
+DM5Snare004.wav
+DM5Snare010.wav
+DM5Perc110.wav
+DM5FX54.wav
+DM5Snare038.wav
+DM5FX40.wav
+DM5Rim07.wav
+DM5Tom02_M.wav
+DM5Tom12_Lo.wav
+DM5Hat_O03.wav
+DM5Kick83.wav
+DM5Kick68.wav
+DM5Kick54.wav
+DM5Kick40.wav
+DM5Perc070.wav
+DM5Perc064.wav
+DM5Perc058.wav
+DM5Perc099.wav
+DM5Perc072.wav
+DM5Perc066.wav
+DM5Kick56.wav
+DM5Kick42.wav
+DM5Kick95.wav
+DM5Hat_O01.wav
+DM5Kick81.wav
+DM5Rim05.wav
+DM5FX56.wav
+DM5FX42.wav
+DM5Snare006.wav
+DM5Perc106.wav
+DM5Perc112.wav
+DM5Snare012.wav
+DM5Perc113.wav
+DM5Snare013.wav
+DM5Snare007.wav
+DM5Perc107.wav
+DM5FX43.wav
+DM5FX57.wav
+DM5Tom11_Hi.wav
+DM5Rim04.wav
+DM5Tom24_M.wav
+DM5Kick80.wav
+DM5Kick94.wav
+DM5Kick43.wav
+DM5Tom03_Hi.wav
+DM5Kick57.wav
+DM5Perc067.wav
+DM5Perc073.wav
+DM5Perc098.wav
+Loop Hat-01.wav
+Loop Snr-01.wav
+Loop-02.mp3
+Loop Hat-02.wav
+Loop-02a.wav
+Loop 138bpm-3b.wav
+Loop 138bpm-3a.wav
+Loop Hat-01a.mp3
+Loop 138bpm-1.mp3
+Loop-110bpm.mp3
+Loop 138bpm-4b.wav
+Loop 138bpm-2.mp3
+Loop 138bpm-4a.wav
+Loop 138bpm-3.mp3
+Loop Snr-01a.wav
+Loop 138bpm-4.mp3
+Loop Snr-01.mp3
+Loop-02.wav
+Loop Hat-01.mp3
+Loop-02a.mp3
+Loop Hat-02.mp3
+Loop 138bpm-3b.mp3
+Loop 138bpm-3a.mp3
+Loop 138bpm-4b.mp3
+Loop-110bpm.wav
+Loop Hat-01a.wav
+Loop 138bpm-1.wav
+Loop 138bpm-3.wav
+Loop 138bpm-4a.mp3
+Loop 138bpm-2.wav
+Loop Snr-01a.mp3
+Loop 138bpm-4.wav
+Yamaha CS6 075.wav
+Yamaha CS6 061.wav
+Yamaha CS6 049.wav
+Yamaha CS6 B 009.wav
+Yamaha CS6 B 021.wav
+Yamaha CS6 B 035.wav
+Yamaha CS6 B 034.wav
+Yamaha CS6 B 020.wav
+Yamaha CS6 B 008.wav
+Yamaha CS6 048.wav
+Yamaha CS6 060.wav
+Yamaha CS6 074.wav
+Yamaha CS6 062.wav
+Yamaha CS6 076.wav
+Yamaha CS6 089.wav
+Yamaha CS6 B 036.wav
+Yamaha CS6 B 022.wav
+Yamaha CS6 B 023.wav
+Yamaha CS6 B 037.wav
+Yamaha CS6 088.wav
+Yamaha CS6 077.wav
+Yamaha CS6 063.wav
+Yamaha CS6 067.wav
+Yamaha CS6 073.wav
+Yamaha CS6 B 033.wav
+Yamaha CS6 B 027.wav
+Yamaha CS6 B 026.wav
+Yamaha CS6 B 032.wav
+Yamaha CS6 072.wav
+Yamaha CS6 066.wav
+Yamaha CS6 058.wav
+Yamaha CS6 070.wav
+Yamaha CS6 064.wav
+Yamaha CS6 B 024.wav
+Yamaha CS6 B 030.wav
+Yamaha CS6 B 018.wav
+Yamaha CS6 B 019.wav
+Yamaha CS6 B 031.wav
+Yamaha CS6 B 025.wav
+Yamaha CS6 065.wav
+Yamaha CS6 071.wav
+Yamaha CS6 059.wav
+Yamaha CS6 016.wav
+Yamaha CS6 002.wav
+Yamaha CS6 B 042.wav
+Yamaha CS6 B 043.wav
+Yamaha CS6 003.wav
+Yamaha CS6 017.wav
+Yamaha CS6 001.wav
+Yamaha CS6 015.wav
+Yamaha CS6 029.wav
+Yamaha CS6 B 041.wav
+Yamaha CS6 B 040.wav
+Yamaha CS6 028.wav
+Yamaha CS6 014.wav
+Yamaha CS6 038.wav
+Yamaha CS6 004.wav
+Yamaha CS6 010.wav
+Yamaha CS6 B 050.wav
+Yamaha CS6 B 044.wav
+Yamaha CS6 B 045.wav
+Yamaha CS6 B 051.wav
+Yamaha CS6 011.wav
+Yamaha CS6 005.wav
+Yamaha CS6 039.wav
+Yamaha CS6 013.wav
+Yamaha CS6 007.wav
+Yamaha CS6 B 047.wav
+Yamaha CS6 B 052.wav
+Yamaha CS6 B 046.wav
+Yamaha CS6 006.wav
+Yamaha CS6 012.wav
+Yamaha CS6 037.wav
+Yamaha CS6 023.wav
+Yamaha CS6 022.wav
+Yamaha CS6 036.wav
+Yamaha CS6 020.wav
+Yamaha CS6 034.wav
+Yamaha CS6 008.wav
+Yamaha CS6 B 048.wav
+Yamaha CS6 B 049.wav
+Yamaha CS6 009.wav
+Yamaha CS6 035.wav
+Yamaha CS6 021.wav
+Yamaha CS6 019.wav
+Yamaha CS6 025.wav
+Yamaha CS6 031.wav
+Yamaha CS6 030.wav
+Yamaha CS6 024.wav
+Yamaha CS6 018.wav
+Yamaha CS6 032.wav
+Yamaha CS6 026.wav
+Yamaha CS6 027.wav
+Yamaha CS6 033.wav
+Yamaha CS6 054.wav
+Yamaha CS6 040.wav
+Yamaha CS6 068.wav
+Yamaha CS6 083.wav
+Yamaha CS6 B 028.wav
+Yamaha CS6 B 014.wav
+Yamaha CS6 B 015.wav
+Yamaha CS6 B 001.wav
+Yamaha CS6 B 029.wav
+Yamaha CS6 082.wav
+Yamaha CS6 069.wav
+Yamaha CS6 041.wav
+Yamaha CS6 055.wav
+Yamaha CS6 043.wav
+Yamaha CS6 057.wav
+Yamaha CS6 080.wav
+Yamaha CS6 B 017.wav
+Yamaha CS6 B 003.wav
+Yamaha CS6 B 002.wav
+Yamaha CS6 B 016.wav
+Yamaha CS6 081.wav
+Yamaha CS6 056.wav
+Yamaha CS6 042.wav
+Yamaha CS6 046.wav
+Yamaha CS6 052.wav
+Yamaha CS6 085.wav
+Yamaha CS6 091.wav
+Yamaha CS6 B 012.wav
+Yamaha CS6 B 006.wav
+Yamaha CS6 B 007.wav
+Yamaha CS6 B 013.wav
+Yamaha CS6 090.wav
+Yamaha CS6 084.wav
+Yamaha CS6 053.wav
+Yamaha CS6 047.wav
+Yamaha CS6 079.wav
+Yamaha CS6 051.wav
+Yamaha CS6 045.wav
+Yamaha CS6 092.wav
+Yamaha CS6 086.wav
+Yamaha CS6 B 005.wav
+Yamaha CS6 B 011.wav
+Yamaha CS6 B 039.wav
+Yamaha CS6 B 038.wav
+Yamaha CS6 B 010.wav
+Yamaha CS6 B 004.wav
+Yamaha CS6 087.wav
+Yamaha CS6 044.wav
+Yamaha CS6 050.wav
+Yamaha CS6 078.wav
+077.wav
+076.wav
+060.wav
+065.wav
+059.wav
+099.wav
+066.wav
+073.wav
+014.wav
+000.wav
+001.wav
+017.wav
+006.wav
+012.wav
+013.wav
+007.wav
+011.wav
+039.wav
+038.wav
+009.wav
+035.wav
+021.wav
+020.wav
+034.wav
+022.wav
+036.wav
+037.wav
+023.wav
+033.wav
+032.wav
+026.wav
+024.wav
+018.wav
+019.wav
+025.wav
+042.wav
+043.wav
+080.wav
+055.wav
+068.wav
+093.wav
+044.wav
+078.wav
+079.wav
+051.wav
+045.wav
+092.wav
+090.wav
+047.wav
+052.wav
+MaxV - Drum07.wav
+MaxV - Drum13.wav
+MaxV - Drum12.wav
+MaxV - Drum06.wav
+MaxV - Drum10.wav
+MaxV - Drum04.wav
+MaxV - Drum05.wav
+MaxV - Drum11.wav
+MaxV - Drum15.wav
+MaxV - Drum01.wav
+MaxV - Drum14.wav
+MaxV - Drum02.wav
+MaxV - Drum16.wav
+MaxV - Drum17.wav
+MaxV - Drum03.wav
+MaxV - Drum19.wav
+MaxV - Drum18.wav
+MaxV - Drum20.wav
+MaxV - Drum08.wav
+MaxV - Drum09.wav
+MaxV - Drum21.wav
+MaxV - Fishs.wav
+MaxV - COLLINSR.wav
+MaxV - Pang.wav
+MaxV - SymSnre2.wav
+MaxV - Cowbell2.wav
+MaxV - Bbdrum1.wav
+MaxV - DeepTom.wav
+MaxV - SymSnre1.wav
+MaxV - MilBdrum.wav
+MaxV - Cowbell1.wav
+MaxV - Bbdrum2.wav
+MaxV - RideCym.wav
+MaxV - Cymshort.wav
+MaxV - SN3.wav
+MaxV - Tambour.wav
+MaxV - Bdrum.wav
+MaxV - Crosstix.wav
+MaxV - PERCSTK.wav
+MaxV - SN2.wav
+MaxV - CymRide.wav
+MaxV - CLAPTRAP.wav
+MaxV - Drumbo.wav
+MaxV - Crashcym.wav
+MaxV - Tom1.wav
+MaxV - SN5.wav
+MaxV - SN4.wav
+MaxV - Cym1.wav
+MaxV - Cym3.wav
+MaxV - Symtomlo.wav
+MaxV - SNREL.wav
+MaxV - Timb.wav
+MaxV - Ttom.wav
+MaxV - BOBSNARE.wav
+MaxV - Cym2.wav
+MaxV - Tabla.wav
+MaxV - Fish.wav
+MaxV - Floortom.wav
+MaxV - Symtom.wav
+MaxV - Finger.wav
+MaxV - Symkick.wav
+MaxV - OpClHat.wav
+MaxV - K3.wav
+MaxV - HHPedal.wav
+MaxV - Tymp.wav
+MaxV - Symtomhi.wav
+MaxV - Ssnre1.wav
+MaxV - K2.wav
+MaxV - Bigtom.wav
+MaxV - K1.wav
+MaxV - K5.wav
+MaxV - HHOpen.wav
+MaxV - K4.wav
+MaxV - HHTamb.wav
+MaxV - Claves.wav
+MaxV - Gorgon.wav
+MaxV - HHClosed.wav
+MaxV - HiCrash.wav
+MaxV - Ssnre.wav
+MaxV - KGT1 - 03.wav
+MaxV - KGT1 - 17.wav
+MaxV - KGT1 - 16.wav
+MaxV - KGT1 - 02.wav
+MaxV - KGT1 - 14.wav
+MaxV - KGT1 - 01.wav
+MaxV - KGT1 - 15.wav
+MaxV - KGT1 - 11.wav
+MaxV - KGT1 - 05.wav
+MaxV - KGT1 - 04.wav
+MaxV - KGT1 - 10.wav
+MaxV - KGT1 - 06.wav
+MaxV - KGT1 - 12.wav
+MaxV - KGT1 - 13.wav
+MaxV - KGT1 - 07.wav
+MaxV - KGT1 - 09.wav
+MaxV - KGT1 - 20.wav
+MaxV - KGT1 - 08.wav
+MaxV - KGT1 - 18.wav
+MaxV - KGT1 - 19.wav
+MaxV - MXR woodblock.wav
+MaxV - MXR Kick.wav
+MaxV - MXR Hat_open.wav
+MaxV - MXR Rimshot.wav
+MaxV - MXR Crash.wav
+MaxV - MXR Cowbell.wav
+MaxV - MXR Tom 1.wav
+MaxV - MXR Tom 3.wav
+MaxV - MXR Tom 2.wav
+MaxV - MXR Hat_closed.wav
+MaxV - MXR Claps.wav
+MaxV - MXR Snare.wav
+202SHT4.wav
+202SHT1.wav
+202SHT3.wav
+202SHT2.wav
+202BM1.wav
+202BM2.wav
+202BM3.wav
+202BM4.wav
+202BM5.wav
+MaxV - GAMELAN.wav
+MaxV - SWING-SD.wav
+MaxV - FINGBELL.wav
+MaxV - 90'S-SD.wav
+MaxV - BOOSH-TM.wav
+MaxV - VIBES.wav
+MaxV - INDSTR-K.wav
+MaxV - GATE-KCK.wav
+MaxV - CRSH-CYM.wav
+MaxV - anklungs.wav
+MaxV - TEKNO-K.wav
+MaxV - SMASH-K.wav
+MaxV - KALIMBA.wav
+MaxV - BOTTLHIT.wav
+MaxV - HIPHOP-S.wav
+MaxV - MACH-KCK.wav
+MaxV - POWER_TM.wav
+MaxV - PLUNK.wav
+MaxV - wind_chm.wav
+MaxV - XYLO.wav
+MaxV - WOODCRAK.wav
+MaxV - PLINK.wav
+MaxV - CHH_2.wav
+MaxV - RATTLES.wav
+MaxV - RIM-TOM4.wav
+MaxV - CHH_1.wav
+MaxV - BIGSHOTS.wav
+MaxV - BLAST-TM.wav
+MaxV - RIM-TOM1.wav
+MaxV - VIDEO-SD.wav
+MaxV - LITE-CH1.wav
+MaxV - SNAPS.wav
+MaxV - LITE-OHH.wav
+MaxV - RIM-TOM3.wav
+MaxV - TAMBOURN.wav
+MaxV - RIM-TOM2.wav
+MaxV - LITE-CH2.wav
+MaxV - SOLID-K.wav
+MaxV - OHH.wav
+MaxV - POWER_SD.wav
+MaxV - HARD-SD.wav
+MaxV - AGOGO_BL.wav
+MaxV - DIGIBELS.wav
+MaxV - DANCE-CL.wav
+MaxV - SM_METAL.wav
+MaxV - E-TOM.wav
+MaxV - BUTT-KCK.wav
+MaxV - CRYSTAL.wav
+MaxV - BRYT-KCK.wav
+MaxV - COMBO-SD.wav
+MaxV - RIDE_CYM.wav
+MaxV - HOUSE-SD.wav
+MaxV - DANCE-S2.wav
+MaxV - ROOM-KCK.wav
+MaxV - ATTACK_S.wav
+MaxV - SPLAT-SD.wav
+MaxV - MONDO-K.wav
+MaxV - DANCE-S1.wav
+MaxV - MARIMWAV.wav
+MaxV - ORG_BELL.wav
+MaxV - DISCO-SD.wav
+MaxV - RAP-SD.wav
+MaxV - DIGICHIM.wav
+MaxV - 050.wav
+MaxV - 020.wav
+MaxV - 018.wav
+MaxV - 019.wav
+MaxV - 015.wav
+MaxV - 017.wav
+MaxV - 016.wav
+MaxV - EmuKick2.wav
+MaxV - EmuKick1.wav
+MaxV - EmuFlick1.wav
+MaxV - EmuFlick2.wav
+MaxV - EmuWobbles2.wav
+MaxV - EmuWobbles.wav
+MaxV - EmuPong.wav
+MaxV - EmuSwing.wav
+MaxV - TG33 - 58.wav
+MaxV - TG33 - 48.wav
+MaxV - TG33 - 49.wav
+MaxV - TG33 - 11.wav
+MaxV - TG33 - 05.wav
+MaxV - TG33 - 39.wav
+MaxV - TG33 - 38.wav
+MaxV - TG33 - 04.wav
+MaxV - TG33 - 10.wav
+MaxV - TG33 - 06.wav
+MaxV - TG33 - 12.wav
+MaxV - TG33 - 13.wav
+MaxV - TG33 - 07.wav
+MaxV - TG33 - 03.wav
+MaxV - TG33 - 17.wav
+MaxV - TG33 - 16.wav
+MaxV - TG33 - 02.wav
+MaxV - TG33 - 28.wav
+MaxV - TG33 - 14.wav
+MaxV - TG33 - 01.wav
+MaxV - TG33 - 15.wav
+MaxV - TG33 - 29.wav
+MaxV - TG33 - 30.wav
+MaxV - TG33 - 24.wav
+MaxV - TG33 - 18.wav
+MaxV - TG33 - 19.wav
+MaxV - TG33 - 25.wav
+MaxV - TG33 - 31.wav
+MaxV - TG33 - 27.wav
+MaxV - TG33 - 33.wav
+MaxV - TG33 - 32.wav
+MaxV - TG33 - 26.wav
+MaxV - TG33 - 22.wav
+MaxV - TG33 - 36.wav
+MaxV - TG33 - 37.wav
+MaxV - TG33 - 23.wav
+MaxV - TG33 - 09.wav
+MaxV - TG33 - 35.wav
+MaxV - TG33 - 21.wav
+MaxV - TG33 - 20.wav
+MaxV - TG33 - 34.wav
+MaxV - TG33 - 08.wav
+MaxV - TG33 - 53.wav
+MaxV - TG33 - 47.wav
+MaxV - TG33 - 46.wav
+MaxV - TG33 - 52.wav
+MaxV - TG33 - 44.wav
+MaxV - TG33 - 50.wav
+MaxV - TG33 - 51.wav
+MaxV - TG33 - 45.wav
+MaxV - TG33 - 41.wav
+MaxV - TG33 - 55.wav
+MaxV - TG33 - 54.wav
+MaxV - TG33 - 40.wav
+MaxV - TG33 - 56.wav
+MaxV - TG33 - 42.wav
+MaxV - TG33 - 43.wav
+MaxV - TG33 - 57.wav
+MaxV - Kick 01.wav
+MaxV - Kick 03.wav
+MaxV - Kick 02.wav
+MaxV - Kick 06.wav
+MaxV - Kick 07.wav
+MaxV - Kick 05.wav
+MaxV - Kick 04.wav
+MaxV - Snare 01.wav
+MaxV - Kick 09.wav
+MaxV - Kick 08.wav
+Linn ride soft.wav
+Linn low conga.wav
+Linn clap.wav
+Linn tambourine soft.wav
+Linn cabasa hard.wav
+Linn hi conga.wav
+Linn Snare hard.wav
+Linn cl hat.wav
+Linn ride hard.wav
+Linn Snare soft.wav
+Linn cabasa soft.wav
+Linn Tambourine hard.wav
+Linn Crash.wav
+Linn Sidestick.wav
+Linn kick hard.wav
+Linn open hat.wav
+Linn cowbell.wav
+Linn med hat.wav
+Linn High tom.wav
+Linn lo tom.wav
+Linn Snare mid.wav
+Linn mid tom.wav
+Linn kick soft.wav
+MaxV - Tom Low 2.wav
+MaxV - Tom Low 1.wav
+MaxV - Rimshot 4.wav
+MaxV - Rimshot 5.wav
+MaxV - Rimshot 1.wav
+MaxV - Rimshot 2.wav
+MaxV - Rimshot 3.wav
+MaxV - hicymbal.wav
+MaxV - hihat.wav
+MaxV - orchdrum.wav
+MaxV - hitom.wav
+MaxV - snare2.wav
+MaxV - snare3.wav
+MaxV - spacetom.wav
+MaxV - hihat2.wav
+MaxV - drumx.wav
+MaxV - clap.wav
+MaxV - snare.wav
+MaxV - cowbell.wav
+MaxV - locymbal.wav
+MaxV - lotom.wav
+MaxV - lo_gong.wav
+MaxV - base.wav
+MaxV - tomshakr.wav
+MaxV - rattle.wav
+MaxV - shaker.wav
+MaxV - hitriang.wav
+MaxV - spacesnr.wav
+MaxV - DPM 48029.wav
+MaxV - DPM 48015.wav
+MaxV - DPM 48001.wav
+MaxV - DPM 48014.wav
+MaxV - DPM 48028.wav
+MaxV - DPM 48002.wav
+MaxV - DPM 48016.wav
+MaxV - DPM 48017.wav
+MaxV - DPM 48003.wav
+MaxV - DPM 48013.wav
+MaxV - DPM 48012.wav
+MaxV - DPM 48006.wav
+MaxV - DPM 48010.wav
+MaxV - DPM 48004.wav
+MaxV - DPM 48005.wav
+MaxV - DPM 48011.wav
+MaxV - DPM 48008.wav
+MaxV - DPM 48034.wav
+MaxV - DPM 48020.wav
+MaxV - DPM 48021.wav
+MaxV - DPM 48035.wav
+MaxV - DPM 48009.wav
+MaxV - DPM 48023.wav
+MaxV - DPM 48036.wav
+MaxV - DPM 48022.wav
+MaxV - DPM 48026.wav
+MaxV - DPM 48032.wav
+MaxV - DPM 48033.wav
+MaxV - DPM 48027.wav
+MaxV - DPM 48031.wav
+MaxV - DPM 48025.wav
+MaxV - DPM 48019.wav
+MaxV - DPM 48018.wav
+MaxV - DPM 48024.wav
+MaxV - DPM 48030.wav
+MaxV - Low Beep.wav
+MaxV - High Beep.wav
+XD5Snare02.wav
+XD5Snare03.wav
+XD5Snare01.wav
+XD5Snare04.wav
+XD5Snare05.wav
+XD5Snare07.wav
+XD5Snare06.wav
+XD5HatC.wav
+XD5TomLo.wav
+XD5TomE.wav
+XD5Kick01.wav
+XD5Kick03.wav
+XD5Kick02.wav
+XD5Kick05.wav
+XD5Kick04.wav
+XD5HatO.wav
+XD5TomHi.wav
+RX5China.wav
+RX5Snare03.wav
+RX5Snare02.wav
+RX5Snare01.wav
+RX5Bongo_Lo.wav
+RX5Snare05.wav
+RX5Snare04.wav
+RX5Thud.wav
+RX5Smack.wav
+RX5Hat_O.wav
+RX5Snare06.wav
+RX5Snare07.wav
+RX5Timbale_Hi.wav
+RX5Edge.wav
+RX5Rimshot.wav
+RX5Tamborine.wav
+RX5Cup.wav
+RX5Timbale_Lo.wav
+RX5Kick06.wav
+RX5Clap.wav
+RX5Kick04.wav
+RX5Kick05.wav
+RX5Bongo_Hi.wav
+RX5Kick01.wav
+RX5Kick02.wav
+RX5Kick03.wav
+RX5Crash.wav
+RX5Hat_C.wav
+MaxV - RX5C2SD3.wav
+MaxV - RX5ISD1.wav
+MaxV - RX5FMSNR.wav
+MaxV - RX5ISD2.wav
+MaxV - RX5IHOP.wav
+MaxV - RX5C1BD1.wav
+MaxV - RX5RIM1.wav
+MaxV - RX5PBD1.wav
+MaxV - RX5C1BD2.wav
+MaxV - RX5RIM2.wav
+MaxV - RX5PBD3.wav
+MaxV - RX5PBD2.wav
+MaxV - RX5C1BD3.wav
+MaxV - RX5SPLSH.wav
+MaxV - RX5IHCL.wav
+MaxV - RX5PSD6.wav
+MaxV - RX5PSD2.wav
+MaxV - RX5C1SD3.wav
+MaxV - RX5C1SD2.wav
+MaxV - RX5PSD3.wav
+MaxV - RX5PSD1.wav
+MaxV - RX5C1SD1.wav
+MaxV - RX5C2BD3.wav
+MaxV - RX5ITM4.wav
+MaxV - RX5ITM1.wav
+MaxV - RX5IBD2.wav
+MaxV - RX5ITM2.wav
+MaxV - RX5ITM3.wav
+MaxV - RX5IBD1.wav
+MaxV - TOMH-CH3.wav
+MaxV - BD2--CH3.wav
+MaxV - SHAKECH3.wav
+MaxV - HHCL-CH3.wav
+MaxV - COWB-CH3.wav
+MaxV - CONGHCH3.wav
+MaxV - CRASHCH3.wav
+MaxV - RIDE2CH3.wav
+MaxV - HHOP-CH3.wav
+MaxV - QUIJACH3.wav
+MaxV - SD2--CH3.wav
+MaxV - CONGLCH3.wav
+MaxV - WOODBCH3.wav
+MaxV - TRIAMCH3.wav
+MaxV - PERC-CH3.wav
+MaxV - BRUSHCH3.wav
+MaxV - BD1--CH3.wav
+MaxV - TOML-CH3.wav
+MaxV - RIMSHCH3.wav
+MaxV - CHIMECH3.wav
+MaxV - RIDE1CH3.wav
+MaxV - TRIALCH3.wav
+MaxV - HHCL2CH3.wav
+MaxV - SD1--CH3.wav
+MaxV - SDS5 Kick 4.wav
+MaxV - SDS5 snare mid.wav
+MaxV - SDS5 snare lo.wav
+MaxV - SDS5 kick 3.wav
+MaxV - SDS5 kick 2.wav
+MaxV - SDS5 kick 1.wav
+MaxV - SDS5 Crack.wav
+MaxV - SDS5 08.wav
+MaxV - SDS5 20.wav
+MaxV - SDS5 21.wav
+MaxV - SDS5 09.wav
+MaxV - SDS5 23.wav
+MaxV - SDS5 22.wav
+MaxV - SDS5 26.wav
+MaxV - SDS5 32.wav
+MaxV - SDS5 27.wav
+MaxV - SDS5 31.wav
+MaxV - SDS5 25.wav
+MaxV - SDS5 19.wav
+MaxV - SDS5 18.wav
+MaxV - SDS5 24.wav
+MaxV - SDS5 30.wav
+MaxV - SDS5 29.wav
+MaxV - SDS5 15.wav
+MaxV - SDS5 01.wav
+MaxV - SDS5 14.wav
+MaxV - SDS5 28.wav
+MaxV - SDS5 02.wav
+MaxV - SDS5 16.wav
+MaxV - SDS5 17.wav
+MaxV - SDS5 03.wav
+MaxV - SDS5 07.wav
+MaxV - SDS5 13.wav
+MaxV - SDS5 12.wav
+MaxV - SDS5 06.wav
+MaxV - SDS5 10.wav
+MaxV - SDS5 04.wav
+MaxV - SDS5 05.wav
+MaxV - SDS5 11.wav
+MaxV - SDS5 Snare hi 1.wav
+MaxV - SDS5 tom 4.wav
+MaxV - SDS5 snare hi 2.wav
+MaxV - SDS5 tom 2.wav
+MaxV - SDS5 tom 3.wav
+MaxV - SDS5 tom 1.wav
+HR16Snare05.wav
+HR16Snare04.wav
+MaxV - HR16 BRASS SNR 1.wav
+MaxV - HR16 22 DEEP KIK.wav
+HR16Snare06.wav
+MaxV - HR16 22 DBLHD-KIK.wav
+HR16Hat_P.wav
+HR16Snare07.wav
+MaxV - HR16 SHAKER.wav
+HR16Block2.wav
+MaxV - HR16 W BLOCK2.wav
+HR16Snare03.wav
+MaxV - HR16 RIM.wav
+HR16Snare02.wav
+HR16Shaker.wav
+HR16Block1.wav
+MaxV - HR16 COWBELL.wav
+MaxV - HR16 W BLOCK1.wav
+HR16Snare01.wav
+MaxV - HR16 10-DBL TOM.wav
+MaxV - HR16 MED HAT.wav
+MaxV - HR16 H CONGA.wav
+MaxV - HR16 WOOD SNR 1.wav
+HR16Triangle.wav
+MaxV - HR16 16-TOM 1.wav
+MaxV - HR16 ELECTSNR 1.wav
+HR16Clave.wav
+HR16Agogo.wav
+MaxV - HR16 GATE SNR 1.wav
+HR16Crash.wav
+MaxV - HR16 WOOD SNR 2.wav
+HR16Rimshot.wav
+MaxV - HR16 24 POWER KIK.wav
+HR16LoConga.wav
+MaxV - HR16 RIDE-BELL.wav
+MaxV - HR16 STICK.wav
+HR16Cabasa.wav
+HR16Sidestick.wav
+MaxV - HR16 22 GATED KIK.wav
+MaxV - HR16 10-TOM 1.wav
+HR16Kick06.wav
+MaxV - HR16 22 DBLHD KIK.wav
+MaxV - HR16 RIDE CYMB.wav
+HR16Kick05.wav
+MaxV - HR16 CRASH CYM.wav
+MaxV - HR16 TIMBALE.wav
+HR16Kick04.wav
+MaxV - HR16 ELECT TOM.wav
+HR16Maracas02.wav
+MaxV - HR16 HAT A.wav
+HR16Hat_C2.wav
+HR16Kick01.wav
+HR16HiConga.wav
+MaxV - HR16 OPN HAT.wav
+HR16Clap.wav
+HR16Maracas01.wav
+HR16Kick03.wav
+MaxV - HR16 22 POWER KIK.wav
+MaxV - HR16 CLAVE.wav
+HR16Hat_C1.wav
+MaxV - HR16 AGOGO.wav
+HR16Kick02.wav
+HR16Ride02.wav
+HR16Hat_M.wav
+MaxV - HR16 14-DBL TOM.wav
+HR16Tom04.wav
+HR16Snap.wav
+HR16Hat_O.wav
+HR16Ride01.wav
+HR16Tom03.wav
+MaxV - HR16 22 60 KIK.wav
+HR16Cowbell02.wav
+MaxV - HR16 20 SWIFT KIK.wav
+MaxV - HR16 L CONGA.wav
+HR16Tom02.wav
+MaxV - HR16 ELECTRO KIK2.wav
+MaxV - HR16 FOOT HAT.wav
+HR16Cowbell01.wav
+HR16Timbale.wav
+HR16Tamborine.wav
+MaxV - HR16 ELECTRO KIK1.wav
+HR16Tom01.wav
+R-5 Rimshot Snare 3.wav
+R-5 Brush Roll Snare.wav
+R-5 Mallet Crash Cymbal.wav
+R-5 Can.wav
+R-5 Rimshot Snare 2.wav
+R-5 Ride Cymbal.wav
+R-5 Jazz Snare.wav
+R-5 Crash Cymbal.wav
+R-5 Rimshot Snare 1.wav
+R-5 Dry Tom 2.wav
+R-5 Closed Hihat.wav
+R-5 Dry Kick 1.wav
+R-5 Solid Kick.wav
+R-5 Mute High Conga.wav
+R-5 Electronic Snare.wav
+R-5 Room Ambient Tom 1.wav
+R-5 Whistle.wav
+R-5 Open Low Conga.wav
+R-5 Dry Tom 3.wav
+R-5 Dry Tom 1.wav
+R-5 Room Ambient Tom 3.wav
+R-5 Cabasa.wav
+R-5 Dry Kick 2.wav
+R-5 Timbale.wav
+R-5 Brush Hit Snare.wav
+R-5 Ouchi Snare.wav
+R-5 Room Ambient Tom 2.wav
+R-5 Jazz Tom 1.wav
+R-5 Blast.wav
+R-5 808 Hand Clap.wav
+R-5 Jazz Tom 2.wav
+R-5 Back Snare.wav
+R-5 Electronic Kick.wav
+R-5 Mondo Kick.wav
+R-5 Slap High Conga.wav
+R-5 Open Hihat.wav
+R-5 Jazz Tom 3.wav
+R-5 Electronic Tom 3.wav
+R-5 Electronic Tom 2.wav
+R-5 Shaker.wav
+R-5 Claves.wav
+R-5 Ride Bell Cymbal.wav
+R-5 Electronic Tom 1.wav
+R-5 Back Cymbal.wav
+R-5 Side Stick.wav
+R-5 Wood Kick.wav
+R-5 Cowbell.wav
+R-5 Bongo.wav
+R-5 Impact Snare.wav
+R-5 Fat Snare.wav
+R-5 Double Head Kick 2.wav
+R-5 Double Head Kick 1.wav
+R-5 Room Ambient Kick 1.wav
+R-5 Room Ambient Kick 2.wav
+R-5 Reverb Snare.wav
+R-5 FX Tom.wav
+R-5 Ride Cymbal Bell.wav
+R-5 Pedal Closed Hat.wav
+R-5 Surdo.wav
+R-5 Tambourine.wav
+R-5 Agogo.wav
+R-5 Wood Snare.wav
+R-5 Tight Snare.wav
+R-5 Open Snare.wav
+MaxV - F3 Ride Bell.wav
+MaxV - G#2 Pedal Hi-Hat.wav
+MaxV - A1 Metronome Click.wav
+MaxV - F#1 Scratch Pull.wav
+MaxV - D#2 Hand Clap.wav
+MaxV - B4 Short Hi Whistle.wav
+MaxV - G#5 Mute Triangle.wav
+MaxV - A#4 Maracas.wav
+MaxV - C5 Long Low Whistle.wav
+MaxV - F#4 Low Timbale.wav
+MaxV - A#2 Open Hi-hat.wav
+MaxV - C#6 Castanets.wav
+MaxV - B2 Mid Tom1.wav
+MaxV - D#3 Ride Cymbal.wav
+MaxV - F5 Low Wood Block.wav
+MaxV - C#4 Low Bongo.wav
+MaxV - A#5 Shaker.wav
+MaxV - D2 Standard1 Snare2.wav
+MaxV - E3 Chinese Cymbal.wav
+MaxV - D2 Standard1 Snare1.wav
+MaxV - G3 Splash Cymbal.wav
+MaxV - B5 Jingle Bell.wav
+MaxV - D1 Finger Snap.wav
+MaxV - A5 Open Triangle.wav
+MaxV - F#3 Tambourine.wav
+MaxV - C#5 Short Guiro.wav
+MaxV - C4 High Bongo.wav
+MaxV - A#1 Metronome Bell.wav
+MaxV - C6 Bell Tree.wav
+MaxV - E1 Slap.wav
+MaxV - A#3 Vibra-slap.wav
+MaxV - A3 Crash Cymbal2.wav
+MaxV - D5 Long Cuiro.wav
+MaxV - D#1 High Q.wav
+MaxV - C#2 Side Stick.wav
+MaxV - G#3 Cowbell.wav
+MaxV - C#1 Snare Roll.wav
+MaxV - D#5 Claves.wav
+MaxV - B1 Standard1 Kick2.wav
+MaxV - A4 Cabasa.wav
+MaxV - F#5 Mute Cuica.wav
+MaxV - B3 Ride Cymbal2.wav
+MaxV - G#4 Low Agogo.wav
+MaxV - D#4 Open High Conga.wav
+MaxV - G#1 Square Click.wav
+MaxV - D#6 Open Surdo.wav
+MaxV - D6 Mute Surdo.wav
+MaxV - F1 Scratch Push.wav
+MaxV - C2 Standard1 Kick1.wav
+MaxV - D4 Mute High Conga.wav
+MaxV - F#2 Closed Hi-Hat.wav
+MaxV - G1 Sticks.wav
+MaxV - G5 Open Cuica.wav
+DR220Tom_Lo.wav
+DR220Hat_O.wav
+DR220Snare.wav
+DR220Tom_Mid.wav
+DR220Hat_C.wav
+DR220Rimshot.wav
+DR220Ride.wav
+DR220Kick.wav
+DR220Crash.wav
+DR220Clap.wav
+DR220Tom_Hi.wav
+MaxV - Roland -lter5 36.wav
+MaxV - Roland -lick1 20.wav
+MaxV - Roland -drum3 11.wav
+MaxV - Roland -hort2 58.wav
+MaxV - Roland -lter1 47.wav
+MaxV - Roland -long4 54.wav
+MaxV - Roland -open3 19.wav
+MaxV - Roland -lick3 22.wav
+MaxV - Roland -klick 06.wav
+MaxV - Roland -click 14.wav
+MaxV - Roland -nare2 41.wav
+MaxV - Roland -_long 51.wav
+MaxV - Roland -klick 07.wav
+MaxV - Roland -lter2 48.wav
+MaxV - Roland -losed 15.wav
+MaxV - Roland -ngle1 60.wav
+MaxV - Roland -lter3 34.wav
+MaxV - Roland -losed 28.wav
+MaxV - Roland -lter1 32.wav
+MaxV - Roland -lick5 24.wav
+MaxV - Roland -909_2 02.wav
+MaxV - Roland -long2 52.wav
+MaxV - Roland -nare6 45.wav
+MaxV - Roland -nare4 43.wav
+MaxV - Roland -lter8 39.wav
+MaxV - Roland -long5 55.wav
+MaxV - Roland -short 57.wav
+MaxV - Roland -lter4 35.wav
+MaxV - Roland -ybell 27.wav
+MaxV - Roland -drum2 10.wav
+MaxV - Roland -nare1 40.wav
+MaxV - Roland -lter6 37.wav
+MaxV - Roland -noise 56.wav
+MaxV - Roland -lick2 21.wav
+MaxV - Roland -tock 59.wav
+MaxV - Roland -_long 04.wav
+MaxV - Roland -9dist 08.wav
+MaxV - Roland -_long 12.wav
+MaxV - Roland -nare3 42.wav
+MaxV - Roland -plopp 31.wav
+MaxV - Roland -open2 30.wav
+MaxV - Roland -open2 18.wav
+MaxV - Roland -nare5 44.wav
+MaxV - Roland -909_3 03.wav
+MaxV - Roland -drum1 09.wav
+MaxV - Roland -lter3 49.wav
+MaxV - Roland -lter7 38.wav
+MaxV - Roland -osed2 16.wav
+MaxV - Roland -lick4 23.wav
+MaxV - Roland -909_1 01.wav
+MaxV - Roland -nare7 46.wav
+MaxV - Roland -long2 05.wav
+MaxV - Roland -lter4 50.wav
+MaxV - Roland -_open 29.wav
+MaxV - Roland -lter2 33.wav
+MaxV - Roland -_open 17.wav
+MaxV - Roland -lick6 25.wav
+MaxV - Roland -long2 13.wav
+MaxV - Roland -snare 26.wav
+MaxV - Roland -long3 53.wav
+CR78Tamborine.wav
+CR78Hat_C.wav
+CR78Snare.wav
+MaxV - Roland CR78 - 10.wav
+MaxV - Roland CR78 - 04.wav
+CR78Rimshot.wav
+MaxV - Roland CR78 - 05.wav
+MaxV - Roland CR78 - 11.wav
+MaxV - Roland CR78 - 07.wav
+MaxV - Roland CR78 - 13.wav
+MaxV - Roland CR78 - 12.wav
+MaxV - Roland CR78 - 06.wav
+MaxV - Roland CR78 - 02.wav
+MaxV - Roland CR78 - 16.wav
+MaxV - Roland CR78 - 17.wav
+MaxV - Roland CR78 - 03.wav
+MaxV - Roland CR78 - 29.wav
+MaxV - Roland CR78 - 15.wav
+MaxV - Roland CR78 - 01.wav
+CR78Cowbell.wav
+MaxV - Roland CR78 - 14.wav
+MaxV - Roland CR78 - 28.wav
+MaxV - Roland CR78 - 25.wav
+MaxV - Roland CR78 - 19.wav
+MaxV - Roland CR78 - 18.wav
+MaxV - Roland CR78 - 24.wav
+MaxV - Roland CR78 - 26.wav
+MaxV - Roland CR78 - 27.wav
+MaxV - Roland CR78 - 23.wav
+MaxV - Roland CR78 - 22.wav
+MaxV - Roland CR78 - 08.wav
+MaxV - Roland CR78 - 20.wav
+CR78Kick.wav
+CR78Guiro.wav
+MaxV - Roland CR78 - 21.wav
+MaxV - Roland CR78 - 09.wav
+CR78Perc01.wav
+CR78Perc02.wav
+CR78Perc03.wav
+CR78Perc06.wav
+CR78Hat_O.wav
+CR78Perc04.wav
+CR78Perc05.wav
+MaxV - Rapclap1.wav
+MaxV - Realch1.wav
+MaxV - Funkysd1.wav
+MaxV - Ridecym2.wav
+MaxV - Hc2clap.wav
+MaxV - Elecloto.wav
+MaxV - 78midtom.wav
+MaxV - Jnglesd4.wav
+MaxV - 606ch.wav
+MaxV - Hibamboo.wav
+MaxV - Rapclap2.wav
+MaxV - Realch2.wav
+MaxV - 626shake.wav
+MaxV - Cabasaup.wav
+MaxV - Funkysd2.wav
+MaxV - Losyntht.wav
+MaxV - Longwhis.wav
+MaxV - Opensurd.wav
+MaxV - Hardsd1.wav
+MaxV - Hardclap.wav
+MaxV - Lowoodbl.wav
+MaxV - Cavebd.wav
+MaxV - Junglebd.wav
+MaxV - 78sd.wav
+MaxV - Jnglesd3.wav
+MaxV - Ridecymb.wav
+MaxV - Jnglesd2.wav
+MaxV - Loagogo.wav
+MaxV - Jnglesd1.wav
+MaxV - Jngletam.wav
+MaxV - 78guiro.wav
+MaxV - Locongao.wav
+MaxV - Mutesurd.wav
+MaxV - Fnkygost.wav
+MaxV - Acmidtm2.wav
+MaxV - Cabasado.wav
+MaxV - Lecloto2.wav
+MaxV - Opentria.wav
+MaxV - 78cowbel.wav
+MaxV - Acmidtom.wav
+MaxV - Longguir.wav
+MaxV - 707clap.wav
+MaxV - Tambouri.wav
+MaxV - Hibongoo.wav
+MaxV - 80809sd.wav
+MaxV - Hicongas.wav
+MaxV - 78hitom.wav
+MaxV - Hittamb.wav
+MaxV - Drybd2.wav
+MaxV - Distbd1.wav
+MaxV - Hitimbal.wav
+MaxV - Fingersn.wav
+MaxV - 78oh.wav
+MaxV - Mgblip1.wav
+MaxV - Hipclap1.wav
+MaxV - Mutetria.wav
+MaxV - 606bd1.wav
+MaxV - Lecmidt1.wav
+MaxV - Drybd3.wav
+MaxV - 707ch.wav
+MaxV - Drybd1.wav
+MaxV - 78metalb.wav
+MaxV - 606bd3.wav
+MaxV - Elecbd.wav
+MaxV - Distbd2.wav
+MaxV - Realclap.wav
+MaxV - Vibrasla.wav
+MaxV - Tinysd.wav
+MaxV - 78ch.wav
+MaxV - Distbd3.wav
+MaxV - Lecmidt2.wav
+MaxV - 606bd2.wav
+MaxV - 707oh.wav
+MaxV - Afrofeet.wav
+MaxV - Hihyoshi.wav
+MaxV - Brushswi.wav
+MaxV - Hicongao.wav
+MaxV - Opencuic.wav
+MaxV - Shortgui.wav
+MaxV - Tinyrim4.wav
+MaxV - Shortwhi.wav
+MaxV - Aclotom2.wav
+MaxV - Midbambo.wav
+MaxV - Hrtbeat.wav
+MaxV - Hiwoodbl.wav
+MaxV - Aclotom1.wav
+MaxV - Mutepand.wav
+MaxV - Shaketam.wav
+MaxV - Rimsd2.wav
+MaxV - Tightsd.wav
+MaxV - 606sd2.wav
+MaxV - Whitnoiz.wav
+MaxV - Mutecuic.wav
+MaxV - Tinyrim3.wav
+MaxV - Tinyrim2.wav
+MaxV - Tablabay.wav
+MaxV - Drysd1.wav
+MaxV - Lobamboo.wav
+MaxV - 606sd3.wav
+MaxV - Hisyntht.wav
+MaxV - Rimsd1.wav
+MaxV - Elechibo.wav
+MaxV - 606sd1.wav
+MaxV - Tambsd1.wav
+MaxV - Openpand.wav
+MaxV - Brushslp.wav
+MaxV - Drysd2.wav
+MaxV - Cavebd2.wav
+MaxV - Shakecla.wav
+MaxV - Rapsd.wav
+MaxV - Lohyoshi.wav
+MaxV - Clipsd2.wav
+MaxV - Realph1.wav
+MaxV - Lechito1.wav
+MaxV - Roomch.wav
+MaxV - Hypersd2.wav
+MaxV - Bamboost.wav
+MaxV - 78lotom.wav
+MaxV - Blipbd.wav
+MaxV - Clipsd1.wav
+MaxV - Midsynth.wav
+MaxV - Realph2.wav
+MaxV - Roomoh.wav
+MaxV - Elecsd1.wav
+MaxV - Lechito2.wav
+MaxV - Hypersd1.wav
+MaxV - Lotimbal.wav
+MaxV - Asiangon.wav
+MaxV - Lobongoo.wav
+MaxV - Bamboosd.wav
+MaxV - Brushtap.wav
+MaxV - Achitom1.wav
+MaxV - Fxsd2.wav
+MaxV - Realoh2.wav
+MaxV - Hiagogo.wav
+MaxV - Jnglebd2.wav
+MaxV - Udo.wav
+MaxV - Achitom2.wav
+MaxV - Fxsd1.wav
+MaxV - Slap.wav
+MaxV - Eleclobo.wav
+MaxV - 78tamb.wav
+MaxV - Realoh1.wav
+MaxV - KR55 - BMY05.wav
+MaxV - KR55 -Hat-Op 05.wav
+MaxV - KR55 -Tom-Hi 09.wav
+MaxV - KR55 - 09.wav
+MaxV - KR55 - MOT10.wav
+MaxV - KR55 - Crash 03.wav
+MaxV - KR55 - - Rim 07.wav
+MaxV - KR55 -Hat-Cl 04.wav
+MaxV - KR55 -owbell 02.wav
+MaxV - KR55 - 04.wav
+MaxV - KR55 - 07.wav
+MaxV - KR55 - RAN09.wav
+MaxV - KR55 - 02.wav
+MaxV - KR55 - VAL02.wav
+MaxV - KR55 - 01.wav
+MaxV - ett.wav
+MaxV - actt.wav
+MaxV - gtbd.wav
+MaxV - gong.wav
+MaxV - esd.wav
+MaxV - acsd.wav
+MaxV - acbd-1.wav
+MaxV - gttt.wav
+MaxV - acbd-2.wav
+MaxV - ride.wav
+MaxV - gtsd.wav
+MaxV - hh.wav
+MaxV - chin.wav
+MaxV - ebd.wav
+MaxV - slap.wav
+MaxV - Glexd27.wav
+MaxV - Glexd33.wav
+MaxV - Glexd32.wav
+MaxV - Glexd26.wav
+MaxV - Glexd30.wav
+MaxV - Glexd24.wav
+MaxV - Glexd18.wav
+MaxV - Glexd19.wav
+MaxV - Glexd25.wav
+MaxV - Glexd31.wav
+MaxV - Glexd09.wav
+MaxV - Glexd35.wav
+MaxV - Glexd21.wav
+MaxV - Glexd20.wav
+MaxV - Glexd34.wav
+MaxV - Glexd08.wav
+MaxV - Glexd22.wav
+MaxV - Glexd36.wav
+MaxV - Glexd37.wav
+MaxV - Glexd23.wav
+MaxV - Glexd44.wav
+MaxV - Glexd50.wav
+MaxV - Glexd78.wav
+MaxV - Glexd79.wav
+MaxV - Glexd51.wav
+MaxV - Glexd45.wav
+MaxV - Glexd53.wav
+MaxV - Glexd47.wav
+MaxV - Glexd46.wav
+MaxV - Glexd52.wav
+MaxV - Glexd56.wav
+MaxV - Glexd42.wav
+MaxV - Glexd81.wav
+MaxV - Glexd80.wav
+MaxV - Glexd43.wav
+MaxV - Glexd57.wav
+MaxV - Glexd69.wav
+MaxV - Glexd41.wav
+MaxV - Glexd55.wav
+MaxV - Glexd54.wav
+MaxV - Glexd40.wav
+MaxV - Glexd68.wav
+MaxV - Glexd65.wav
+MaxV - Glexd71.wav
+MaxV - Glexd59.wav
+MaxV - Glexd58.wav
+MaxV - Glexd70.wav
+MaxV - Glexd64.wav
+MaxV - Glexd72.wav
+MaxV - Glexd66.wav
+MaxV - Glexd67.wav
+MaxV - Glexd73.wav
+MaxV - Glexd77.wav
+MaxV - Glexd63.wav
+MaxV - Glexd62.wav
+MaxV - Glexd76.wav
+MaxV - Glexd48.wav
+MaxV - Glexd60.wav
+MaxV - Glexd74.wav
+MaxV - Glexd75.wav
+MaxV - Glexd61.wav
+MaxV - Glexd49.wav
+MaxV - Glexd06.wav
+MaxV - Glexd12.wav
+MaxV - Glexd13.wav
+MaxV - Glexd07.wav
+MaxV - Glexd11.wav
+MaxV - Glexd05.wav
+MaxV - Glexd39.wav
+MaxV - Glexd38.wav
+MaxV - Glexd04.wav
+MaxV - Glexd10.wav
+MaxV - Glexd28.wav
+MaxV - Glexd14.wav
+MaxV - Glexd01.wav
+MaxV - Glexd15.wav
+MaxV - Glexd29.wav
+MaxV - Glexd03.wav
+MaxV - Glexd17.wav
+MaxV - Glexd16.wav
+MaxV - Glexd02.wav
+MR10Cymbal.wav
+MR10Snare.wav
+MR10Kick01.wav
+MR10Tom_Hi.wav
+MR10Hat_C.wav
+MR10Kick02.wav
+MR10Tom_Mid.wav
+MR10Hat_O.wav
+MR10Brush.wav
+MR10Tom_Lo.wav
+MR10Shaker.wav
+MaxV - Guiro2.wav
+Ddm110Cymbal.wav
+Ddm110Hat_C.wav
+MaxV - 110_op_hat.wav
+Ddm110Kick.wav
+Ddm110Clap.wav
+Ddm110Snare.wav
+MaxV - 110_cl_hat.wav
+MaxV - 110_cymbal.wav
+Ddm110Tom_Hi.wav
+Ddm110Rimshot.wav
+MaxV - 110_snare.wav
+MaxV - 110_lo_tom.wav
+Ddm110Tom_Lo.wav
+MaxV - 110_hi_tom.wav
+MaxV - 110_rim.wav
+MaxV - 110_kick.wav
+MaxV - 110_clap.wav
+Ddm110Hat_O.wav
+MaxV - Cymbal Ride.wav
+DS09808Cymbal.wav
+DS09808Snare.wav
+DS09808CongaMid.wav
+DS09808Hat_C.wav
+DS09808TomMid.wav
+DS09808Clave.wav
+DS09808TomLo.wav
+DS09909TomHI.wav
+DS09808CongaHi.wav
+DS09808Maracas.wav
+DS09909Hat_O.wav
+DS09909Rimshot.wav
+DS09909Clap.wav
+DS09909Hat_C.wav
+DS09909Ride.wav
+DS09909Kick.wav
+DS09909Snare.wav
+DS09808Hat_O.wav
+DS09909TomMid.wav
+DS09808Kick.wav
+DS09808Cowbell.wav
+DS09808CongaLo.wav
+DS09808Rimshot.wav
+DS09909Crash.wav
+DS09909TomLo.wav
+DS09808TomHi.wav
+DS09808Clap.wav
+DS00808Snare.wav
+DS00909Clap.wav
+DS00808CongaHi.wav
+DS00808Maracas.wav
+DS00808CongaMid.wav
+DS00909Rimshot.wav
+DS00808Hat_C.wav
+DS00909Ride.wav
+DS00909Kick.wav
+DS00909TomHi.wav
+DS00808Kick.wav
+DS00808Clave.wav
+DS00808TomLo.wav
+DS00909TomMid.wav
+DS00909Hat_O.wav
+DS00808Clap.wav
+DS00909Hat_C.wav
+DS00808TomMid.wav
+DS00808Cowbell.wav
+DS00909Snare.wav
+DS00808CongaLo.wav
+DS00808Rimshot.wav
+DS00808Cymbal.wav
+DS00808Hat_O.wav
+DS00808TomHi.wav
+DS00909Crash.wav
+DS00909TomLo.wav
+DS07808Clap.wav
+DS07909Crash.wav
+DS07909TomLo.wav
+DS07808TomHi.wav
+DS07909Rimshot.wav
+DS07808Hat_O.wav
+DS07808CongaHi.wav
+DS07808Maracas.wav
+DS07808CongaMid.wav
+DS07808Kick.wav
+DS07909Kick.wav
+DS07909Snare.wav
+DS07909Ride.wav
+DS07909Clap.wav
+DS07909Hat_C.wav
+DS07909TomMid.wav
+DS07909Hat_O.wav
+DS07808TomMid.wav
+DS07808CongaLo.wav
+DS07808Rimshot.wav
+DS07808Cowbell.wav
+DS07808Clave.wav
+DS07808TomLo.wav
+DS07909TomHi.wav
+DS07808Cymbal.wav
+DS07808Hat_C.wav
+DS07808Snare.wav
+DS06808CongaMid.wav
+DS06909TomHi.wav
+DS06808TomLo.wav
+DS06808Clave.wav
+DS06909Hat_O.wav
+DS06808Snare.wav
+DS06808Cowbell.wav
+DS06909TomMid.wav
+DS06808Hat_C.wav
+DS06808Rimshot.wav
+DS06808CongaLo.wav
+DS06808Cymbal.wav
+DS06808Kick.wav
+DS06808Hat_O.wav
+DS06808TomMid.wav
+DS06808Clap.wav
+DS06808TomHi.wav
+DS06909Crash.wav
+DS06909TomLo.wav
+DS06808CongaHi.wav
+DS06808Maracas.wav
+DS06909Hat_C.wav
+DS06909Clap.wav
+DS06909Snare.wav
+DS06909Kick.wav
+DS06909Rimshot.wav
+DS06909Ride.wav
+DS01808CongaMid.wav
+DS01909Snare.wav
+DS01909Hat_C.wav
+DS01808Rimshot.wav
+DS01909Crash.wav
+DS01909TomLo.wav
+DS01808CongaLo.wav
+DS01808TomHi.wav
+DS01909TomMid.wav
+DS01808Hat_O.wav
+DS01808Cowbell.wav
+DS01909Ride.wav
+DS01909Kick.wav
+DS01808Hat_C.wav
+DS01808Cymbal.wav
+DS01808TomMid.wav
+DS01909Clap.wav
+DS01808Snare.wav
+DS01909Rimshot.wav
+DS01909Hat_O.wav
+DS01808Clap.wav
+DS01808TomLo.wav
+DS01808Kick.wav
+DS01808Clave.wav
+DS01808CongaHi.wav
+DS01808Maracas.wav
+DS01909TomHi.wav
+DS08909Ride.wav
+DS08808Rimshot.wav
+DS08909Snare.wav
+DS08808CongaLo.wav
+DS08909Kick.wav
+DS08808TomMid.wav
+DS08808Cymbal.wav
+DS08909Hat_C.wav
+DS08909Clap.wav
+DS08808CongaMid.wav
+DS08808Cowbell.wav
+DS08808TomHi.wav
+DS08909Crash.wav
+DS08909TomLo.wav
+DS08808Clap.wav
+DS08808Kick.wav
+DS08808Hat_O.wav
+DS08909Rimshot.wav
+DS08808Hat_C.wav
+DS08808Snare.wav
+DS08808CongaHi.wav
+DS08808Maracas.wav
+DS08909Hat_O.wav
+DS08909TomMid.wav
+DS08909TomHi.wav
+DS08808TomLo.wav
+DS08808Clave.wav
+DS12808TomHi.wav
+DS12909TomLo.wav
+DS12909Crash.wav
+DS12808CongaMid.wav
+DS12808Hat_O.wav
+DS12808Rimshot.wav
+DS12909Snare.wav
+DS12808CongaLo.wav
+DS12909Hat_C.wav
+DS12808Cowbell.wav
+DS12909TomMid.wav
+DS12808TomMid.wav
+DS12808Clap.wav
+DS12909Hat_O.wav
+DS12909TomHi.wav
+DS12808Kick.wav
+DS12808TomLo.wav
+DS12808Cymbal.wav
+DS12808Clave.wav
+DS12909Kick.wav
+DS12909Rimshot.wav
+DS12808Hat_C.wav
+DS12909Ride.wav
+DS12808Snare.wav
+DS12808CongaHi.wav
+DS12808Maracas.wav
+DS12909Clap.wav
+DS15808Snare.wav
+DS15808CongaMid.wav
+DS15808Hat_C.wav
+DS15808Cowbell.wav
+DS15808TomLo.wav
+DS15808Clave.wav
+DS15909TomHi.wav
+DS15909Hat_O.wav
+DS15808Rimshot.wav
+DS15808CongaLo.wav
+DS15909TomMid.wav
+DS15808TomMid.wav
+DS15909Clap.wav
+DS15909Hat_C.wav
+DS15909Ride.wav
+DS15909Snare.wav
+DS15808Cymbal.wav
+DS15909Kick.wav
+DS15808CongaHi.wav
+DS15808Maracas.wav
+DS15808Kick.wav
+DS15808Hat_O.wav
+DS15909TomLo.wav
+DS15909Crash.wav
+DS15808Clap.wav
+DS15808TomHi.wav
+DS15909Rimshot.wav
+DS22808Hat_C.wav
+DS22808CongaLo.wav
+DS22808Rimshot.wav
+DS22808Snare.wav
+DS22808Cowbell.wav
+DS22909TomMid.wav
+DS22909Hat_O.wav
+DS22909TomHi.wav
+DS22808Clave.wav
+DS22808TomLo.wav
+DS22909Clap.wav
+DS22909Snare.wav
+DS22909Rimshot.wav
+DS22808Cymbal.wav
+DS22808CongaMid.wav
+DS22909Hat_C.wav
+DS22909Ride.wav
+DS22808TomMid.wav
+DS22909Kick.wav
+DS22808CongaHi.wav
+DS22808Maracas.wav
+DS22808TomHi.wav
+DS22808Kick.wav
+DS22909Crash.wav
+DS22909TomLo.wav
+DS22808Hat_O.wav
+DS22808Clap.wav
+DS14909Snare.wav
+DS14909Ride.wav
+DS14909Rimshot.wav
+DS14808CongaMid.wav
+DS14909Kick.wav
+DS14909Hat_C.wav
+DS14808CongaHi.wav
+DS14909Clap.wav
+DS14808Maracas.wav
+DS14808TomHi.wav
+DS14808Clap.wav
+DS14909TomMid.wav
+DS14909TomLo.wav
+DS14909Crash.wav
+DS14808Kick.wav
+DS14808Hat_O.wav
+DS14808Hat_C.wav
+DS14808Cymbal.wav
+DS14808CongaLo.wav
+DS14808Rimshot.wav
+DS14808Snare.wav
+DS14808TomMid.wav
+DS14808Cowbell.wav
+DS14909Hat_O.wav
+DS14909TomHi.wav
+DS14808Clave.wav
+DS14808TomLo.wav
+DS13808Clave.wav
+DS13808CongaMid.wav
+DS13808TomLo.wav
+DS13808Kick.wav
+DS13909TomHi.wav
+DS13808CongaHi.wav
+DS13808Maracas.wav
+DS13909Hat_O.wav
+DS13909Rimshot.wav
+DS13808Clap.wav
+DS13808Snare.wav
+DS13909TomMid.wav
+DS13909Clap.wav
+DS13909Kick.wav
+DS13909Ride.wav
+DS13808Hat_C.wav
+DS13808Hat_O.wav
+DS13808Cymbal.wav
+DS13808Cowbell.wav
+DS13808CongaLo.wav
+DS13808Rimshot.wav
+DS13909TomLo.wav
+DS13808TomMid.wav
+DS13909Crash.wav
+DS13808TomHi.wav
+DS13909Hat_C.wav
+DS13909Snare.wav
+DS04909Hat_C.wav
+DS04808Maracas.wav
+DS04808CongaHi.wav
+DS04909Snare.wav
+DS04909Rimshot.wav
+DS04808TomMid.wav
+DS04808Hat_O.wav
+DS04808TomHi.wav
+DS04909TomLo.wav
+DS04909Crash.wav
+DS04808Cymbal.wav
+DS04808CongaMid.wav
+DS04808Snare.wav
+DS04808Cowbell.wav
+DS04909Clap.wav
+DS04808CongaLo.wav
+DS04808Rimshot.wav
+DS04909Kick.wav
+DS04808Hat_C.wav
+DS04909Ride.wav
+DS04909TomMid.wav
+DS04909TomHi.wav
+DS04808Kick.wav
+DS04808TomLo.wav
+DS04808Clave.wav
+DS04808Clap.wav
+DS04909Hat_O.wav
+DS03909Hat_O.wav
+DS03909Rimshot.wav
+DS03808Maracas.wav
+DS03808CongaHi.wav
+DS03808TomLo.wav
+DS03808Clave.wav
+DS03909TomHi.wav
+DS03808TomMid.wav
+DS03808Hat_C.wav
+DS03808CongaMid.wav
+DS03808Cymbal.wav
+DS03808Snare.wav
+DS03909TomLo.wav
+DS03909Crash.wav
+DS03808Clap.wav
+DS03808TomHi.wav
+DS03808CongaLo.wav
+DS03808Rimshot.wav
+DS03808Hat_O.wav
+DS03808Cowbell.wav
+DS03808Kick.wav
+DS03909TomMid.wav
+DS03909Ride.wav
+DS03909Kick.wav
+DS03909Snare.wav
+DS03909Clap.wav
+DS03909Hat_C.wav
+DS02808Kick.wav
+DS02808Hat_O.wav
+DS02808TomHi.wav
+DS02808Clap.wav
+DS02909TomLo.wav
+DS02909Crash.wav
+DS02808Cowbell.wav
+DS02909Hat_C.wav
+DS02909Clap.wav
+DS02808CongaMid.wav
+DS02808Cymbal.wav
+DS02909Snare.wav
+DS02909Ride.wav
+DS02808TomMid.wav
+DS02808Rimshot.wav
+DS02808CongaLo.wav
+DS02909Kick.wav
+DS02909TomHi.wav
+DS02808Clave.wav
+DS02909TomMid.wav
+DS02808TomLo.wav
+DS02909Hat_O.wav
+DS02808Snare.wav
+DS02808Maracas.wav
+DS02808CongaHi.wav
+DS02808Hat_C.wav
+DS02909Rimshot.wav
+DS05909Kick.wav
+DS05808Hat_C.wav
+DS05909Ride.wav
+DS05808Snare.wav
+DS05909Clap.wav
+DS05909Hat_O.wav
+DS05808CongaMid.wav
+DS05808Rimshot.wav
+DS05808CongaLo.wav
+DS05808Clap.wav
+DS05808Cymbal.wav
+DS05808Clave.wav
+DS05808TomLo.wav
+DS05808TomMid.wav
+DS05808Kick.wav
+DS05909TomHi.wav
+DS05808Cowbell.wav
+DS05909Snare.wav
+DS05909TomMid.wav
+DS05909Hat_C.wav
+DS05909Rimshot.wav
+DS05909TomLo.wav
+DS05909Crash.wav
+DS05808TomHi.wav
+DS05808Hat_O.wav
+DS05808Maracas.wav
+DS05808CongaHi.wav
+DS16909Hat_O.wav
+DS16808Clap.wav
+DS16909TomHi.wav
+DS16808Kick.wav
+DS16808Clave.wav
+DS16808TomLo.wav
+DS16808Hat_C.wav
+DS16909Ride.wav
+DS16808Rimshot.wav
+DS16808CongaLo.wav
+DS16808TomMid.wav
+DS16909Kick.wav
+DS16808Snare.wav
+DS16808CongaMid.wav
+DS16909Clap.wav
+DS16808Cowbell.wav
+DS16808Cymbal.wav
+DS16808TomHi.wav
+DS16909Crash.wav
+DS16909TomLo.wav
+DS16808Hat_O.wav
+DS16909TomMid.wav
+DS16909Snare.wav
+DS16909Rimshot.wav
+DS16909Hat_C.wav
+DS16808Maracas.wav
+DS16808CongaHi.wav
+DS11909Clap.wav
+DS11909Hat_C.wav
+DS11909Kick.wav
+DS11909Snare.wav
+DS11909Ride.wav
+DS11808Hat_O.wav
+DS11808Cowbell.wav
+DS11808TomMid.wav
+DS11808Kick.wav
+DS11808Clap.wav
+DS11909Crash.wav
+DS11909TomLo.wav
+DS11808TomHi.wav
+DS11808Cymbal.wav
+DS11808Rimshot.wav
+DS11808CongaLo.wav
+DS11808CongaMid.wav
+DS11808Snare.wav
+DS11909TomMid.wav
+DS11808Hat_C.wav
+DS11808Maracas.wav
+DS11808CongaHi.wav
+DS11808Clave.wav
+DS11808TomLo.wav
+DS11909TomHi.wav
+DS11909Hat_O.wav
+DS11909Rimshot.wav
+DS18808Cowbell.wav
+DS18909Hat_C.wav
+DS18909TomMid.wav
+DS18909Snare.wav
+DS18808Rimshot.wav
+DS18808CongaLo.wav
+DS18808CongaMid.wav
+DS18808Hat_O.wav
+DS18808TomHi.wav
+DS18909Crash.wav
+DS18909TomLo.wav
+DS18808Snare.wav
+DS18808Maracas.wav
+DS18808CongaHi.wav
+DS18909Clap.wav
+DS18808Hat_C.wav
+DS18909Kick.wav
+DS18909Ride.wav
+DS18909Rimshot.wav
+DS18808Cymbal.wav
+DS18909TomHi.wav
+DS18808Clave.wav
+DS18808TomLo.wav
+DS18808Kick.wav
+DS18808Clap.wav
+DS18909Hat_O.wav
+DS18808TomMid.wav
+DS20808TomHi.wav
+DS20909TomLo.wav
+DS20909Crash.wav
+DS20808Hat_O.wav
+DS20909Snare.wav
+DS20808TomMid.wav
+DS20909Rimshot.wav
+DS20808Maracas.wav
+DS20808CongaHi.wav
+DS20909Hat_C.wav
+DS20808Cymbal.wav
+DS20808Kick.wav
+DS20909Hat_O.wav
+DS20909TomHi.wav
+DS20909TomMid.wav
+DS20808Clave.wav
+DS20808TomLo.wav
+DS20808Clap.wav
+DS20808Hat_C.wav
+DS20909Clap.wav
+DS20808Rimshot.wav
+DS20808CongaLo.wav
+DS20909Ride.wav
+DS20808Snare.wav
+DS20808CongaMid.wav
+DS20808Cowbell.wav
+DS20909Kick.wav
+DS21808Cowbell.wav
+DS21808TomLo.wav
+DS21808Clap.wav
+DS21909TomHi.wav
+DS21808Kick.wav
+DS21909Hat_O.wav
+DS21808CongaLo.wav
+DS21808Rimshot.wav
+DS21909Ride.wav
+DS21808Cymbal.wav
+DS21909Kick.wav
+DS21808Snare.wav
+DS21909Clap.wav
+DS21808Hat_C.wav
+DS21808TomMid.wav
+DS21909TomMid.wav
+DS21808Hat_O.wav
+DS21808Maracas.wav
+DS21808CongaHi.wav
+DS21808Claves.wav
+DS21909TomLo.wav
+DS21909Crash.wav
+DS21808TomHi.wav
+DS21909Rimshot.wav
+DS21808CongaMid.wav
+DS21909Hat_C.wav
+DS21909Snare.wav
+DS19909Kick.wav
+DS19808Hat_C.wav
+DS19909Ride.wav
+DS19909TomMid.wav
+DS19909Clap.wav
+DS19808Snare.wav
+DS19808Clap.wav
+DS19909Hat_O.wav
+DS19909Rimshot.wav
+DS19808TomLo.wav
+DS19808Maracas.wav
+DS19808CongaHi.wav
+DS19808Clave.wav
+DS19808CongaMid.wav
+DS19909TomHi.wav
+DS19808Kick.wav
+DS19909Snare.wav
+DS19909Hat_C.wav
+DS19909Crash.wav
+DS19909TomLo.wav
+DS19808TomMid.wav
+DS19808CongaLo.wav
+DS19808Rimshot.wav
+DS19808TomHi.wav
+DS19808Hat_O.wav
+DS19808Cymbal.wav
+DS19808Cowbell.wav
+DS10808Hat_C.wav
+DS10909Rimshot.wav
+DS10808Snare.wav
+DS10808Maracas.wav
+DS10808CongaHi.wav
+DS10808CongaMid.wav
+DS10909Hat_O.wav
+DS10808Cymbal.wav
+DS10808TomMid.wav
+DS10909TomHi.wav
+DS10808TomLo.wav
+DS10808Clave.wav
+DS10909Snare.wav
+DS10909Kick.wav
+DS10808CongaLo.wav
+DS10808Rimshot.wav
+DS10909Ride.wav
+DS10909TomMid.wav
+DS10808Cowbell.wav
+DS10909Hat_C.wav
+DS10909Clap.wav
+DS10808Clap.wav
+DS10808TomHi.wav
+DS10909Crash.wav
+DS10909TomLo.wav
+DS10808Kick.wav
+DS10808Hat_O.wav
+DS17808Hat_O.wav
+DS17808Maracas.wav
+DS17808CongaHi.wav
+DS17909Crash.wav
+DS17909Rimshot.wav
+DS17909TomLo.wav
+DS17808TomHi.wav
+DS17808CongaMid.wav
+DS17808Cymbal.wav
+DS17909Hat_C.wav
+DS17808TomMid.wav
+DS17909Snare.wav
+DS17808TomLo.wav
+DS17808Kick.wav
+DS17808Clave.wav
+DS17909TomMid.wav
+DS17909TomHi.wav
+DS17808Cowbell.wav
+DS17808CongaLo.wav
+DS17808Rimshot.wav
+DS17909Hat_O.wav
+DS17808Clap.wav
+DS17909Clap.wav
+DS17808Snare.wav
+DS17909Ride.wav
+DS17909Kick.wav
+DS17808Hat_C.wav
