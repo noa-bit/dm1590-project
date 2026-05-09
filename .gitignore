@@ -1,8 +1,9 @@
-data/raw/
-data/processed/
+data/
 *.wav
 *.mp3
 __pycache__/
 *.pyc
 .env
 venv/
+organizer.py
+processing_script.py
