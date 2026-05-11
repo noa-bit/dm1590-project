@@ -1,12 +1,13 @@
 import pandas as pd
 from util.pca import PCA
+from utils.feature_extraction import FeatureExtractor
 
 def main():
     df = pd.read_csv('data.csv')
 
     X_raw = df.drop('Label', axis=1).values
     y_labels = df['Label'].values
-
+    featureExtractor = FeatureExtractor()
     pca = PCA(good_stuff=2)
 
     pca.fit(X_raw)
