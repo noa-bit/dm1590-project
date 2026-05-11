@@ -117,43 +117,43 @@ class FeatureExtractor():
         y = y[:max_samples]
 
         # Dictionary containing all extracted features
-        feature_arrays = {
-            "chroma_stft": librosa.feature.chroma_stft(y=y, sr=sr, n_fft=n_fft),
-            "chroma_cqt": librosa.feature.chroma_cqt(y=y, sr=sr),
-            "chroma_cens": librosa.feature.chroma_cens(y=y, sr=sr),
-            "chroma_vqt": librosa.feature.chroma_vqt(y=y, sr=sr, intervals="equal"),
-            "melspectrogram": librosa.feature.melspectrogram(y=y, sr=sr, n_fft=n_fft),
-            "mfcc": librosa.feature.mfcc(y=y, sr=sr, n_fft=n_fft),
-            "rms": librosa.feature.rms(y=y),
-            "spectral_centroid": librosa.feature.spectral_centroid(
+        features = [
+            librosa.feature.chroma_stft(y=y, sr=sr, n_fft=n_fft),
+            librosa.feature.chroma_cqt(y=y, sr=sr),
+            librosa.feature.chroma_cens(y=y, sr=sr),
+            librosa.feature.chroma_vqt(y=y, sr=sr, intervals="equal"),
+            librosa.feature.melspectrogram(y=y, sr=sr, n_fft=n_fft),
+            librosa.feature.mfcc(y=y, sr=sr, n_fft=n_fft),
+            librosa.feature.rms(y=y),
+            librosa.feature.spectral_centroid(
                 y=y, sr=sr, n_fft=n_fft
             ),
-            "spectral_bandwidth": librosa.feature.spectral_bandwidth(
+            librosa.feature.spectral_bandwidth(
                 y=y, sr=sr, n_fft=n_fft
             ),
-            "spectral_contrast": librosa.feature.spectral_contrast(
+            librosa.feature.spectral_contrast(
                 y=y, sr=sr, n_fft=n_fft
             ),
-            "spectral_flatness": librosa.feature.spectral_flatness(
+            librosa.feature.spectral_flatness(
                 y=y, n_fft=n_fft
             ),
-            "spectral_rolloff": librosa.feature.spectral_rolloff(
+            librosa.feature.spectral_rolloff(
                 y=y, sr=sr, n_fft=n_fft
             ),
-            "poly_features": librosa.feature.poly_features(
+            librosa.feature.poly_features(
                 y=y, sr=sr, n_fft=n_fft
             ),
-            "tonnetz": librosa.feature.tonnetz(y=y, sr=sr),
-            "zero_crossing_rate": librosa.feature.zero_crossing_rate(y=y),
-        }
+            librosa.feature.tonnetz(y=y, sr=sr),
+            librosa.feature.zero_crossing_rate(y=y),
+        ]
 
         # Start row with the label
         row = [key]
 
         # Add mean and std for every feature
-        for feature_name, values in feature_arrays.items():
-            row.append(self.__get_mean(values))
-            row.append(self.__get_std(values))
+        for value in features:
+            row.append(self.__get_mean(value))
+            row.append(self.__get_std(value))
 
         return row
         
