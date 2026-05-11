@@ -6,6 +6,15 @@ import numpy as np
 #Returns a line that can be appended to a pandas dataframe
 
 
+class MissingDataError(Exception):
+    def __init__(self, message):
+        self.message = message
+        super().__init__(self.message)
+
+    def __str__(self):
+        return f"{self.message}"
+
+
 
 
 class FeatureExtractor():
@@ -17,12 +26,25 @@ class FeatureExtractor():
 
     #Expects a dictionary with the label as key
     # and a list of filenames with that label as objects
-    def set_data(self, data):
-        self.data = data
-    
-    def extract_all(self):
+
+    def set_test_data(self):
         with open("dummy_data.json") as file:
             self.data = json.load(file)
+
+
+    def set_data(self, data) -> None:
+        self.data = data
+    
+
+    def extract_all(self) -> None:
+        """
+        Builds the dict of extracted features
+        
+        """
+
+        if (self.data == None):
+            raise MissingDataError("Data not defined")
+       
 
         # Base feature labels (without _mean / _std)
         feature_labels = [
@@ -143,13 +165,14 @@ class FeatureExtractor():
     def __get_std(self, arr):
         return np.asarray(arr).std()
 
-
-    def get_data_frame(self):
+    #returns a pandas dataframe with all the data
+    def get_data_frame(self) -> pd.DataFrame:
         return pd.DataFrame.from_dict(self.dataframe)
 
 
 if __name__ =="__main__":
     test = FeatureExtractor()
+    test.set_test_data()
     test.extract_all()
     print(test.get_data_frame())
 
