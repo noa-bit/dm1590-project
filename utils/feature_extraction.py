@@ -88,15 +88,20 @@ class FeatureExtractor():
 
         # Extract features from every file
         for key in self.data:
-            if not (key == "undefined"):
+            if not (key == "undefined" or key == "percussion"):
                 
                 for index, path in enumerate(self.data[key]):
                     print(f"key: {key}, index: {index}\n")
+<<<<<<< HEAD
 
                     if self.first_n:
 
                         if index >= self.first_n:
                             break
+=======
+                    """if index >= 30:
+                        break"""
+>>>>>>> 2ee1c26 (Updated main, feature_extraction.)
                     row = self.__extract_features(path, key)
                     if row:
                         # Append each value in the row to the matching key
