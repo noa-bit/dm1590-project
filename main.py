@@ -16,10 +16,25 @@ class Main():
 
         pca.fit(X_raw)
         x_proj = pca.compute_project(2, X_raw)
-
+        print(x_proj[:, 0], x_proj[:, 1])
         plt.figure(figsize=(12, 10))
-
-        plt.scatter(x_proj[:, 0], x_proj[:, 1], alpha=0.3, color=lambda x: print(x), marker='.', )
+        print("trying to plot")
+        label_names = sorted(set(y_labels))
+        label_to_color = {label: index for index, label in enumerate(label_names)}
+        colors = [label_to_color[label] for label in y_labels]
+        scatter = plt.scatter(
+            x_proj[:, 0],
+            x_proj[:, 1],
+            alpha=0.3,
+            c=colors,
+            cmap='tab10',
+            marker='.',
+        )
+        plt.legend(
+            handles=scatter.legend_elements()[0],
+            labels=label_names,
+            title='Label',
+        )
         """
         for d in range(24):
             x_val = pca.eigenvectors[:, :2][d, 0]
