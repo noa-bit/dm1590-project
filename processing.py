@@ -33,6 +33,43 @@ SIMILARITY_FLOOR = 0.47  # below this, the name is too ambiguous to classify
 # Keyword patterns — checked in order, first match wins
 _RULES: list[tuple[str, re.Pattern]] = [
     ("kick", re.compile(
+        r"\b(kick|bd|bass[\s_\-]?drum|bassdrum|sub[\s_\-]?kick|kik|bds"
+        r"|BasDr|Base|BASS_DRUM|KCK)\b",
+        re.IGNORECASE,
+    )),
+
+    ("snare", re.compile(
+        # Full words with strict boundaries
+        r"\b(snare|rim[\s_\-]?shot|rimshot|side[\s_\-]?stick|snr"
+        r"|RIM|RIMS|Crosstie|SIDESTIK|GOODSN)\b"
+        # 2-letter codes: right boundary only so they match when embedded ("shtsd" → sd at end)
+        r"|sd(?![a-zA-Z])"
+        r"|(?<![a-zA-Z])sn(?![a-zA-Z])",  # "sn" still needs left boundary (too short otherwise)
+        re.IGNORECASE,
+    )),
+
+    ("hi-hat", re.compile(
+        r"\b(hi[\s_\-]?hat|hihat|hat|chh|ohh|phh"
+        r"|open[\s_\-]?hat|closed[\s_\-]?hat|pedal[\s_\-]?hat"
+        r"|HHCL|808OPEN|HHOP|Short|Longhi)\b"
+        r"|hh(?![a-zA-Z])",  # right boundary only: matches "pdhh", "chhh" etc.
+        re.IGNORECASE,
+    )),
+
+    ("percussion", re.compile(
+        r"\b(perc|conga|bongo|clap|cowbell|cow|Cowb|COW|Cowbell|Block"
+        r"|TimHi|TimbLo|Timpani|Tympani|Tria|SHAKE|CHIME|CONG|Claves"
+        r"|GUIRA|CG-H[\s_\-]?bell"
+        r"|crash|ride|cymbal|cy|tom|floor[\s_\-]?tom|shaker|shakr"
+        r"|tambourine|tamb|agogo|clave|woodblock|triangle|djembe"
+        r"|cajon|timbale|cabasa|maracas|guiro|bell|gong|chime"
+        r"|snap|handclap|clav|crsh|cym|rim(?!shot))\b"
+        # Short abbreviations: right-boundary only
+        r"|cla(?![a-zA-Z])"   # clap / clave abbreviation
+        r"|per(?![a-zA-Z])",  # percussion abbreviation
+        re.IGNORECASE,
+    )),
+    ("kick", re.compile(
         r"\b(kick|bd|bass[\s_\-]?drum|bassdrum|sub[\s_\-]?kick|kik|bds)\b",
         re.IGNORECASE,
     )),
@@ -51,7 +88,7 @@ _RULES: list[tuple[str, re.Pattern]] = [
         re.IGNORECASE,
     )),
     ("percussion", re.compile(
-        r"\b(perc|conga|bongo|clap|cowbell|cow[\s_\-]?bell"
+        r"\b(perc|conga|bongo|clap|cowbell|cow|Cowb|COW|Cowbell|Block|TimHi|TimbLo|Timpani|Tympani|Tria|SHAKE|CHIME|CONG|Claves|GUIRA|CG-H[\s_\-]?bell"
         r"|crash|ride|cymbal|cy|tom|floor[\s_\-]?tom|shaker|shakr|tambourine|tamb"
         r"|agogo|clave|woodblock|triangle|djembe|cajon|timbale"
         r"|cabasa|maracas|guiro|bell|gong|chime|snap|handclap"
