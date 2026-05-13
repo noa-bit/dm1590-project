@@ -21,6 +21,7 @@ class FeatureExtractor():
 
     def __init__(self):
         self.data = None
+        self.first_n = None
         self.dataframe = {}
         pass
 
@@ -31,6 +32,8 @@ class FeatureExtractor():
         with open("drum_classes.json") as file:
             self.data = json.load(file)
 
+    def set_first_n(self, val):
+        self.first_n = val
 
     def set_data(self, data) -> None:
         self.data = data
@@ -88,8 +91,11 @@ class FeatureExtractor():
                 
                 for index, path in enumerate(self.data[key]):
                     print(f"key: {key}, index: {index}\n")
-                    if index >= 30:
-                        break
+
+                    if self.first_n:
+
+                        if index >= self.first_n:
+                            break
                     row = self.__extract_features(path, key)
                     if row:
                         # Append each value in the row to the matching key
