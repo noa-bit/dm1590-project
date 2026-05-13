@@ -235,9 +235,17 @@ EXAMPLE_SAMPLES: list[str] = [
 ]
 
 if __name__ == "__main__":
-    results = classify_samples(EXAMPLE_SAMPLES, verbose=False)
+    file_names = []
+    with open("file_registry.txt") as file:
+        for line in file.readlines():
+            file_names.append(line.strip())
+    
+    for line in file_names:
+        line = line.replace("\n", "")
+    print(file_names)
+    results = classify_samples(file_names, verbose=False)
 
-    save_results_json(results)
+    save_filenames_json(results)
 
-    kicks = [r for r in results if r.category == "kick"]
-    print(f"Kick samples found: {[r.raw for r in kicks]}")
+   #kicks = [r for r in results if r.category == "kick"]
+    #print(f"Kick samples found: {[r.raw for r in kicks]}")
