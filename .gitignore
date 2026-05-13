@@ -5,5 +5,7 @@ __pycache__/
 *.pyc
 .env
 venv/
-organizer.py
-processing_script.py
+archive/
+*.venv
+.DS_Store
+/.vscode
