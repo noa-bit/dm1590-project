@@ -28,7 +28,7 @@ class FeatureExtractor():
     # and a list of filenames with that label as objects
 
     def set_test_data(self):
-        with open("dummy_data.json") as file:
+        with open("drum_classes.json") as file:
             self.data = json.load(file)
 
 
@@ -84,14 +84,19 @@ class FeatureExtractor():
 
         # Extract features from every file
         for key in self.data:
-            for path in self.data[key]:
-                row = self.__extract_features(path, key)
-
-                # Append each value in the row to the matching key
-                # The row order must be:
-                # [Label, feature1_mean, feature1_std, feature2_mean, feature2_std, ...]
-                for column_name, value in zip(self.dataframe.keys(), row):
-                    self.dataframe[column_name].append(value)
+            if not (key == "undefined"):
+                
+                for index, path in enumerate(self.data[key]):
+                    print(f"key: {key}, index: {index}\n")
+                    if index >= 30:
+                        break
+                    row = self.__extract_features(path, key)
+                    if row:
+                        # Append each value in the row to the matching key
+                        # The row order must be:
+                        # [Label, feature1_mean, feature1_std, feature2_mean, feature2_std, ...]
+                        for column_name, value in zip(self.dataframe.keys(), row):
+                            self.dataframe[column_name].append(value)
 
         
     
@@ -106,57 +111,61 @@ class FeatureExtractor():
         """
 
         # Load audio
-        y, sr = librosa.load(f"data/raw/{path}")
+        try:
+            y, sr = librosa.load(f"data/sorted/{key}/{path}")
 
-        # FFT size
-        n_fft = 256
+            # FFT size
+            n_fft = 256
 
-        # Trim signal so length is divisible by n_fft
-        sample_len = len(y)
-        max_samples = sample_len - (sample_len % n_fft)
-        y = y[:max_samples]
+            # Trim signal so length is divisible by n_fft
+            sample_len = len(y)
+            max_samples = sample_len - (sample_len % n_fft)
+            if max_samples == 0:
+                return None
+            y = y[:max_samples]
 
-        # Dictionary containing all extracted features
-        feature_arrays = {
-            "chroma_stft": librosa.feature.chroma_stft(y=y, sr=sr, n_fft=n_fft),
-            "chroma_cqt": librosa.feature.chroma_cqt(y=y, sr=sr),
-            "chroma_cens": librosa.feature.chroma_cens(y=y, sr=sr),
-            "chroma_vqt": librosa.feature.chroma_vqt(y=y, sr=sr, intervals="equal"),
-            "melspectrogram": librosa.feature.melspectrogram(y=y, sr=sr, n_fft=n_fft),
-            "mfcc": librosa.feature.mfcc(y=y, sr=sr, n_fft=n_fft),
-            "rms": librosa.feature.rms(y=y),
-            "spectral_centroid": librosa.feature.spectral_centroid(
-                y=y, sr=sr, n_fft=n_fft
-            ),
-            "spectral_bandwidth": librosa.feature.spectral_bandwidth(
-                y=y, sr=sr, n_fft=n_fft
-            ),
-            "spectral_contrast": librosa.feature.spectral_contrast(
-                y=y, sr=sr, n_fft=n_fft
-            ),
-            "spectral_flatness": librosa.feature.spectral_flatness(
-                y=y, n_fft=n_fft
-            ),
-            "spectral_rolloff": librosa.feature.spectral_rolloff(
-                y=y, sr=sr, n_fft=n_fft
-            ),
-            "poly_features": librosa.feature.poly_features(
-                y=y, sr=sr, n_fft=n_fft
-            ),
-            "tonnetz": librosa.feature.tonnetz(y=y, sr=sr),
-            "zero_crossing_rate": librosa.feature.zero_crossing_rate(y=y),
-        }
+            # Dictionary containing all extracted features
+            features = [
+                librosa.feature.chroma_stft(y=y, sr=sr, n_fft=n_fft),
+                librosa.feature.chroma_cqt(y=y, sr=sr),
+                librosa.feature.chroma_cens(y=y, sr=sr),
+                librosa.feature.chroma_vqt(y=y, sr=sr, intervals="equal"),
+                librosa.feature.melspectrogram(y=y, sr=sr, n_fft=n_fft),
+                librosa.feature.mfcc(y=y, sr=sr, n_fft=n_fft),
+                librosa.feature.rms(y=y),
+                librosa.feature.spectral_centroid(
+                    y=y, sr=sr, n_fft=n_fft
+                ),
+                librosa.feature.spectral_bandwidth(
+                    y=y, sr=sr, n_fft=n_fft
+                ),
+                librosa.feature.spectral_contrast(
+                    y=y, sr=sr, n_fft=n_fft
+                ),
+                librosa.feature.spectral_flatness(
+                    y=y, n_fft=n_fft
+                ),
+                librosa.feature.spectral_rolloff(
+                    y=y, sr=sr, n_fft=n_fft
+                ),
+                librosa.feature.poly_features(
+                    y=y, sr=sr, n_fft=n_fft
+                ),
+                librosa.feature.tonnetz(y=y, sr=sr),
+                librosa.feature.zero_crossing_rate(y=y),
+            ]
 
-        # Start row with the label
-        row = [key]
+            # Start row with the label
+            row = [key]
 
-        # Add mean and std for every feature
-        for feature_name, values in feature_arrays.items():
-            row.append(self.__get_mean(values))
-            row.append(self.__get_std(values))
+            # Add mean and std for every feature
+            for value in features:
+                row.append(self.__get_mean(value))
+                row.append(self.__get_std(value))
 
-        return row
-        
+            return row
+        except:
+            return None
     
     def __get_mean(self, arr):
         return np.asarray(arr).mean()
