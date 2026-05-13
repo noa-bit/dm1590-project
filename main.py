@@ -14,6 +14,7 @@ class Main():
         featureExtractor.set_first_n(30)
         featureExtractor.extract_all()
         df = featureExtractor.get_data_frame()
+        df = df.dropna()
 
         X_raw = df.drop('Label', axis=1).values
         y_labels = df['Label'].values
