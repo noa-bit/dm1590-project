@@ -15,6 +15,7 @@ import os
 import re
 import textwrap
 import warnings
+import json
 from dataclasses import dataclass
 from typing import Optional
 
@@ -150,6 +151,16 @@ def classify_samples(samples: list[str], verbose: bool = False) -> list[Result]:
     print_results(results)
     return results
 
+def save_filenames_json(results: list[Result], path: str = "drum_classes.json") -> None:
+    grouped = {cat: [] for cat in CATEGORIES}
+
+    for r in results:
+        grouped[r.category].append(r.raw)
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(grouped, f, indent=2)
+
+    print(f"Saved JSON results to: {path}")
 
 def _embedding_classify(
     samples: list[str],
@@ -225,5 +236,8 @@ EXAMPLE_SAMPLES: list[str] = [
 
 if __name__ == "__main__":
     results = classify_samples(EXAMPLE_SAMPLES, verbose=False)
+
+    save_results_json(results)
+
     kicks = [r for r in results if r.category == "kick"]
     print(f"Kick samples found: {[r.raw for r in kicks]}")
