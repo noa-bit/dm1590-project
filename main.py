@@ -1,5 +1,6 @@
-from utils.feature_extraction import FeatureExtractor
+import pandas as pd
 from util.pca import PCA
+from utils.feature_extraction import FeatureExtractor
 import matplotlib.pyplot as plt
 class Main():
 
@@ -42,19 +43,6 @@ class Main():
 
             plt.arrow(0, 0, x_val, y_val, color='r', alpha=0.8)"""
         plt.show()
-
-
-
-
-
-
-
-if __name__ == "__main__":
-    print("Test")
-    main = Main()
-    main.run()
-
-
 
 
 
