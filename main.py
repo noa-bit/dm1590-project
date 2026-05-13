@@ -1,5 +1,8 @@
 import pandas as pd
 from util.pca import PCA
+
+from util.dbscan import DBSCAN_Analyzer 
+
 from utils.feature_extraction import FeatureExtractor
 import matplotlib.pyplot as plt
 class Main():
@@ -38,6 +41,14 @@ class Main():
             labels=label_names,
             title='Label',
         )
+        X_reduced = pca.transform(X_raw)
+        dbscan = DBSCAN_Analyzer(eps=0.5, min_samples=5)
+
+        dbscan.fit(X_reduced)
+
+        dbscan.evaluate(X_reduced, y_true=y_labels)
+
+        dbscan.plot_clusters(X_reduced)
         """
         for d in range(24):
             x_val = pca.eigenvectors[:, :2][d, 0]
