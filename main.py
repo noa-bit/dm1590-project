@@ -8,6 +8,7 @@ class Main():
         print("started")
         featureExtractor = FeatureExtractor()
         featureExtractor.set_test_data()
+        featureExtractor.set_first_n(30)
         featureExtractor.extract_all()
         df = featureExtractor.get_data_frame()
 
@@ -46,3 +47,6 @@ class Main():
 
 
 
+if __name__ == "__main__":
+    main = Main()
+    main.run()

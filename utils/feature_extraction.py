@@ -2,6 +2,7 @@ import librosa
 import pandas as pd
 import json
 import numpy as np
+import csv
 
 #Returns a line that can be appended to a pandas dataframe
 
@@ -21,7 +22,8 @@ class FeatureExtractor():
 
     def __init__(self):
         self.data = None
-        self.dataframe = {}
+        self.first_n = None
+        self.df = {}
         pass
 
     #Expects a dictionary with the label as key
@@ -31,6 +33,8 @@ class FeatureExtractor():
         with open("drum_classes.json") as file:
             self.data = json.load(file)
 
+    def set_first_n(self, val):
+        self.first_n = val
 
     def set_data(self, data) -> None:
         self.data = data
@@ -66,10 +70,10 @@ class FeatureExtractor():
         ]
 
         # Reset dataframe dictionary
-        self.dataframe = {}
+        self.df = {}
 
         # Create the Label column
-        self.dataframe["Label"] = []
+        self.df["Label"] = []
 
         # For every feature, create:
         # feature_mean
@@ -79,8 +83,8 @@ class FeatureExtractor():
         # chroma_stft_mean
         # chroma_stft_std
         for label in feature_labels:
-            self.dataframe[f"{label}_mean"] = []
-            self.dataframe[f"{label}_std"] = []
+            self.df[f"{label}_mean"] = []
+            self.df[f"{label}_std"] = []
 
         # Extract features from every file
         for key in self.data:
@@ -88,15 +92,18 @@ class FeatureExtractor():
                 
                 for index, path in enumerate(self.data[key]):
                     print(f"key: {key}, index: {index}\n")
-                    if index >= 30:
-                        break
+
+                    if self.first_n:
+
+                        if index >= self.first_n:
+                            break
                     row = self.__extract_features(path, key)
                     if row:
                         # Append each value in the row to the matching key
                         # The row order must be:
                         # [Label, feature1_mean, feature1_std, feature2_mean, feature2_std, ...]
-                        for column_name, value in zip(self.dataframe.keys(), row):
-                            self.dataframe[column_name].append(value)
+                        for column_name, value in zip(self.df.keys(), row):
+                            self.df[column_name].append(value)
 
         
     
@@ -176,13 +183,25 @@ class FeatureExtractor():
 
     #returns a pandas dataframe with all the data
     def get_data_frame(self) -> pd.DataFrame:
-        return pd.DataFrame.from_dict(self.dataframe)
+        return pd.DataFrame.from_dict(self.df)
+    
+    def write_to_file(self) -> None:
+        with open("features.csv", "w") as csvfile:
+            csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
+ 
+    def read_from_file(self, path):
+        self.df = pd.read_csv(path, sep=",")
+        self.df = self.df.iloc[:, 1:]
 
 
 if __name__ =="__main__":
     test = FeatureExtractor()
-    test.set_test_data()
+    test.read_from_file("features.csv")
+    """test.set_test_data()
+    test.set_first_n(30)
     test.extract_all()
+    test.write_to_file()"""
+
     print(test.get_data_frame())
 
 
