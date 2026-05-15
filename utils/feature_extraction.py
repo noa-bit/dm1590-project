@@ -83,8 +83,8 @@ class FeatureExtractor():
         # chroma_stft_mean
         # chroma_stft_std
         for label in feature_labels:
-            self.df[f"{label}_mean"] = []
-            self.df[f"{label}_std"] = []
+        self.df[f"{label}_mean"] = []
+            self.df[f"{label}_std"] = []   
 
         # Extract features from every file
         for key in self.data:

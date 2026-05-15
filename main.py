@@ -17,9 +17,9 @@ class Main():
         X = df.drop("Label", axis=1)
         y = df["Label"]
         y_labels = df['Label'].values
-
+        
         featureSelector = FeatureSelector()
-        X_selected, selected_features, selector = featureSelector.select_k_best(X, y, 10)
+        X_selected, selected_features, selector = featureSelector.select_k_best(X, y, 5)
 
         scaler = StandardScaler()
         X_selected_scaled = scaler.fit_transform(X_selected)
