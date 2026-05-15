@@ -1,9 +1,12 @@
 import pandas as pd
+from sklearn import metrics
 from sklearn.preprocessing import StandardScaler
+from sklearn.svm import SVC
+from util import pca
 from util.pca import PCA
 
 from util.dbscan import DBSCAN_Analyzer 
-
+from util.SVM import SVM, plot_svm_boundary
 from utils.feature_extraction import FeatureExtractor
 import matplotlib.pyplot as plt
 class Main():
@@ -28,10 +31,11 @@ class Main():
 
         X_clean = X_raw[clean_mask]
         y_clean = y_labels[clean_mask]
-        
+
         pca = PCA(n_components=2)
 
-        pca.fit(X_raw)
+        pca.fit(X_clean) 
+        X_train_pca = pca.transform(X_clean)
         X_reduced_clean = pca.transform(X_clean)
         print(X_reduced_clean[:, 0], X_reduced_clean[:, 1])
         plt.figure(figsize=(12, 10))
@@ -54,7 +58,17 @@ class Main():
             labels=label_names,
             title='Label',
         )
-        plt.show()
+
+        svm = SVM() 
+        X_train, y_train_encoded = svm.svm_training(X_train_pca, y_clean)
+
+        plot_svm_boundary(
+            svm.model, 
+            X_train, 
+            y_train_encoded, 
+            title="SVM on PCA-transformed data"
+        )
+        
 
 if __name__ == "__main__":
     main = Main()
