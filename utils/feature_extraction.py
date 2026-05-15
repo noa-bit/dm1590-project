@@ -88,12 +88,12 @@ class FeatureExtractor():
 
         # Extract features from every file
         for key in self.data:
-            if not (key == "undefined"):
+            if not (key == "undefined" or key == "percussion"):
                 
                 for index, path in enumerate(self.data[key]):
                     print(f"key: {key}, index: {index}\n")
 
-                    if self.first_n:
+                    if not (self.first_n == None):
 
                         if index >= self.first_n:
                             break
@@ -185,11 +185,16 @@ class FeatureExtractor():
     def get_data_frame(self) -> pd.DataFrame:
         return pd.DataFrame.from_dict(self.df)
     
-    def write_to_file(self) -> None:
-        with open("features.csv", "w") as csvfile:
-            csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
+    def write_to_file(self, *path) -> None:
+
+        if path:
+            with open(f"{path}", "w") as csvfile:
+                csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
+        else:
+            with open("features.csv", "w") as csvfile:
+                csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
  
-    def read_from_file(self, path):
+    def read_from_file(self, path) -> pd.DataFrame:
         self.df = pd.read_csv(path, sep=",")
         self.df = self.df.iloc[:, 1:]
 

@@ -2,25 +2,38 @@ import pandas as pd
 from util.pca import PCA
 from utils.feature_extraction import FeatureExtractor
 import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
+
+
 class Main():
 
     def run(self):
         print("started")
         featureExtractor = FeatureExtractor()
-        featureExtractor.set_test_data()
-        featureExtractor.set_first_n(30)
-        featureExtractor.extract_all()
+        featureExtractor.read_from_file("features.csv")
         df = featureExtractor.get_data_frame()
 
+
         X_raw = df.drop('Label', axis=1).values
+        scaler = StandardScaler()
+
+        x_scaled = scaler.fit_transform(X_raw)
+
+        
         y_labels = df['Label'].values
         pca = PCA(good_stuff=2)
-
-        pca.fit(X_raw)
-        x_proj = pca.compute_project(2, X_raw)
+        
+        pca.fit(x_scaled)
+        x_proj = pca.transform(x_scaled)
         print(x_proj[:, 0], x_proj[:, 1])
         plt.figure(figsize=(12, 10))
         print("trying to plot")
+
+        plt.plot(range(1, len(pca.eigenvalues) + 1), pca.eigenvalues, marker='o', linestyle='-', color='b')
+
+        plt.show()
+
+
         label_names = sorted(set(y_labels))
         label_to_color = {label: index for index, label in enumerate(label_names)}
         colors = [label_to_color[label] for label in y_labels]
