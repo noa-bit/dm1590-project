@@ -1,7 +1,7 @@
 from sklearn.neighbors import KNeighborsClassifier
 
 
-class KNN_Analyzer:
+class KNN:
     def __init__(self, n_neighbors):
         self.n_neighbors = n_neighbors
         self.model = None
