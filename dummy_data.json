@@ -1,0 +1,26 @@
+{
+  "kick": [
+    "Acetone_Rhythm_Ace__MaxV_-_KICK1.wav",
+    "Acetone_Rhythm_Ace__MaxV_-_KICK2.wav",
+    "Acetone_Rhythm_King__MaxV_-_Kick.wav",
+    "AJK_Percusyn__MaxV_-_Kick1.wav"
+  ],
+  "snare": [
+    "Acetone_Rhythm_Ace__MaxV_-_SNARE1.wav",
+    "Acetone_Rhythm_Ace__MaxV_-_SNARE2.wav",
+    "Acetone_Rhythm_King__MaxV_-_Snare.wav",
+    "Acetone_Rhythm_Master__MaxV_-_Snare1.wav"
+  ],
+  "hihat": [
+    "Acetone_Rhythm_Ace__MaxV_-_HHCL.wav",
+    "Acetone_Rhythm_Ace__MaxV_-_HHOP.wav",
+    "Acetone_Rhythm_King__MaxV_-_HH_Cl.wav",
+    "Akai_Mpc60__MaxV_-_HiHat_Closed.wav"
+  ],
+  "clap": [
+    "AKAI_XE-8__MaxV_-_XE8_Clap_int_15.wav",
+    "Akai_XR10__XR10Clap.wav",
+    "Alesis_D4fx__MaxV_-_Clap.wav",
+    "Boss_DR-110__DR-110Clap.wav"
+  ]
+}
