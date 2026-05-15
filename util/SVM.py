@@ -14,34 +14,27 @@ class SVM:
         self.model = None
         self.label_encoder = LabelEncoder()
 
-    def svm_training(self, X, y):
-
-        # IMPORTANT: encode ONCE consistently
-        y = self.label_encoder.fit_transform(y)
-
-        X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size=0.3, random_state=42, stratify=y
-        )
+    def svm_training(self, X_train, X_test, y_train, y_test):
 
         self.model = SVC(kernel='rbf')
         self.model.fit(X_train, y_train)
 
         y_pred = self.model.predict(X_test)
 
+        acc = accuracy_score(y_test, y_pred)
         print("Accuracy:", accuracy_score(y_test, y_pred))
         print(classification_report(y_test, y_pred))
 
-        return X_train, y_train
+        return acc
 
 def plot_svm_boundary(clf, X, y, title="SVM Decision Boundary"):
 
     X = np.asarray(X, dtype=float)
 
     # FIX: ensure numeric labels (NOT strings)
-    if isinstance(y[0], str):
-        raise ValueError("y is still string labels — encode them first!")
+    y = np.asarray(y).astype(int)
 
-    fig, ax = plt.subplots(figsize=(6, 5))
+    fig, ax = plt.subplots(figsize=(10, 8))
 
     x_min, x_max = X[:, 0].min() - 1, X[:, 0].max() + 1
     y_min, y_max = X[:, 1].min() - 1, X[:, 1].max() + 1
