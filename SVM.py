@@ -82,7 +82,7 @@ y_labels = df['Label'].values
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X_raw)
 
-svm = SVM()
+svm = SVM() 
 
 svm.svm_training(X_scaled, y_labels)
 
