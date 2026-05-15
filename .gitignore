@@ -5,6 +5,10 @@ __pycache__/
 *.pyc
 .env
 venv/
+archive/
+*.venv
+.DS_Store
+/.vscode
 organizer.py
 processing_script.py
 features.csv

@@ -97,6 +97,7 @@ class FeatureExtractor():
 
                         if index >= self.first_n:
                             break
+
                     row = self.__extract_features(path, key)
                     if row:
                         # Append each value in the row to the matching key
