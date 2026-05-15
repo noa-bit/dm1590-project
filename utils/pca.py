@@ -1,6 +1,5 @@
 import numpy as np 
 
-
 class PCA:
     def __init__(self, good_stuff):
         self.good_stuff = good_stuff
@@ -29,7 +28,6 @@ class PCA:
     def transform(self, X):
         X_centered = X - self.mean
         return np.dot(X_centered, self.components)
-    
 
     def compute_project(self, dims: int, data) -> np.ndarray:
         data_centered = data - np.mean(data, axis=0)

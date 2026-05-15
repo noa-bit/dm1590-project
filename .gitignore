@@ -8,3 +8,5 @@ venv/
 organizer.py
 processing_script.py
 features.csv
+archive/
+.vscode/
