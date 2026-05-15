@@ -7,3 +7,4 @@ __pycache__/
 venv/
 organizer.py
 processing_script.py
+features.csv
