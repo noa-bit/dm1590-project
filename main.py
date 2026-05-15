@@ -44,13 +44,11 @@ class Main():
         K_range = range(1, 11)
 
         for kk in K_range:
-            # We use X_train/X_test (the raw 30 features) for the most accurate results
             clf = KNeighborsClassifier(n_neighbors=kk)
             clf.fit(X_train, y_train)
             acc_train.append(clf.score(X_train, y_train))
             acc_test.append(clf.score(X_test, y_test))
 
-        # Plotting the Accuracy Curve
         fig, ax = plt.subplots(figsize=(8, 5))
         plt.plot(K_range, acc_train, marker='o', label='Training Accuracy')
         plt.plot(K_range, acc_test, marker='s', label='Validation Accuracy')
@@ -61,7 +59,6 @@ class Main():
         plt.grid(True)
         plt.show()
 
-        # Automatically identify the best K based on validation score
         best_k = K_range[np.argmax(acc_test)]
         print(f"Optimal K identified: {best_k}")
         
