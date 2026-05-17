@@ -83,7 +83,7 @@ class FeatureExtractor():
         # chroma_stft_mean
         # chroma_stft_std
         for label in feature_labels:
-        self.df[f"{label}_mean"] = []
+            self.df[f"{label}_mean"] = []
             self.df[f"{label}_std"] = []   
 
         # Extract features from every file
@@ -195,9 +195,10 @@ class FeatureExtractor():
             with open("features.csv", "w") as csvfile:
                 csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
  
-    def read_from_file(self, path) -> pd.DataFrame:
-        self.df = pd.read_csv(path, sep=",")
-        self.df = self.df.iloc[:, 1:]
+    def read_from_file(self, path):
+        read_dataframe = pd.read_csv(path, sep=",")
+        read_dataframe = read_dataframe.iloc[:, 1:]
+        self.df = read_dataframe.to_dict()
 
 
 if __name__ =="__main__":
