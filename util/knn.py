@@ -1,3 +1,4 @@
+from sklearn.metrics import accuracy_score, classification_report
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
 import matplotlib.pyplot as plt
@@ -12,17 +13,18 @@ class KNN:
         self.model = KNeighborsClassifier(n_neighbors=self.n_neighbors)
         self.model.fit(X, y)
 
-    def predict(self, X):
+    def evaluate(self, X_test, y_test):
         if self.model is None:
             raise ValueError("Model has not been fitted")
-        return self.model.predict(X)
-
-    def evaluate(self, X, y_true):
-        if self.model is None:
-            raise ValueError("Model has not been fitted")
-        y_pred = self.predict(X)
-        accuracy = (y_pred == y_true).mean()
-        print(f"Accuracy: {accuracy:.2f}")
+        
+        y_prediction = self.model.predict(X_test)
+        
+        acc = accuracy_score(y_test, y_prediction)
+        
+        print(f"KNN Test Accuracy: {acc:.2f}")
+        print(classification_report(y_test , y_prediction))
+        
+        return acc
 
 def plot_knn_boundary(clf, X, y, title="KNN Decision Boundary"):
     X = np.asarray(X, dtype=float)

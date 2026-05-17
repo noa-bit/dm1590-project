@@ -41,8 +41,8 @@ class Main():
 )       
         acc_train = []
         acc_test = []
+        
         K_range = range(1, 11)
-
         for kk in K_range:
             clf = KNeighborsClassifier(n_neighbors=kk)
             clf.fit(X_train, y_train)
@@ -71,21 +71,21 @@ class Main():
         knn_raw.fit(X_train, y_train)
         knn_raw.evaluate(X_test, y_test)
 
-        knn = KNN(n_neighbors=5)
-        knn.fit(X_train_pca, y_train)
+        knn_visualization = KNN(n_neighbors=5)
+        knn_visualization.fit(X_train_pca, y_train)
 
-        svm_inst = SVM()
-        svm_inst.svm_training(X_train_pca, X_test_pca, y_train, y_test)
+        svm = SVM()
+        svm.svm_training(X_train_pca, X_test_pca, y_train, y_test)
 
         plot_knn_boundary(
-            knn.model, 
+            knn_visualization.model, 
             X_train_pca, 
             y_train, 
-            title=f"KNN (k={knn.n_neighbors}) Decision Boundaries"
+            title=f"KNN (k={knn_visualization.n_neighbors}) Decision Boundaries"
         )
 
         plot_svm_boundary(
-            svm_inst.model, 
+            svm.model, 
             X_train_pca, 
             y_train, 
             title=f"SVM Decision Boundaries (PCA Space)\nLabels: {list(le.classes_)}"
