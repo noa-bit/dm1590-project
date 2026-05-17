@@ -194,7 +194,6 @@ class FeatureExtractor():
         else:
             with open("features.csv", "w") as csvfile:
                 csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
- 
     def read_from_file(self, path):
         read_dataframe = pd.read_csv(path, sep=",")
         read_dataframe = read_dataframe.iloc[:, 1:]

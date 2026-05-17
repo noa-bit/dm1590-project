@@ -33,7 +33,7 @@ class Main():
         scaler = StandardScaler()
         X_selected_scaled = scaler.fit_transform(X_selected)
 
-        pca = PCA(good_stuff=2)
+        pca = PCA()
         pca.fit(X_selected_scaled)
         x_proj = pca.transform(X_selected_scaled)
 
@@ -87,7 +87,6 @@ class Main():
             labels=label_names,
             title='Label',
         )
-        """
         for d in range(24):
             x_val = pca.eigenvectors[:, :2][d, 0]
             y_val = pca.eigenvectors[:, :2][d, 1]
