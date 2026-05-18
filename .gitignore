@@ -9,3 +9,5 @@ archive/
 *.venv
 .DS_Store
 /.vscode
+features.csv
+test.py
