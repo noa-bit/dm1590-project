@@ -29,8 +29,8 @@ class FeatureExtractor():
     #Expects a dictionary with the label as key
     # and a list of filenames with that label as objects
 
-    def set_test_data(self):
-        with open("drum_classes.json") as file:
+    def set_test_data(self, path):
+        with open(path) as file:
             self.data = json.load(file)
 
     def set_first_n(self, val):
