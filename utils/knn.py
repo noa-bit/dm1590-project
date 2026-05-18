@@ -9,11 +9,17 @@ class KNN:
         self.n_neighbors = n_neighbors
         self.model = None
 
-    def training(self, X, y):
+    def training(self, X_train, X_test, y_train, y_test):
         self.model = KNeighborsClassifier(n_neighbors=self.n_neighbors)
-        self.model.fit(X, y)
+        self.model.fit(X_train, y_train)
 
-    def evaluate(self, X_test, y_test):
+        y_pred = self.model.predict(X_test)
+
+        print("kNN Test Accuracy:", accuracy_score(y_test, y_pred))
+        print(classification_report(y_test, y_pred))
+        
+
+"""    def evaluate(self, X_test, y_test):
         if self.model is None:
             raise ValueError("Model has not been fitted")
         
@@ -24,7 +30,7 @@ class KNN:
         print(f"KNN Test Accuracy: {acc:.2f}")
         print(classification_report(y_test , y_prediction))
         
-        return acc
+        return acc"""
 
 def plot_knn_boundary(clf, X, y, title="KNN Decision Boundary"):
     X = np.asarray(X, dtype=float)

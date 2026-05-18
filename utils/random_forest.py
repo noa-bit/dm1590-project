@@ -12,19 +12,15 @@ class RandomForest:
         self.model = None
         self.label_encoder = LabelEncoder()
 
-    def training(self, X, y):
-        y = self.label_encoder.fit_transform(y)
-
-        X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size=0.2, random_state=42, stratify=y
-        )
+    def training(self, X_train, X_test, y_train, y_test):
+        y = self.label_encoder.fit_transform(y_train)
 
         self.model = RandomForestClassifier(n_estimators=100, random_state=42)
         self.model.fit(X_train, y_train)
 
         y_pred = self.model.predict(X_test)
 
-        print("Accuracy:", accuracy_score(y_test, y_pred))
+        print("Random Forest Test Accuracy:", accuracy_score(y_test, y_pred))
         print(classification_report(y_test, y_pred))
 
     def plot_feature_importance(self, feature_names=None):

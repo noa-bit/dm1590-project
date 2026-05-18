@@ -20,7 +20,7 @@ class SVM:
 
         y_pred = self.model.predict(X_test)
 
-        print("Accuracy:", accuracy_score(y_test, y_pred))
+        print("SVM Test Accuracy:", accuracy_score(y_test, y_pred))
         print(classification_report(y_test, y_pred))
 
 def plot_svm_boundary(clf, X, y, title="SVM Decision Boundary"):

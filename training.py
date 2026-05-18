@@ -28,26 +28,18 @@ class Training():
             pca.fit(X)
             return pca.transform(X)
 
-    def train_models(self, X, y):
+    def train_models(self, X_train, X_test, y_train, y_test):
         print("kNN:")
-        self.kNN.training(X, y)
-        self.kNN.evaluate(X, y)
+        self.kNN.training(X_train, X_test, y_train, y_test)
 
         print("SVM:")
-        self.SVM.training(X, y)
+        self.SVM.training(X_train, X_test, y_train, y_test)
 
         print("RF:")
-        self.RF.training(X, y)
+        self.RF.training(X_train, X_test, y_train, y_test)
 
     def get_trained_models(self):
         return self.kNN, self.SVM, self.RF
-
-    """def model_training(X, y):
-        scaler = StandardScaler()
-        X_scaled = scaler.fit_transform(X)
-
-        model = SVM()
-        model.training(X_scaled, y)"""
 
     def run(self):
         print("started")
@@ -104,84 +96,35 @@ class Training():
 
         X = df.drop("Label", axis=1)
         y = df["Label"]
-        y_labels = df['Label'].values
+        # y_labels = df['Label'].values
 
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
 
         # Feature selection
 
         featureSelector = FeatureSelector()
-        X_selected, selected_features, selector = featureSelector.select_k_best(X, y, 15)
+        X_selected, selected_features, selector = featureSelector.select_k_best(X_train, y_train, 15)
 
         scaler = StandardScaler()
-        X_selected_scaled = scaler.fit_transform(X_selected)
-        """
-        # Dimensionality reduction
-        pca = PCA(good_stuff=2)
-        pca.fit(X_selected_scaled)"""
+        X_scaled = scaler.fit_transform(X_train)
+        X_test_scaled = scaler.transform(X_test)
+
+        scaler_selected = StandardScaler()
+        X_selected_scaled = scaler_selected.fit_transform(X_selected)
 
         # Training
 
-        #..................................................Supervised models............................................................
-
-        # scale original data
-        scaler = StandardScaler()
-        X_scaled = scaler.fit_transform(X)
-
-        self.train_models(X_scaled, y_labels)
-
-        #...................................................................................................................................................................
-
-        y_encoded = svm.label_encoder.transform(y_labels)
-
-        #svm.training(X_selected_scaled, y_encoded)
-
+        self.train_models(X_scaled, X_test_scaled, y_train, y_test)
 
         pca = PCA(good_stuff=2)
         pca.fit(X_selected_scaled)
         X_pca = pca.transform(X_selected_scaled)
 
-        clf = SVC(kernel="rbf", gamma=2)
-        clf.fit(X_pca, y_encoded)
+        X_test_selected = selector.transform(X_test)
+        X_test_selected_scaled = scaler_selected.transform(X_test_selected)
+        X_test_pca = pca.transform(X_test_selected_scaled)
+        self.train_models(X_pca, X_test_pca, y_train, y_test)
 
-        plot_svm_boundary(clf, X_pca, y_encoded, title="SVM on PCA-transformed data")
-        #...............................................................................................................................................................................
-
-
-
-
-
-
-
-
-"""
-        print("kNN:")
-        knn.training(X_scaled, y_labels)
-        knn.evaluate(X_scaled, y_labels)
-
-        print("SVM:")
-        svm.training(X_scaled, y_labels)
-        y_encoded = svm.label_encoder.transform(y_labels)
-
-        print("RF:")
-        random_forest.training(X_scaled, y_labels)
-
-        X_pca = self.pca_transform(X_scaled)
-
-        print("kNN on PCA:")
-        knn_pca = KNN()
-        knn_pca.training(X_pca, y_labels)
-        knn_pca.evaluate(X_pca, y_labels)
-
-        print("SVM on PCA:")
-        clf = SVM()
-        clf.training(X_pca, y_encoded)
-
-        print("RF on PCA:")
-        random_forest_pca = RandomForest()
-        random_forest_pca.training(X_pca, y_labels)"""
-
-# ................................................................................................................................................
 
 if __name__ == "__main__":
     training = Training(KNN(), SVM(), RandomForest(), FeatureExtractor(), FeatureSelector())
