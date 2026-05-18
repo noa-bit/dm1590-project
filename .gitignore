@@ -11,3 +11,4 @@ features.csv
 archive/
 .vscode/
 test.venv/
+dummy_data.json
