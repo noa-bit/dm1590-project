@@ -7,21 +7,13 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.inspection import DecisionBoundaryDisplay
 import matplotlib.pyplot as plt
 
-
 class SVM:
     def __init__(self):
         self.scaler = None
         self.model = None
         self.label_encoder = LabelEncoder()
 
-    def training(self, X, y):
-
-        # IMPORTANT: encode ONCE consistently
-        y = self.label_encoder.fit_transform(y)
-
-        X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size=0.2, random_state=42, stratify=y
-        )
+    def training(self, X_train, X_test, y_train, y_test):
 
         self.model = SVC(kernel='rbf')
         self.model.fit(X_train, y_train)
@@ -89,7 +81,7 @@ if __name__ == "__main__":
 
     y_encoded = svm.label_encoder.transform(y_labels)
 
-    from utils.pca import PCA
+    from pca import PCA
 
     pca = PCA(good_stuff=2)
     pca.fit(X_scaled)

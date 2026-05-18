@@ -3,7 +3,7 @@ from sklearn.feature_selection import SelectKBest, f_classif
 import numpy as np
 
 class FeatureSelector:
-    def select_k_best(self, X, y, k: int):
+    def select_k_best(self, X, y, k: int=15):
         selector = SelectKBest(score_func=f_classif, k=k)
         X_selected = selector.fit_transform(X, y)
 

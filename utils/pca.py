@@ -29,10 +29,11 @@ class PCA:
         X_centered = X - self.mean
         return np.dot(X_centered, self.components)
 
-    def compute_project(self, dims: int, data) -> np.ndarray:
+"""    def compute_project(self, dims: int, data) -> np.ndarray:
         data_centered = data - np.mean(data, axis=0)
 
         print(data_centered.shape)
         vecs_to_display = self.eigenvectors[:, :dims]
         print(len(vecs_to_display.T))
         return np.array(np.matmul(vecs_to_display.T, data_centered.T).T)
+"""
