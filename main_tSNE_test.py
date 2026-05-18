@@ -43,16 +43,9 @@ class Main():
 
         hdbscan.plot_clusters(X_tSNE_)
 
-        # clean_mask = (hdbscan_labels != -1)
-
-        #hdbscan.plot_clusters(X_scaled_for_hdbscan)
-
-        # X_clean = X_selected[clean_mask]
-        # y_clean = y_labels[clean_mask]
-
         le = LabelEncoder()
         y_encoded = le.fit_transform(y_labels)
-"""
+
         tsne_analyzer = TSNEAnalyzer(n_components=2, standardize=True)
         search_result = tsne_analyzer.find_optimal_perplexity(X_selected, plot=True)
         print(tsne_analyzer.interpret_divergence(search_result))
@@ -111,7 +104,7 @@ class Main():
             X_train, 
             y_train, 
             title=f"SVM Decision Boundaries (PCA Space)\nLabels: {list(le.classes_)}"
-        )"""
+        )
         
 
 if __name__ == "__main__":
