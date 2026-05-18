@@ -20,9 +20,17 @@ def move_to_folder(target_file, folder_name):
     shutil.move(source_path, dest_path)
 
 def weighting(data):
+    
     #testA
+    
+
     #testB
+    
+    
     #testC
+    
+    
+    
     """
     Om a==b eller a==c eller b==c eller a==b==c så vinner det alternativet
     returnera majoritets val
