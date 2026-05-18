@@ -9,7 +9,6 @@ from dataclasses import dataclass
 @dataclass
 class Result:
     raw: str
-    category: str
 
 def move_to_folder(target_file, folder_name):
     source_path = os.path.join("/data/sorted/unclassified", target_file)
@@ -22,7 +21,7 @@ def move_to_folder(target_file, folder_name):
 def weighting(data):
     
     #testA
-    
+
 
     #testB
     
@@ -87,6 +86,6 @@ df = feature_extractor.get_data_frame()
 #här sker massa skit med df som vi ska lösa
 for row in df.itertuples(index=False):
     
-    
+
     result = weighting(row)
     sort_file(LABEL FÖR FIL, result)
