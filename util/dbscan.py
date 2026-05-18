@@ -51,8 +51,14 @@ class DBSCAN_Analyzer:
         if self.labels is None:
             raise ValueError("Model has not been fitted")
 
-        silhouette_score = metrics.silhouette_score(X, self.labels)
-        print(f"Silhouette Coefficient: {silhouette_score:.2f}")
+        unique_labels = set(self.labels)
+        silhouette_score = None
+
+        if len(unique_labels) < 2:
+            print("Less than 2 clusters found")
+        else:
+            silhouette_score = metrics.silhouette_score(X, self.labels)
+            print(f"Silhouette Coefficient: {silhouette_score:.2f}")
 
         if y_true is not None:
             adjusted_rand_score = metrics.adjusted_rand_score(y_true, self.labels)

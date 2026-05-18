@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.preprocessing import StandardScaler
 from util.pca import PCA
 import numpy as np
 
@@ -39,10 +40,6 @@ class Main():
 
         for row in df_pca:
             svm.transform(row)
-
-
-
-
 
 
 if __name__ == "__main__":
