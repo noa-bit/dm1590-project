@@ -24,7 +24,8 @@ class Training():
                 feature_extractor: FeatureExtractor,
                 feature_selector: FeatureSelector,
                 scaler: StandardScaler,
-                pca: PCA
+                pca: PCA,
+                label_encoder: LabelEncoder
             ):
         self.kNN = kNN
         self.SVM = SVM
@@ -33,6 +34,7 @@ class Training():
         self.feature_selector = feature_selector
         self.scaler = scaler
         self.pca = pca
+        self.label_encoder = label_encoder
 
     def pca_transform(self, X, good_stuff=5):
             self.pca.fit(X)
@@ -108,8 +110,7 @@ class Training():
         X = df.drop("Label", axis=1)
         y = df["Label"]
         y_labels = df['Label'].values
-        label_encoder = LabelEncoder()
-        y_labels_encoded = label_encoder.fit_transform(y_labels)
+        y_labels_encoded = self.label_encoder.fit_transform(y_labels)
 
         X_scaled = pd.DataFrame(
             self.scaler.fit_transform(X),
