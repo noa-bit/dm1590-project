@@ -39,9 +39,9 @@ class Main():
 
         tsne_plotter = TSNEAnalyzer(n_components=2, standardize=False)
 
-        X_tsne_2d = tsne_plotter.fit_transform(X_scaled_for_hdbscan, perplexity=30)
+        X_tSNE_ = tsne_plotter.fit_transform(X_scaled_for_hdbscan, perplexity=30)
 
-        hdbscan.plot_clusters(X_tsne_2d)
+        hdbscan.plot_clusters(X_tSNE_)
 
         # clean_mask = (hdbscan_labels != -1)
 

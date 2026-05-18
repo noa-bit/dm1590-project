@@ -31,10 +31,6 @@ class Main():
         scaler = StandardScaler()
         X_scaled_for_hdbscan = scaler.fit_transform(X_selected)
 
-        # clean_mask = (hdbscan_labels != -1)
-
-        # X_clean = X_selected[clean_mask]
-        # y_clean = y_labels[clean_mask]
 
         le = LabelEncoder()
         y_encoded = le.fit_transform(y)
@@ -80,19 +76,19 @@ class Main():
         svm = SVM()
         svm.svm_training(X_train_pca, X_test_pca, y_train, y_test)
 
-        """plot_knn_boundary(
+        plot_knn_boundary(
             knn_visualization.model, 
             X_train_pca, 
             y_train, 
             title=f"KNN (k={knn_visualization.n_neighbors}) Decision Boundaries"
-        )"""
+        )
 
-        """plot_svm_boundary(
+        plot_svm_boundary(
             svm.model, 
             X_train_pca, 
             y_train, 
             title=f"SVM Decision Boundaries (PCA Space)\nLabels: {list(le.classes_)}"
-        )"""
+        )
         
 
 if __name__ == "__main__":
