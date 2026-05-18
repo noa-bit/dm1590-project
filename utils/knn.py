@@ -9,7 +9,7 @@ class KNN:
         self.n_neighbors = n_neighbors
         self.model = None
 
-    def fit(self, X, y):
+    def training(self, X, y):
         self.model = KNeighborsClassifier(n_neighbors=self.n_neighbors)
         self.model.fit(X, y)
 

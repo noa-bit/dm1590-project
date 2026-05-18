@@ -14,7 +14,7 @@ class SVM:
         self.model = None
         self.label_encoder = LabelEncoder()
 
-    def svm_training(self, X, y):
+    def training(self, X, y):
 
         # IMPORTANT: encode ONCE consistently
         y = self.label_encoder.fit_transform(y)
@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
     svm = SVM() 
 
-    svm.svm_training(X_scaled, y_labels)
+    svm.training(X_scaled, y_labels)
 
     y_encoded = svm.label_encoder.transform(y_labels)
 

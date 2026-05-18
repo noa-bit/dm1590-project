@@ -12,7 +12,7 @@ class RandomForest:
         self.model = None
         self.label_encoder = LabelEncoder()
 
-    def rf_training(self, X, y):
+    def training(self, X, y):
         y = self.label_encoder.fit_transform(y)
 
         X_train, X_test, y_train, y_test = train_test_split(
@@ -54,5 +54,5 @@ if __name__ == "__main__":
     X_scaled = scaler.fit_transform(X_raw)
 
     rf = RandomForest()
-    rf.rf_training(X_scaled, y_labels)
+    rf.training(X_scaled, y_labels)
     rf.plot_feature_importance(feature_names)

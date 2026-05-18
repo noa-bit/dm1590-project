@@ -5,18 +5,54 @@ import pandas as pd
 from pathlib import Path
 from processing import save_filenames_json
 from dataclasses import dataclass
+from sklearn.preprocessing import StandardScaler
+from utils.svm import SVM
 
 @dataclass
 class Result:
     raw: str
     category: str
 
-def find_folder(target_name, search_root):
-    search_root = Path(search_root)
-    for path in search_root.rglob("*"):
-        if path.is_dir() and path.name == target_name:
-            return path
-    return None
+def move_to_folder(target_file, folder_name):
+    source_path = os.path.join("/data/sorted/unclassified", target_file)
+    os.makedirs(folder_name, exist_ok=True)
+
+    dest_path = os.path.join(folder_name, target_file)
+    
+    shutil.move(source_path, dest_path)
+
+
+def weighting(data):
+    
+    #testA
+    
+
+    #testB
+    
+    
+    #testC
+    
+    
+    
+    """
+    Om a==b eller a==c eller b==c eller a==b==c så vinner det alternativet
+    returnera majoritets val
+    
+    om a != b != c så vinner a
+    returnera a's resultat
+    
+    
+    """
+
+def sort_file(target_file, result):
+    if result == "kick":
+        move_to_folder(target_file, "/data/sorted/kicks-sorted")
+    elif result == "snare":
+        move_to_folder(target_file, "/data/sorted/snares-sorted")
+    elif result == "hi-hat":
+        move_to_folder(target_file, "/data/sorted/hi-hats-sorted")
+    else:
+        move_to_folder(target_file, "/data/sorted/unclassified")
 
 while True:
     try:
@@ -47,3 +83,10 @@ feature_extractor = FeatureExtractor()
 feature_extractor.set_test_data("unclassified_sounds.json")
 feature_extractor.extract_all()
 df = feature_extractor.get_data_frame()
+
+"""#här sker massa skit med df som vi ska lösa
+for row in df.itertuples(index=False):
+    
+    
+    result = weighting(row)
+    sort_file(LABEL FÖR FIL, result)"""

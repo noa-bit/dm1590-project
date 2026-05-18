@@ -17,10 +17,17 @@ from processing import classify_samples, save_filenames_json
 
 class Training():
 
-    def pca_transform(X, good_stuff=2):
+    def pca_transform(self, X, good_stuff=5):
             pca = PCA(good_stuff)
             pca.fit(X)
             return pca.transform(X)
+    
+    """def model_training(X, y):
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X)
+
+        model = SVM()
+        model.training(X_scaled, y)"""
 
     def run(self):
         print("started")
@@ -102,27 +109,36 @@ class Training():
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(X_raw)
 
-
         svm = SVM()
         random_forest = RandomForest()
         knn = KNN()
 
         print("kNN:")
-        knn.fit(X_scaled, y_labels)
+        knn.training(X_scaled, y_labels)
         knn.evaluate(X_scaled, y_labels)
 
         print("SVM:")
-        svm.svm_training(X_scaled, y_labels)
+        svm.training(X_scaled, y_labels)
         y_encoded = svm.label_encoder.transform(y_labels)
 
         print("RF:")
-        random_forest.rf_training(X_scaled, y_labels)
+        random_forest.training(X_scaled, y_labels)
 
-        #X_pca = self.pca_transform(X_scaled)""
+        X_pca = self.pca_transform(X_scaled)
 
-        """clf = SVC(kernel="rbf", gamma=2)
+        print("kNN on PCA:")
+        knn_pca = KNN()
+        knn_pca.training(X_pca, y_labels)
+        knn_pca.evaluate(X_pca, y_labels)
+
+        print("SVM on PCA:")
+        clf = SVC(kernel="rbf", gamma=2)
         clf.fit(X_pca, y_encoded)
-        plot_svm_boundary(clf, X_pca, y_encoded, title="SVM on PCA-transformed data")"""   
+        #plot_svm_boundary(clf, X_pca, y_encoded, title="SVM on PCA-transformed data")
+
+        print("RF on PCA:")
+        random_forest_pca = RandomForest()
+        random_forest_pca.training(X_pca, y_labels)
         
 # ................................................................................................................................................
 
