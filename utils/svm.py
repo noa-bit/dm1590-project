@@ -7,6 +7,10 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.inspection import DecisionBoundaryDisplay
+<<<<<<< HEAD:SVM.py
+=======
+import matplotlib.pyplot as plt
+>>>>>>> origin/dev:utils/svm.py
 
 class SVM:
     def __init__(self):
@@ -14,18 +18,22 @@ class SVM:
         self.model = None
         self.label_encoder = LabelEncoder()
 
+<<<<<<< HEAD:SVM.py
     def svm_training(self, X_train, X_test, y_train, y_test):
+=======
+    def training(self, X_train, X_test, y_train, y_test):
+>>>>>>> origin/dev:utils/svm.py
 
         self.model = SVC(kernel='rbf')
         self.model.fit(X_train, y_train)
 
         y_pred = self.model.predict(X_test)
 
-        print("Accuracy:", accuracy_score(y_test, y_pred))
+        print("SVM Test Accuracy:", accuracy_score(y_test, y_pred))
         print(classification_report(y_test, y_pred))
 
 def plot_svm_boundary(clf, X, y, title="SVM Decision Boundary"):
-
+    
     X = np.asarray(X, dtype=float)
 
     if isinstance(y[0], str):
@@ -66,6 +74,7 @@ def plot_svm_boundary(clf, X, y, title="SVM Decision Boundary"):
 if __name__ == "__main__":
     df = pd.read_csv("features.csv")
 
+<<<<<<< HEAD:SVM.py
     X_raw = df.drop('Label', axis=1).values
     y_labels = df['Label'].values
     
@@ -85,10 +94,38 @@ if __name__ == "__main__":
     pca = PCA(good_stuff=2)
     pca.fit(X_scaled)
     X_pca = pca.transform(X_scaled)
+=======
+if __name__ == "__main__":
+    df = pd.read_csv("features.csv")
 
+    X_raw = df.drop('Label', axis=1).values
+    y_labels = df['Label'].values
 
+    # scale original data
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X_raw)
+
+    svm = SVM() 
+
+    svm.training(X_scaled, y_labels)
+
+    y_encoded = svm.label_encoder.transform(y_labels)
+>>>>>>> origin/dev:utils/svm.py
+
+    from pca import PCA
+
+<<<<<<< HEAD:SVM.py
     clf = SVC(kernel="rbf", gamma=2)
     clf.fit(X_pca, y_encoded)
 
 
+=======
+    pca = PCA(good_stuff=2)
+    pca.fit(X_scaled)
+    X_pca = pca.transform(X_scaled)
+
+    clf = SVC(kernel="rbf", gamma=2)
+    clf.fit(X_pca, y_encoded)
+
+>>>>>>> origin/dev:utils/svm.py
     plot_svm_boundary(clf, X_pca, y_encoded, title="SVM on PCA-transformed data")

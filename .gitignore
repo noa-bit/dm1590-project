@@ -1,13 +1,22 @@
-data/
+data
 *.wav
 *.mp3
 __pycache__/
 *.pyc
 .env
 venv/
+organizer.py
+processing_script.py
+features.csv
 archive/
+<<<<<<< HEAD
 *.venv
 .DS_Store
 /.vscode
 features.csv
 test.py
+=======
+.vscode/
+test.venv/
+dummy_data.json
+>>>>>>> origin/dev
