@@ -43,15 +43,16 @@ class RandomForest:
         plt.tight_layout()
         plt.show()
 
-df = pd.read_csv("features.csv", index_col=0)
+if __name__ == "__main__":
+    df = pd.read_csv("features.csv", index_col=0)
 
-X_raw = df.drop('Label', axis=1).values
-y_labels = df['Label'].values
-feature_names = df.drop('Label', axis=1).columns.tolist()
+    X_raw = df.drop('Label', axis=1).values
+    y_labels = df['Label'].values
+    feature_names = df.drop('Label', axis=1).columns.tolist()
 
-scaler = StandardScaler()
-X_scaled = scaler.fit_transform(X_raw)
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X_raw)
 
-rf = RandomForest()
-rf.rf_training(X_scaled, y_labels)
-rf.plot_feature_importance(feature_names)
+    rf = RandomForest()
+    rf.rf_training(X_scaled, y_labels)
+    rf.plot_feature_importance(feature_names)

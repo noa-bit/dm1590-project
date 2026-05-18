@@ -10,3 +10,4 @@ processing_script.py
 features.csv
 archive/
 .vscode/
+test.venv/
