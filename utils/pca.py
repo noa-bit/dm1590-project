@@ -1,8 +1,8 @@
 import numpy as np 
 
 class PCA:
-    def __init__(self, good_stuff):
-        self.good_stuff = good_stuff
+    def __init__(self, n_components=6):
+        self.n_components = n_components
         self.components = None
         self.eigenvectors = None
         self.eigenvalues = None
@@ -22,8 +22,8 @@ class PCA:
         eigenvalues = eigenvalues[index]
         eigenvectors = eigenvectors[:, index]
 
-        # Select the top good_stuff
-        self.components = eigenvectors[:, :self.good_stuff]
+        # Select the top n_components
+        self.components = eigenvectors[:, :self.n_components]
 
     def transform(self, X):
         X_centered = X - self.mean

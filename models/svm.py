@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report, accuracy_score
@@ -81,9 +80,9 @@ if __name__ == "__main__":
 
     y_encoded = svm.label_encoder.transform(y_labels)
 
-    from pca import PCA
+    from utils.pca import PCA
 
-    pca = PCA(good_stuff=2)
+    pca = PCA(n_components=2)
     pca.fit(X_scaled)
     X_pca = pca.transform(X_scaled)
 

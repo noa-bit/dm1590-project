@@ -5,9 +5,9 @@ from sklearn.preprocessing import StandardScaler
 from utils.feature_extraction import FeatureExtractor
 from utils.feature_selection import FeatureSelector
 from utils.pca import PCA
-from utils.svm import SVM, plot_svm_boundary
-from utils.knn import KNN, plot_knn_boundary
-from utils.random_forest import RandomForest
+from models.svm import SVM
+from models.knn import KNN
+from models.random_forest import RandomForest
 from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
 
@@ -23,8 +23,8 @@ class Training():
         self.feature_extractor = feature_extractor
         self.feature_selector = feature_selector
 
-    def pca_transform(self, X, good_stuff=5):
-            pca = PCA(good_stuff)
+    def pca_transform(self, X, n_components=6):
+            pca = PCA(n_components=n_components)
             pca.fit(X)
             return pca.transform(X)
 
@@ -116,7 +116,7 @@ class Training():
 
         self.train_models(X_scaled, X_test_scaled, y_train, y_test)
 
-        pca = PCA(good_stuff=2)
+        pca = PCA(n_components=2)
         pca.fit(X_selected_scaled)
         X_pca = pca.transform(X_selected_scaled)
 

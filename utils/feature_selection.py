@@ -1,6 +1,5 @@
 # utils/feature_selection.py
 from sklearn.feature_selection import SelectKBest, f_classif
-import numpy as np
 
 class FeatureSelector:
     def select_k_best(self, X, y, k: int=15):
