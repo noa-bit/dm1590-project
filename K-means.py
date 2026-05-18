@@ -61,11 +61,11 @@ def plot_clusters(X, labels, centers=None, title="K-Means Clusters"):
 if __name__ == "__main__":
     df = pd.read_csv("features.csv").dropna()
 
-    X_df = df.drop('Label', axis=1)
+    X = df.drop('Label', axis=1)
     y = df['Label']
 
     featureSelector = FeatureSelector()
-    X_selected, selected_features, selector = featureSelector.select_k_best(X_df, y, k=15)
+    X_selected, selected_features, selector = featureSelector.select_k_best(X, y, k=15)
 
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(X_selected)
@@ -75,10 +75,10 @@ if __name__ == "__main__":
     cluster_labels = kmeans.predict(X_scaled)
 
     tsne = TSNEAnalyzer(n_components=2, standardize=False)
-    X_tsne_2d = tsne.fit_transform(X_scaled, perplexity=30)
+    X_tsne = tsne.fit_transform(X_scaled, perplexity=30)
 
     plot_clusters(
-        X_tsne_2d,
+        X_tsne,
         cluster_labels,
         centers=None, 
         title="K-Means (15 Features) visualized via t-SNE"
