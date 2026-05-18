@@ -3,6 +3,7 @@ import pandas as pd
 import json
 import numpy as np
 import csv
+import traceback
 
 #Returns a line that can be appended to a pandas dataframe
 
@@ -115,6 +116,7 @@ class FeatureExtractor():
         # Load audio
         try:
             y, sr = librosa.load(f"data/sorted/{key}/{path}")
+            print("Succeded in loading song")
 
             # FFT size
             n_fft = 256
@@ -164,9 +166,11 @@ class FeatureExtractor():
             for value in features:
                 row.append(self.__get_mean(value))
                 row.append(self.__get_std(value))
-
+            print(row)
             return row
-        except:
+        except Exception as err:
+            #print(f"Failed: {err}")
+            traceback.print_exc()
             return None
     
     def __get_mean(self, arr):
@@ -196,16 +200,16 @@ class FeatureExtractor():
 
 if __name__ =="__main__":
     test = FeatureExtractor()
-    test.read_from_file("features.csv")
-    """test.set_test_data()
-    test.set_first_n(30)
+    test.set_test_data("unclassified_sounds.json")
+    #test.read_from_file("features.csv")
+    #test.set_test_data()
+    #test.set_first_n(30)
     test.extract_all()
-    test.write_to_file()"""
+    #test.write_to_file()
 
     print(test.get_data_frame())
 
 
-    features = {}
 
 # Spectral centroid
 

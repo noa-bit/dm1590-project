@@ -25,7 +25,7 @@ os.environ["OMP_NUM_THREADS"] = "1"
 import torch
 torch.set_num_threads(1)
 
-CATEGORIES = ["kick", "snare", "hi-hat", "percussion", "undefined"]
+CATEGORIES = ["kick", "snare", "hi-hat", "percussion", "undefined", "unclassified"]
 
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 SIMILARITY_FLOOR = 0.47  # below this, the name is too ambiguous to classify
