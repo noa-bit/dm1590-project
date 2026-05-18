@@ -62,7 +62,6 @@ def plot_svm_boundary(clf, X, y, title="SVM Decision Boundary"):
         ax=ax,
     )
 
-    # FIX: safe coloring (encoded labels)
     scatter = ax.scatter(X[:, 0], X[:, 1], c=y, cmap="tab10", edgecolor="k", s=30)
 
     ax.set_title(title)

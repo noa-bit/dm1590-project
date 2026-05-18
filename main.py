@@ -3,15 +3,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from util.pca import PCA
 from util.knn import KNN, plot_knn_boundary
+from utils.feature_selection import FeatureSelector
 
-from util.dbscan import DBSCAN_Analyzer 
+from util.hdbscan import HDBSCAN_Analyzer
 from util.SVM import SVM, plot_svm_boundary
 from utils.feature_extraction import FeatureExtractor
 from sklearn.neighbors import KNeighborsClassifier
 import matplotlib.pyplot as plt
 import numpy as np
-from sklearn.preprocessing import StandardScaler
-from utils.feature_selection import FeatureSelector
 
 
 class Main():
@@ -23,82 +22,24 @@ class Main():
         df = featureExtractor.get_data_frame()
         df = df.dropna()
 
-        X = df.drop("Label", axis=1)
+        X_raw = df.drop('Label', axis=1).values
+        y_labels = df['Label'].values
+
+        x = df.drop("Label", axis=1)
         y = df["Label"]
-        y_labels = df['Label'].values
-        
+
         featureSelector = FeatureSelector()
-        X_selected, selected_features, selector = featureSelector.select_k_best(X, y, 5)
+        X_selected, selected_features, selector = featureSelector.select_k_best(x, y, k=5)
 
         scaler = StandardScaler()
-        X_selected_scaled = scaler.fit_transform(X_selected)
+        X_scaled_for_hdbscan = scaler.fit_transform(X_selected)
+        hdbscan = HDBSCAN_Analyzer(min_cluster_size=15, min_samples=5)
+        hdbscan_labels = hdbscan.fit(X_scaled_for_hdbscan)
+        clean_mask = (hdbscan_labels != -1)
 
-        pca = PCA(good_stuff=2)
-        pca.fit(X_selected_scaled)
-        x_proj = pca.transform(X_selected_scaled)
+        hdbscan.plot_clusters(X_scaled_for_hdbscan)
 
-        label_names = sorted(set(y_labels))
-        label_to_color = {label: index for index, label in enumerate(label_names)}
-        colors = [label_to_color[label] for label in y_labels]
-        scatter = plt.scatter(
-            x_proj[:, 0],
-            x_proj[:, 1],
-            alpha=0.3,
-            c=colors,
-            cmap='tab10',
-            marker='.',
-        )
-        plt.legend(
-            handles=scatter.legend_elements()[0],
-            labels=label_names,
-            title='Label',
-        )
-        plt.show()
-        return
-
-
-        y_labels = df['Label'].values
-        pca = PCA(good_stuff=2)
-        
-        pca.fit(x_scaled)
-        x_proj = pca.transform(x_scaled)
-        print(x_proj[:, 0], x_proj[:, 1])
-        plt.figure(figsize=(12, 10))
-        print("trying to plot")
-
-        plt.plot(range(1, len(pca.eigenvalues) + 1), pca.eigenvalues, marker='o', linestyle='-', color='b')
-
-        plt.show()
-
-
-        label_names = sorted(set(y_labels))
-        label_to_color = {label: index for index, label in enumerate(label_names)}
-        colors = [label_to_color[label] for label in y_labels]
-        scatter = plt.scatter(
-            x_proj[:, 0],
-            x_proj[:, 1],
-            alpha=0.3,
-            c=colors,
-            cmap='tab10',
-            marker='.',
-        )
-        plt.legend(
-            handles=scatter.legend_elements()[0],
-            labels=label_names,
-            title='Label',
-        )
-        """
-        for d in range(24):
-            x_val = pca.eigenvectors[:, :2][d, 0]
-            y_val = pca.eigenvectors[:, :2][d, 1]
-
-        scaler = StandardScaler()
-        X_scaled_for_dbscan = scaler.fit_transform(X_raw)
-        dbscan = DBSCAN_Analyzer(eps=4.0, min_samples=5)
-        dbscan_labels = dbscan.fit(X_scaled_for_dbscan)
-        clean_mask = (dbscan_labels != -1)
-
-        X_clean = X_raw[clean_mask]
+        X_clean = X_selected[clean_mask]
         y_clean = y_labels[clean_mask]
 
         le = LabelEncoder()

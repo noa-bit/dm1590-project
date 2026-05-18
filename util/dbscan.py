@@ -15,7 +15,7 @@ class DBSCAN_Analyzer:
 
     def fit(self, X):
         self.model = DBSCAN(eps=self.eps, min_samples=self.min_samples).fit(X)
-        self.labels = self.model.labels_
+        self.labels = self.model.labels_dbscan
 
         self.core_samples_mask = np.zeros_like(self.labels, dtype=bool)
         self.core_samples_mask[self.model.core_sample_indices_] = True
