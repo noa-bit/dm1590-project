@@ -25,13 +25,8 @@ class FeatureExtractor():
     #Expects a dictionary with the label as key
     # and a list of filenames with that label as objects
 
-<<<<<<< HEAD
-    def set_test_data(self, filename="drum_classes.json"):
-        with open(filename) as file:
-=======
     def set_test_data(self, path):
         with open(path) as file:
->>>>>>> origin/dev
             self.data = json.load(file)
 
     def set_first_n(self, val):
@@ -105,6 +100,7 @@ class FeatureExtractor():
                         for column_name, value in zip(self.df.keys(), row):
                             self.df[column_name].append(value)
 
+        
     
     def __extract_features(self, path, key):
         """
