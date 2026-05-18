@@ -6,7 +6,6 @@ import csv
 
 #Returns a line that can be appended to a pandas dataframe
 
-
 class MissingDataError(Exception):
     def __init__(self, message):
         self.message = message
@@ -14,10 +13,7 @@ class MissingDataError(Exception):
 
     def __str__(self):
         return f"{self.message}"
-
-
-
-
+    
 class FeatureExtractor():
 
     def __init__(self):
@@ -29,8 +25,8 @@ class FeatureExtractor():
     #Expects a dictionary with the label as key
     # and a list of filenames with that label as objects
 
-    def set_test_data(self):
-        with open("drum_classes.json") as file:
+    def set_test_data(self, path):
+        with open(path) as file:
             self.data = json.load(file)
 
     def set_first_n(self, val):
@@ -38,7 +34,6 @@ class FeatureExtractor():
 
     def set_data(self, data) -> None:
         self.data = data
-    
 
     def extract_all(self) -> None:
         """
@@ -84,7 +79,7 @@ class FeatureExtractor():
         # chroma_stft_std
         for label in feature_labels:
             self.df[f"{label}_mean"] = []
-            self.df[f"{label}_std"] = []
+            self.df[f"{label}_std"] = []   
 
         # Extract features from every file
         for key in self.data:
@@ -92,11 +87,11 @@ class FeatureExtractor():
                 
                 for index, path in enumerate(self.data[key]):
                     print(f"key: {key}, index: {index}\n")
-                    if self.first_n:
+
+                    if not (self.first_n == None):
 
                         if index >= self.first_n:
                             break
-
                     row = self.__extract_features(path, key)
                     if row:
                         # Append each value in the row to the matching key
@@ -185,11 +180,16 @@ class FeatureExtractor():
     def get_data_frame(self) -> pd.DataFrame:
         return pd.DataFrame.from_dict(self.df)
     
-    def write_to_file(self) -> None:
-        with open("features.csv", "w") as csvfile:
-            csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
+    def write_to_file(self, path) -> None:
+
+        if path:
+            with open(f"{path}", "w") as csvfile:
+                csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
+        else:
+            with open("features.csv", "w") as csvfile:
+                csvfile.write(pd.DataFrame.from_dict(self.df).to_csv(sep=","))
  
-    def read_from_file(self, path):
+    def read_from_file(self, path) -> pd.DataFrame:
         self.df = pd.read_csv(path, sep=",")
         self.df = self.df.iloc[:, 1:]
 
