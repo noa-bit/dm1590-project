@@ -12,6 +12,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from utils.feature_selection import FeatureSelector
+from sklearn.model_selection import train_test_split
+from utils.tSNE import tSNE
 
 
 class Main():
@@ -22,20 +24,35 @@ class Main():
         featureExtractor.read_from_file("features.csv")
         df = featureExtractor.get_data_frame()
         df = df.dropna()
-
+       
         X = df.drop("Label", axis=1)
         y = df["Label"]
         y_labels = df['Label'].values
-        
-        featureSelector = FeatureSelector()
-        X_selected, selected_features, selector = featureSelector.select_k_best(X, y, 5)
 
         scaler = StandardScaler()
-        X_selected_scaled = scaler.fit_transform(X_selected)
+        X_scaled = pd.DataFrame(
+            scaler.fit_transform(X),
+            columns=X.columns,
+            index=X.index,
+        )
+
+        x_train, x_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.3)
+        
+        featureSelector = FeatureSelector()
+        tsne = tSNE()
+
+        
+        X_selected, selected_features, selector = featureSelector.select_k_best(x_train, y_train, 15)
+        print(selected_features)
+        search_result = tsne.find_optimal_perplexity(X_selected, plot=True)
+        embedding = tsne.fit_transform(X_selected, search_result.best_perplexity)
+        tsne.plot_embedding(embedding, y_train)
+       
+        
 
         pca = PCA()
-        pca.fit(X_selected_scaled)
-        x_proj = pca.transform(X_selected_scaled)
+        pca.fit(X_selected)
+        x_proj = pca.transform(X_selected)
 
         label_names = sorted(set(y_labels))
         label_to_color = {label: index for index, label in enumerate(label_names)}
