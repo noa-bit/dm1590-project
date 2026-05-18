@@ -13,14 +13,23 @@ def find_audio_files(directory):
             if os.path.splitext(fname)[1].lower() in AUDIO_EXTENSIONS:
                 yield os.path.join(root, fname)
 
+def normalize_audio(audio, eps=1e-8):
+    peak = np.max(np.abs(audio))
+    if peak < eps:
+        return audio
+    return audio / peak
+
 def standardize(src_path, output_dir, src_root):
     rel_path = os.path.relpath(src_path, src_root)
     out_path = os.path.join(output_dir, os.path.splitext(rel_path)[0] + ".wav")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
     audio, _ = librosa.load(src_path, sr=TARGET_SAMPLERATE, mono=True)
-    audio_int16 = np.clip(audio, -1.0, 1.0)
-    soundfile.write(out_path, audio_int16, TARGET_SAMPLERATE, subtype=TARGET_SUBTYPE)
+
+    # Normalize to full scale (-1 to 1)
+    audio = normalize_audio(audio)
+
+    soundfile.write(out_path, audio, TARGET_SAMPLERATE, subtype=TARGET_SUBTYPE)
     return out_path
 
 def main():
