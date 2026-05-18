@@ -34,7 +34,8 @@ class HDBSCAN_Analyzer:
 
         for k, col in zip(unique_labels, colors):
             if k == -1:
-                col = [0, 0, 0, 1] 
+                # col = [0, 0, 0, 1] 
+                continue
 
             class_member_mask = (self.labels == k)
 

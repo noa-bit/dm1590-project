@@ -22,31 +22,25 @@ class Main():
         df = featureExtractor.get_data_frame()
         df = df.dropna()
 
-        X_raw = df.drop('Label', axis=1).values
-        y_labels = df['Label'].values
-
         x = df.drop("Label", axis=1)
         y = df["Label"]
 
         featureSelector = FeatureSelector()
-        X_selected, selected_features, selector = featureSelector.select_k_best(x, y, k=5)
+        X_selected, selected_features, selector = featureSelector.select_k_best(x, y, k=15)
 
         scaler = StandardScaler()
         X_scaled_for_hdbscan = scaler.fit_transform(X_selected)
-        hdbscan = HDBSCAN_Analyzer(min_cluster_size=15, min_samples=5)
-        hdbscan_labels = hdbscan.fit(X_scaled_for_hdbscan)
-        clean_mask = (hdbscan_labels != -1)
 
-        hdbscan.plot_clusters(X_scaled_for_hdbscan)
+        # clean_mask = (hdbscan_labels != -1)
 
-        X_clean = X_selected[clean_mask]
-        y_clean = y_labels[clean_mask]
+        # X_clean = X_selected[clean_mask]
+        # y_clean = y_labels[clean_mask]
 
         le = LabelEncoder()
-        y_encoded = le.fit_transform(y_clean)
+        y_encoded = le.fit_transform(y)
 
         X_train, X_test, y_train, y_test = train_test_split(
-            X_clean, y_encoded, test_size=0.3, random_state=42, stratify=y_encoded
+            X_selected, y_encoded, test_size=0.3, random_state=42, stratify=y_encoded
 )       
         acc_train = []
         acc_test = []
@@ -86,19 +80,19 @@ class Main():
         svm = SVM()
         svm.svm_training(X_train_pca, X_test_pca, y_train, y_test)
 
-        plot_knn_boundary(
+        """plot_knn_boundary(
             knn_visualization.model, 
             X_train_pca, 
             y_train, 
             title=f"KNN (k={knn_visualization.n_neighbors}) Decision Boundaries"
-        )
+        )"""
 
-        plot_svm_boundary(
+        """plot_svm_boundary(
             svm.model, 
             X_train_pca, 
             y_train, 
             title=f"SVM Decision Boundaries (PCA Space)\nLabels: {list(le.classes_)}"
-        )
+        )"""
         
 
 if __name__ == "__main__":
