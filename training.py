@@ -53,11 +53,22 @@ class Training():
     def get_trained_models(self):
         return self.kNN, self.SVM, self.RF
 
+    def features_file_has_rows(self, path: str = "features.csv") -> bool:
+        if not os.path.exists(path):
+            return False
+
+        try:
+            return not pd.read_csv(path).empty
+        except pd.errors.EmptyDataError:
+            return False
+
     def run(self) -> None:
         print("started")
 
         # **Preprocessing / Pretraining**
-        if not os.path.exists("features.csv"):
+        features_ready = self.features_file_has_rows()
+
+        if not features_ready:
                 
             # Standardize audio files
             src_dir = os.path.join("data", "drums")
@@ -65,38 +76,42 @@ class Training():
 
             audio_files = list(find_audio_files(src_dir))
             print(f"Found {len(audio_files)} audio files in '{src_dir}'")
+            processed_files = []
 
             for i, src_path in enumerate(audio_files, 1):
                 try:
                     out_path = standardize(src_path, out_dir, src_dir)
+                    processed_files.append(out_path)
                     print(f"[{i}/{len(audio_files)}] {src_path} -> {out_path}")
                 except Exception as e:
                     print(f"[{i}/{len(audio_files)}] SKIP {src_path}: {e}")
+
+            with open("file_registry.txt", "w", encoding="utf-8") as file:
+                for processed_path in processed_files:
+                    file.write(f"{processed_path}\n")
 
             print("Done.")
 
             if not os.path.exists("drum_classes.json"):
                 print("drum_classes.json not found. Creating it instead...")
-                file_names = []
-                with open("file_registry.txt") as file:
+                file_paths = []
+                with open("file_registry.txt", encoding="utf-8") as file:
                     for line in file.readlines():
-                        file_names.append(line.strip())
+                        file_paths.append(line.strip())
 
-                for line in file_names:
-                    line = line.replace("\n", "")
-                print(file_names)
-                results = classify_samples(file_names, verbose=False)
+                print(file_paths)
+                results = classify_samples(file_paths, verbose=False)
 
                 save_filenames_json(results)
 
         # Feature extraction
-        featureExtractor = FeatureExtractor()
+        featureExtractor = self.feature_extractor
 
-        if os.path.exists("features.csv"):
+        if features_ready:
             featureExtractor.read_from_file("features.csv")
         else:
-            # run feature extraction if file not found or any other error occurs
-            print("features.csv not found. Running feature extraction.")
+            # Run feature extraction if the file is missing or has no rows yet.
+            print("features.csv missing or empty. Running feature extraction.")
             try:
                 featureExtractor.set_test_data("drum_classes.json")
                 featureExtractor.extract_all()
@@ -138,7 +153,16 @@ class Training():
 
 
 if __name__ == "__main__":
-    training = Training(KNN(), SVM(), RandomForest(), FeatureExtractor(), FeatureSelector())
+    training = Training(
+        KNN(),
+        SVM(),
+        RandomForest(),
+        FeatureExtractor(),
+        FeatureSelector(),
+        StandardScaler(),
+        PCA(good_stuff=6),
+        LabelEncoder(),
+    )
     training.run()
 
 # **TRAINING.PY**

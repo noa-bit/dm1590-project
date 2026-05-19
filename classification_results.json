@@ -1,21 +1,21 @@
 [
   {
     "filename": "Above and BeyondHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Above and BeyondKICK.wav",
-    "predicted_label": "snare",
+    "predicted_label": "kick",
     "expected_label_from_filename": "kick",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Above and BeyondSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "snare",
     "expected_label_from_filename": "snare",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Abstract ThoughtHI-HAT.wav",
@@ -25,13 +25,13 @@
   },
   {
     "filename": "Abstract ThoughtKICK.wav",
-    "predicted_label": "snare",
+    "predicted_label": "kick",
     "expected_label_from_filename": "kick",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Abstract ThoughtSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "snare",
     "correct": false
   },
@@ -55,9 +55,9 @@
   },
   {
     "filename": "AtlantaHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "AtlantaKICK.wav",
@@ -73,9 +73,9 @@
   },
   {
     "filename": "Cinematic FunkHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Cinematic FunkKICK.wav",
@@ -85,15 +85,15 @@
   },
   {
     "filename": "Cinematic FunkSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "snare",
     "correct": false
   },
   {
     "filename": "CR-78 Made IconicHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "CR-78 Made IconicKICK.wav",
@@ -103,33 +103,33 @@
   },
   {
     "filename": "CR-78 Made IconicSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "snare",
     "correct": false
   },
   {
     "filename": "Cream SodaHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
-  },
-  {
-    "filename": "Cream SodaKICK.wav",
-    "predicted_label": "snare",
-    "expected_label_from_filename": "kick",
-    "correct": false
-  },
-  {
-    "filename": "Cream SodaSNARE.wav",
-    "predicted_label": "snare",
-    "expected_label_from_filename": "snare",
     "correct": true
   },
   {
-    "filename": "Dark MagicHI-HAT.wav",
+    "filename": "Cream SodaKICK.wav",
     "predicted_label": "kick",
-    "expected_label_from_filename": "hi-hat",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Cream SodaSNARE.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "snare",
     "correct": false
+  },
+  {
+    "filename": "Dark MagicHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
   },
   {
     "filename": "Dark MagicKICK.wav",
@@ -139,15 +139,15 @@
   },
   {
     "filename": "Dark MagicSNARE.wav",
-    "predicted_label": "snare",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "snare",
-    "correct": true
+    "correct": false
   },
   {
     "filename": "Deep EndHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Deep EndKICK.wav",
@@ -157,15 +157,15 @@
   },
   {
     "filename": "Deep EndSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "snare",
     "correct": false
   },
   {
     "filename": "Dust BowlHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Dust BowlKICK.wav",
@@ -175,15 +175,15 @@
   },
   {
     "filename": "Dust BowlSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "snare",
     "expected_label_from_filename": "snare",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Future FlexHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Future FlexKICK.wav",
@@ -199,9 +199,9 @@
   },
   {
     "filename": "HaciendaHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "HaciendaKICK.wav",
@@ -217,15 +217,15 @@
   },
   {
     "filename": "Hard KnockingHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Hard KnockingKICK.wav",
-    "predicted_label": "kick",
+    "predicted_label": "snare",
     "expected_label_from_filename": "kick",
-    "correct": true
+    "correct": false
   },
   {
     "filename": "Hard KnockingSNARE.wav",
@@ -241,7 +241,7 @@
   },
   {
     "filename": "Hollywood HazeKICK.wav",
-    "predicted_label": "snare",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "kick",
     "correct": false
   },
@@ -253,9 +253,9 @@
   },
   {
     "filename": "Lo-Fi FunkHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Lo-Fi FunkKICK.wav",
@@ -271,9 +271,9 @@
   },
   {
     "filename": "Modern DiscoHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Modern DiscoKICK.wav",
@@ -289,9 +289,9 @@
   },
   {
     "filename": "Pawn Shop 808HI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Pawn Shop 808KICK.wav",
@@ -301,15 +301,15 @@
   },
   {
     "filename": "Pawn Shop 808SNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "snare",
     "correct": false
   },
   {
     "filename": "PrismaticaHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "PrismaticaKICK.wav",
@@ -325,9 +325,9 @@
   },
   {
     "filename": "Retro BoxHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Retro BoxKICK.wav",
@@ -343,21 +343,21 @@
   },
   {
     "filename": "Rough RiddimHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Rough RiddimKICK.wav",
-    "predicted_label": "snare",
+    "predicted_label": "kick",
     "expected_label_from_filename": "kick",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Rough RiddimSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "snare",
     "expected_label_from_filename": "snare",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "SilverlakeHI-HAT.wav",
@@ -379,9 +379,9 @@
   },
   {
     "filename": "Super SolidHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Super SolidKICK.wav",
@@ -391,15 +391,15 @@
   },
   {
     "filename": "Super SolidSNARE.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "snare",
     "correct": false
   },
   {
     "filename": "Swirls of SmokeHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Swirls of SmokeKICK.wav",
@@ -415,9 +415,9 @@
   },
   {
     "filename": "Two Ton PopHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Two Ton PopKICK.wav",
@@ -451,9 +451,9 @@
   },
   {
     "filename": "Warm BreezeHI-HAT.wav",
-    "predicted_label": "kick",
+    "predicted_label": "hi-hat",
     "expected_label_from_filename": "hi-hat",
-    "correct": false
+    "correct": true
   },
   {
     "filename": "Warm BreezeKICK.wav",
@@ -463,8 +463,8 @@
   },
   {
     "filename": "Warm BreezeSNARE.wav",
-    "predicted_label": "snare",
+    "predicted_label": "kick",
     "expected_label_from_filename": "snare",
-    "correct": true
+    "correct": false
   }
 ]

@@ -94,7 +94,7 @@ class Main():
             else:
                 # If all three models disagree, there is no majority.
                 # Keep SVM as the tie-breaker for now, matching the old behavior.
-                majority_result = res_svm
+                majority_result = res_rf
             majority_result = res_rf
 
             decoded_result = LE.inverse_transform([majority_result])[0]

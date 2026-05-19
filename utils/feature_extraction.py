@@ -4,6 +4,7 @@ import json
 import numpy as np
 import csv
 import traceback
+from pathlib import Path
 
 #Returns a line that can be appended to a pandas dataframe
 
@@ -23,8 +24,10 @@ class FeatureExtractor():
         self.df = {}
         pass
 
-    #Expects a dictionary with the label as key
-    # and a list of filenames with that label as objects
+    # Expects a dictionary with the label as key and a list of audio references
+    # as values. Each audio reference may be either:
+    # - a direct path to an audio file, or
+    # - a legacy filename stored under data/sorted/<label>/
 
     def set_test_data(self, path):
         with open(path) as file:
@@ -115,7 +118,7 @@ class FeatureExtractor():
 
         # Load audio
         try:
-            y, sr = librosa.load(f"data/sorted/{key}/{path}")
+            y, sr = librosa.load(self.__resolve_audio_path(path, key))
             print("Succeded in loading song")
 
             # FFT size
@@ -179,6 +182,19 @@ class FeatureExtractor():
 
     def __get_std(self, arr):
         return np.asarray(arr).std()
+
+    def __resolve_audio_path(self, path: str, key: str) -> str:
+        direct_path = Path(path)
+        if direct_path.is_file():
+            return str(direct_path)
+
+        legacy_path = Path("data") / "sorted" / key / path
+        if legacy_path.is_file():
+            return str(legacy_path)
+
+        raise FileNotFoundError(
+            f"Could not find audio file '{path}' directly or under '{legacy_path}'."
+        )
 
     #returns a pandas dataframe with all the data
     def get_data_frame(self) -> pd.DataFrame:
