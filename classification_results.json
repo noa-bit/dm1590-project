@@ -1,0 +1,470 @@
+[
+  {
+    "filename": "Above and BeyondHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Above and BeyondKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Above and BeyondSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Abstract ThoughtHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Abstract ThoughtKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Abstract ThoughtSNARE.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "Analog CircuitsHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Analog CircuitsKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Analog CircuitsSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "AtlantaHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "AtlantaKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "AtlantaSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Cinematic FunkHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Cinematic FunkKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Cinematic FunkSNARE.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "CR-78 Made IconicHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "CR-78 Made IconicKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "CR-78 Made IconicSNARE.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "Cream SodaHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Cream SodaKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Cream SodaSNARE.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "Dark MagicHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Dark MagicKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Dark MagicSNARE.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "Deep EndHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Deep EndKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Deep EndSNARE.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "Dust BowlHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Dust BowlKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Dust BowlSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Future FlexHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Future FlexKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Future FlexSNARE.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "HaciendaHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "HaciendaKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "HaciendaSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Hard KnockingHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Hard KnockingKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Hard KnockingSNARE.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "Hollywood HazeHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Hollywood HazeKICK.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Hollywood HazeSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Lo-Fi FunkHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Lo-Fi FunkKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Lo-Fi FunkSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Modern DiscoHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Modern DiscoKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Modern DiscoSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Pawn Shop 808HI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Pawn Shop 808KICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Pawn Shop 808SNARE.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "PrismaticaHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "PrismaticaKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "PrismaticaSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Retro BoxHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Retro BoxKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Retro BoxSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Rough RiddimHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Rough RiddimKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Rough RiddimSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "SilverlakeHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "SilverlakeKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "SilverlakeSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Super SolidHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Super SolidKICK.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "kick",
+    "correct": true
+  },
+  {
+    "filename": "Super SolidSNARE.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  },
+  {
+    "filename": "Swirls of SmokeHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Swirls of SmokeKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Swirls of SmokeSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Two Ton PopHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Two Ton PopKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Two Ton PopSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Vintage CinemaHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Vintage CinemaKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Vintage CinemaSNARE.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "snare",
+    "correct": true
+  },
+  {
+    "filename": "Warm BreezeHI-HAT.wav",
+    "predicted_label": "hi-hat",
+    "expected_label_from_filename": "hi-hat",
+    "correct": true
+  },
+  {
+    "filename": "Warm BreezeKICK.wav",
+    "predicted_label": "snare",
+    "expected_label_from_filename": "kick",
+    "correct": false
+  },
+  {
+    "filename": "Warm BreezeSNARE.wav",
+    "predicted_label": "kick",
+    "expected_label_from_filename": "snare",
+    "correct": false
+  }
+]
